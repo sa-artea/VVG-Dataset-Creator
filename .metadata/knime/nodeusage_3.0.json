@@ -1,0 +1,87 @@
+
+{
+    "version": "4.3.1.v202101261633",
+    "created": "2021-02-08 14:26",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory#CSV Reader",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 501,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter",
+                "nrexecs": 10,
+                "nrfails": 0,
+                "exectime": 13,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 19,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.constvalcol.ConstantValueColumnFilterNodeFactory#Constant Value Column Filter",
+                "nrexecs": 5,
+                "nrfails": 0,
+                "exectime": 37,
+                "nrcreated": 0,
+                "successor": "org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeFactory#CSV Writer"
+            },
+            {
+                "id": "org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeFactory#CSV Writer",
+                "nrexecs": 6,
+                "nrfails": 6,
+                "exectime": 925,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.json.node.totable.JSONToTableNodeFactory#JSON to Table",
+                "nrexecs": 4,
+                "nrfails": 0,
+                "exectime": 3409,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.pmml.missingval.compute.MissingValueHandlerNodeFactory#Missing Value",
+                "nrexecs": 4,
+                "nrfails": 0,
+                "exectime": 435,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.joiner.Joiner2NodeFactory#Joiner",
+                "nrexecs": 4,
+                "nrfails": 0,
+                "exectime": 123,
+                "nrcreated": 0,
+                "successor": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        }
+    },
+    "uptime": 1085373,
+    "workflowsOpened": 4,
+    "remoteWorkflowsOpened": 0,
+    "workflowsImported": 1,
+    "workflowsExported": 0,
+    "launches": 2,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 61967,
+    "crashes": 0,
+    "properlyShutDown": false
+}
