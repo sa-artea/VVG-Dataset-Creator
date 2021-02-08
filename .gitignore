@@ -137,6 +137,25 @@ dmypy.json
 #Python Cache
 #Data
 # *.csv
-# !Data/GoodReads/books.csv
-# !Data/GoodReads/book_reviews.csv
-.vscode/settings.json
+
+## KNIME files
+.knimeLock
+.project
+.savedWithData
+workflowset.meta
+
+## KNIME directories containing node data
+internal/
+port_*/
+.metadata/
+internalTables/
+
+# Packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
