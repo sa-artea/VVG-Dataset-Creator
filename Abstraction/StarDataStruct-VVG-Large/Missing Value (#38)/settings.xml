@@ -83,7 +83,7 @@
 <entry key="text" type="xstring" value="Fixing missing%%00013%%00010values"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
 <entry key="x-coordinate" type="xint" value="847"/>
-<entry key="y-coordinate" type="xint" value="199"/>
+<entry key="y-coordinate" type="xint" value="139"/>
 <entry key="width" type="xint" value="106"/>
 <entry key="height" type="xint" value="30"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
@@ -129,6 +129,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="bbdb6ab3-5f86-49cf-b3c8-82fd356bde4e"/>
+<entry key="file_store_id" type="xstring" value="77891ea2-4d44-4fdb-92d4-5b2235bd1787"/>
 </config>
 </config>

@@ -19,7 +19,7 @@
 <entry key="text" type="xstring" value="Create Desc Table"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
 <entry key="x-coordinate" type="xint" value="587"/>
-<entry key="y-coordinate" type="xint" value="199"/>
+<entry key="y-coordinate" type="xint" value="139"/>
 <entry key="width" type="xint" value="106"/>
 <entry key="height" type="xint" value="15"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
@@ -65,6 +65,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="e8da769c-f723-497d-b8b0-f71ef61725b0"/>
+<entry key="file_store_id" type="xstring" value="63e54d5c-1d80-4ca4-a1ef-10159da71641"/>
 </config>
 </config>

@@ -85,9 +85,9 @@
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="BackUp Description%%00013%%00010Collection"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="1203"/>
+<entry key="x-coordinate" type="xint" value="1206"/>
 <entry key="y-coordinate" type="xint" value="-21"/>
-<entry key="width" type="xint" value="114"/>
+<entry key="width" type="xint" value="109"/>
 <entry key="height" type="xint" value="30"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
@@ -128,6 +128,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="b2da28ba-ebdd-463e-9e09-b64da29db619"/>
+<entry key="file_store_id" type="xstring" value="4239ca56-4c8f-4d56-b9b6-2ee336d8d06b"/>
 </config>
 </config>
