@@ -143,6 +143,7 @@ dmypy.json
 .project
 .savedWithData
 workflowset.meta
+Example Workflows/
 
 ## KNIME directories containing node data
 internal/
