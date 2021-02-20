@@ -110,7 +110,7 @@
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum Amsterdam Vincent van Gogh Foundation gift of Paul Gachet jr"/>
+<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum Amsterdam Vincent van Gogh Foundation gift from Paul Gachet jr"/>
 </config>
 </config>
 <config key="5">
@@ -128,7 +128,7 @@
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum AmsterdamDrents Museum Assen purchased with support from the BankGiro Loterij Mondriaan Fund Rembrandt Association with the additional support of her Themafonds ImpressionismeClaude Monet Fonds her Hendrickje Fonds and the Prins Bernhard Cultuurfonds Vincent van Gogh Stichting Province of Drenthe Stichting Beringer Hazewinkel Stichting Steunfonds Drents Museum and Stichting Vrienden van het Drents Museum"/>
+<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum Amsterdam Drents Museum Assen purchased with support from the BankGiro Loterij Mondriaan Fund Rembrandt Association with the additional support from her Themafonds ImpressionismeClaude Monet Fonds her Hendrickje Fonds and the Prins Bernhard Cultuurfonds Vincent van Gogh Stichting Province of Drenthe Stichting Beringer Hazewinkel Stichting Steunfonds Drents Museum and Stichting Vrienden van het Drents Museum"/>
 </config>
 </config>
 <config key="8">
@@ -152,7 +152,7 @@
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Credits Van Gogh Museum Amsterdam gift of A Cohen TervaertHenny"/>
+<entry key="StringCell" type="xstring" value="Credits Van Gogh Museum Amsterdam gift from A Cohen TervaertHenny"/>
 </config>
 </config>
 <config key="12">

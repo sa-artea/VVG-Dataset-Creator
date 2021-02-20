@@ -9,12 +9,22 @@
 <config key="column-filter">
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
-<entry key="array-size" type="xint" value="5"/>
+<entry key="array-size" type="xint" value="15"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="creator-info"/>
 <entry key="3" type="xstring" value="details"/>
 <entry key="4" type="xstring" value="credit"/>
+<entry key="5" type="xstring" value="section"/>
+<entry key="6" type="xstring" value="complementary colours"/>
+<entry key="7" type="xstring" value="this torso of Venus"/>
+<entry key="8" type="xstring" value="drew"/>
+<entry key="9" type="xstring" value="Van Gogh wrote"/>
+<entry key="10" type="xstring" value="standing torso of Venus"/>
+<entry key="11" type="xstring" value="he wrote"/>
+<entry key="12" type="xstring" value="The Potato Eaters"/>
+<entry key="13" type="xstring" value="which he painted a number of times"/>
+<entry key="14" type="xstring" value="He would use this technique more than once in his later work"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="1"/>
@@ -73,12 +83,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 5"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 15"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="aca67882-fb48-4d4a-af8d-3f94fc0dfc43"/>
+<entry key="file_store_id" type="xstring" value="0db86f17-340a-47fe-9d58-6551a6ac279b"/>
 </config>
 </config>

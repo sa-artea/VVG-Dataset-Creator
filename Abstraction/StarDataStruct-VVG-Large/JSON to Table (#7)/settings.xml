@@ -9,7 +9,7 @@
 <entry key="input.column" type="xstring" value="DESCRIPTION"/>
 <entry key="column.name.strategy" type="xstring" value="UniquifiedLeafNames"/>
 <entry key="column.segment.separator" type="xstring" value="."/>
-<entry key="expansion" type="xstring" value="OnlyLeaves"/>
+<entry key="expansion" type="xstring" value="OnlyUpTo"/>
 <entry key="up.to.n.levels" type="xint" value="1"/>
 <entry key="array.handling" type="xstring" value="KeepAllArrayAsJsonArray"/>
 <entry key="removeSourceColumn" type="xboolean" value="true"/>
@@ -65,6 +65,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="bac56764-e91b-46df-b271-4ad9c15247f5"/>
+<entry key="file_store_id" type="xstring" value="5f001da7-258c-4be5-b80a-85af64f96a35"/>
 </config>
 </config>

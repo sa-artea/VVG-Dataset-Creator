@@ -8,7 +8,7 @@
 <entry key="authored-by" type="xstring" value="Felipe"/>
 <entry key="authored-when" type="xstring" value="2021-02-06 22:58:21 -0500"/>
 <entry key="lastEdited-by" type="xstring" value="Felipe"/>
-<entry key="lastEdited-when" type="xstring" value="2021-02-09 07:48:47 -0500"/>
+<entry key="lastEdited-when" type="xstring" value="2021-02-20 14:06:48 -0500"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -247,7 +247,7 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="1184"/>
+<entry key="0" type="xint" value="1244"/>
 <entry key="1" type="xint" value="297"/>
 <entry key="2" type="xint" value="69"/>
 <entry key="3" type="xint" value="78"/>
@@ -375,7 +375,7 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="1184"/>
+<entry key="0" type="xint" value="1244"/>
 <entry key="1" type="xint" value="157"/>
 <entry key="2" type="xint" value="50"/>
 <entry key="3" type="xint" value="78"/>
@@ -439,7 +439,7 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="884"/>
+<entry key="0" type="xint" value="964"/>
 <entry key="1" type="xint" value="237"/>
 <entry key="2" type="xint" value="85"/>
 <entry key="3" type="xint" value="78"/>
@@ -487,7 +487,7 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="1024"/>
+<entry key="0" type="xint" value="1104"/>
 <entry key="1" type="xint" value="237"/>
 <entry key="2" type="xint" value="93"/>
 <entry key="3" type="xint" value="93"/>
@@ -663,9 +663,25 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="1404"/>
+<entry key="0" type="xint" value="1384"/>
 <entry key="1" type="xint" value="637"/>
 <entry key="2" type="xint" value="69"/>
+<entry key="3" type="xint" value="78"/>
+</config>
+</config>
+</config>
+<config key="node_52">
+<entry key="id" type="xint" value="52"/>
+<entry key="node_settings_file" type="xstring" value="Column Rename (#52)/settings.xml"/>
+<entry key="node_is_meta" type="xboolean" value="false"/>
+<entry key="node_type" type="xstring" value="NativeNode"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+<config key="ui_settings">
+<config key="extrainfo.node.bounds">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="865"/>
+<entry key="1" type="xint" value="237"/>
+<entry key="2" type="xint" value="102"/>
 <entry key="3" type="xint" value="78"/>
 </config>
 </config>
@@ -724,7 +740,7 @@
 </config>
 <config key="connection_5">
 <entry key="sourceID" type="xint" value="11"/>
-<entry key="destID" type="xint" value="37"/>
+<entry key="destID" type="xint" value="52"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -1105,6 +1121,16 @@
 <config key="connection_43">
 <entry key="sourceID" type="xint" value="44"/>
 <entry key="destID" type="xint" value="42"/>
+<entry key="sourcePort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="1"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
+<config key="ui_settings">
+<entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
+</config>
+</config>
+<config key="connection_44">
+<entry key="sourceID" type="xint" value="52"/>
+<entry key="destID" type="xint" value="37"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>

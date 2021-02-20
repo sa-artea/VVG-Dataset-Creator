@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="28"/>
+<entry key="number_columns" type="xint" value="40"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -76,7 +76,7 @@
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum Amsterdam Vincent van Gogh Foundation gift of Paul Gachet jr"/>
+<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum Amsterdam Vincent van Gogh Foundation gift from Paul Gachet jr"/>
 </config>
 </config>
 <config key="5">
@@ -94,7 +94,7 @@
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum AmsterdamDrents Museum Assen purchased with support from the BankGiro Loterij Mondriaan Fund Rembrandt Association with the additional support of her Themafonds ImpressionismeClaude Monet Fonds her Hendrickje Fonds and the Prins Bernhard Cultuurfonds Vincent van Gogh Stichting Province of Drenthe Stichting Beringer Hazewinkel Stichting Steunfonds Drents Museum and Stichting Vrienden van het Drents Museum"/>
+<entry key="StringCell" type="xstring" value="Credits obliged to state Van Gogh Museum Amsterdam Drents Museum Assen purchased with support from the BankGiro Loterij Mondriaan Fund Rembrandt Association with the additional support from her Themafonds ImpressionismeClaude Monet Fonds her Hendrickje Fonds and the Prins Bernhard Cultuurfonds Vincent van Gogh Stichting Province of Drenthe Stichting Beringer Hazewinkel Stichting Steunfonds Drents Museum and Stichting Vrienden van het Drents Museum"/>
 </config>
 </config>
 <config key="8">
@@ -118,7 +118,7 @@
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Credits Van Gogh Museum Amsterdam gift of A Cohen TervaertHenny"/>
+<entry key="StringCell" type="xstring" value="Credits Van Gogh Museum Amsterdam gift from A Cohen TervaertHenny"/>
 </config>
 </config>
 <config key="12">
@@ -133,7 +133,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_4">
-<entry key="column_name" type="xstring" value="Object number"/>
+<entry key="column_name" type="xstring" value="section"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -145,6 +145,426 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_5">
+<entry key="column_name" type="xstring" value="he wrote"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="21"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://www.vangoghletters.org/vg/letters/let740/letter.html"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let639/letter.html"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let419/letter.html"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let591/letter.html"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://www.vangoghletters.org/vg/letters/let593/letter.html"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://www.vangoghletters.org/vg/letters/let790/letter.html"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let691/letter.html"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://www.vangoghletters.org/vg/letters/let822/letter.html"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let790/letter.html"/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://www.vangoghletters.org/vg/letters/let506/letter.html"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let172/letter.html"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://www.vangoghletters.org/vg/letters/let478/letter.html"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let493/letter.html"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let902/letter.html"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let723/letter.html"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let582/letter.html"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let805/letter.html"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://www.vangoghletters.org/vg/letters/let207/letter.html"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let700/letter.html"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let776/letter.html"/>
+</config>
+</config>
+<config key="20">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_6">
+<entry key="column_name" type="xstring" value="Van Gogh wrote"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="4"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let286/letter.html"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let546/letter.html"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="http://vangoghletters.org/vg/letters/let801/letter.html"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_7">
+<entry key="column_name" type="xstring" value="complementary colours"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="3"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/stories/looking-for-contrast#3"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/stories/looking-for-contrast"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_8">
+<entry key="column_name" type="xstring" value="The Potato Eaters"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/collection/s0005V1962"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_9">
+<entry key="column_name" type="xstring" value="this torso of Venus"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/collection/s0199V1962"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_10">
+<entry key="column_name" type="xstring" value="drew"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/collection/d0024V1962"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_11">
+<entry key="column_name" type="xstring" value="standing torso of Venus"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/collection/s0201V1962"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_12">
+<entry key="column_name" type="xstring" value="which he painted a number of times"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/collection/s0089V1962"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_13">
+<entry key="column_name" type="xstring" value="He would use this technique more than once in his later work"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://www.vangoghmuseum.nl/en/collection/s0032V1962"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="localhost"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_14">
+<entry key="column_name" type="xstring" value="F-number"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_15">
+<entry key="column_name" type="xstring" value="JH-number"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_16">
+<entry key="column_name" type="xstring" value="Object number"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_17">
 <entry key="column_name" type="xstring" value="Dimensions"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -156,7 +576,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_6">
+<config key="column_spec_18">
 <entry key="column_name" type="xstring" value="Provenance"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -168,7 +588,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_7">
+<config key="column_spec_19">
 <entry key="column_name" type="xstring" value="artist"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -196,7 +616,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_8">
+<config key="column_spec_20">
 <entry key="column_name" type="xstring" value="Head of a Woman"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -236,7 +656,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_9">
+<config key="column_spec_21">
 <entry key="column_name" type="xstring" value="Head of a Man"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -264,7 +684,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_10">
+<config key="column_spec_22">
 <entry key="column_name" type="xstring" value="Head of a Woman 1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -298,7 +718,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_11">
+<config key="column_spec_23">
 <entry key="column_name" type="xstring" value="Head of a Woman 2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -332,7 +752,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_12">
+<config key="column_spec_24">
 <entry key="column_name" type="xstring" value="Head of a Woman 3"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -366,7 +786,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_13">
+<config key="column_spec_25">
 <entry key="column_name" type="xstring" value="Torso of Venus"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -406,7 +826,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_14">
+<config key="column_spec_26">
 <entry key="column_name" type="xstring" value="Horse"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -434,7 +854,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_15">
+<config key="column_spec_27">
 <entry key="column_name" type="xstring" value="Torso of Venus 1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -474,7 +894,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_16">
+<config key="column_spec_28">
 <entry key="column_name" type="xstring" value="Male Torso"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -502,7 +922,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_17">
+<config key="column_spec_29">
 <entry key="column_name" type="xstring" value="Kneeling Ecorche"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -530,7 +950,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_18">
+<config key="column_spec_30">
 <entry key="column_name" type="xstring" value="Torso of Venus 2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -570,7 +990,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_19">
+<config key="column_spec_31">
 <entry key="column_name" type="xstring" value="Portrait of a Prostitute"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -598,7 +1018,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_20">
+<config key="column_spec_32">
 <entry key="column_name" type="xstring" value="Head of an Old Man"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -626,7 +1046,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_21">
+<config key="column_spec_33">
 <entry key="column_name" type="xstring" value="Head of a Woman 4"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -654,7 +1074,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_22">
+<config key="column_spec_34">
 <entry key="column_name" type="xstring" value="Plaster Cast of a Womans Torso"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -688,7 +1108,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_23">
+<config key="column_spec_35">
 <entry key="column_name" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -722,7 +1142,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_24">
+<config key="column_spec_36">
 <entry key="column_name" type="xstring" value="Torso of Venus 3"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -750,7 +1170,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_25">
+<config key="column_spec_37">
 <entry key="column_name" type="xstring" value="Woman Sewing"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -778,7 +1198,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_26">
+<config key="column_spec_38">
 <entry key="column_name" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -806,7 +1226,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_27">
+<config key="column_spec_39">
 <entry key="column_name" type="xstring" value="Head of a Prostitute"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>

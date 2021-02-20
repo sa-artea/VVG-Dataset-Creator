@@ -9,10 +9,10 @@
 <config key="rowFilter">
 <entry key="RowFilter_TypeID" type="xstring" value="StringComp_RowFilter"/>
 <entry key="ColumnName" type="xstring" value="HAS_PICTURE"/>
-<entry key="include" type="xboolean" value="false"/>
+<entry key="include" type="xboolean" value="true"/>
 <entry key="deepFiltering" type="xboolean" value="false"/>
 <entry key="CaseSensitive" type="xboolean" value="true"/>
-<entry key="Pattern" type="xstring" value="False"/>
+<entry key="Pattern" type="xstring" value="True"/>
 <entry key="hasWildCards" type="xboolean" value="false"/>
 <entry key="isRegExpr" type="xboolean" value="false"/>
 </config>
@@ -58,6 +58,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="ebe2b192-f392-4172-b529-68e883e3676f"/>
+<entry key="file_store_id" type="xstring" value="c558065f-fe8d-4b34-8fd3-bf609d9d1451"/>
 </config>
 </config>
