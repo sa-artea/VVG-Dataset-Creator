@@ -49,6 +49,17 @@ for the 2020/2021 project of the Uniandes Digital Humanities graduate program.
 
 First, description of the CSV files inside the _**\*\Data\Source**_ folder goes as follows:
 
+* _ID:_ element ID in the gallery and local folder name.
+* _TITLE:_ tittle of the element in the gallery.
+* _COLLECTION\_URL:_ recovered element (paint) URL.
+* _DOWNLOAD\_URL:_ direct image URL/link for the image in the gallery.
+* _HAS\_PICTURE:_ boolean if there is a picture file in the local folder.
+* _DESCRIPTION:_ JSON with the description of the element.
+* _SEARCH\_TAGS:_ JSON with the collection tags of the element.
+* _OBJ\_DATA:_ JSON with the museum object data of the element.
+* _RELATED\_WORKS:_ JSON with the related work text and URLs of the element.
+* _IMG\_DATA:_ numpy RGB matrix created from original image.
+
 Second, description of the CSV files inside the _**\*\Data\Source**_ folder goes as follows:
 
 * _**\*data-object-alt.csv:**_ #TODO
