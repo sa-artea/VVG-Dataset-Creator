@@ -835,7 +835,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_22">
-<entry key="column_name" type="xstring" value="1871  1880"/>
+<entry key="column_name" type="xstring" value="1871 1880"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
