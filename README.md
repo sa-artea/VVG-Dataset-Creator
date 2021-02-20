@@ -2,11 +2,22 @@
 Preprocessing scripts for ML data of Vincent Van Gogh
 # Vincent Van Gogh Gallery Scrapper
 
-This is a project to train a Machine Learning model based in the Vinvent Van Gogh collection data. In here the script scrap the Webpage, recovers all the possible data from Vincent, Including the paint description, its tag, collection's data, and related work
+This is a project to train a Machine Learning model based in the Vinvent Van
+Gogh collection data. In here the script takes the scraped data feom the
+Webpage, and creates an alternative representation with the JSON data.
 
-Originaly developed for the final project for the tittle of Digital humanities Msc dregree between 2019 - 2021.
+The data is divided in different tables taking into account different aspects of
+the gallery (i.e.: description, related work, search tags, image, among others).
+the missing data is completed with default values and then with each new
+alternative table (alternative representation for the ML model) the script
+integrate them into an star model with. This creates a unique data registerfor
+the future stages to process.
 
-This code was refactored and its comentaries extended for the official presentation for the 2020/2021 Uniandes Digital Humanities graduated program.
+Originaly developed for the final project for the tittle of Digital humanities
+Msc. degree between 2019 - 2021.
+
+The code was refactored and commented for the official and final presentation
+for the 2020/2021 project of the Uniandes Digital Humanities graduate program.
 
 ---
 
@@ -44,6 +55,12 @@ This code was refactored and its comentaries extended for the official presentat
   * _**test_page.py**_ basic tests for the _Page_ class and its methods.
   * _**test_selenium_bs4.py**_ proofe of concept to use selenium with bs4 in the
     collection index.
+
+---
+
+## Data Structure
+
+The description of the CSV files inside the _**\*\Data**_ folder goes as follows:
 
 ---
 
