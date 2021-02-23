@@ -67,7 +67,7 @@
 <entry key="root_path_Internals" type="xstring" value="\Data\Source\VanGoghGallery_small.csv"/>
 <config key="datatable_spec_Internals">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="10"/>
+<entry key="number_columns" type="xint" value="11"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -188,6 +188,18 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
+<config key="column_spec_10">
+<entry key="column_name" type="xstring" value="IMG_SHAPE"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
 </config>
 <config key="file_paths_Internals">
 <entry key="array-size" type="xint" value="1"/>
@@ -195,7 +207,7 @@
 </config>
 <config key="individual_specs_Internals">
 <config key="individual_spec_0">
-<entry key="array-size" type="xint" value="10"/>
+<entry key="array-size" type="xint" value="11"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="TITLE"/>
 <entry key="2" type="xstring" value="COLLECTION_URL"/>
@@ -206,6 +218,7 @@
 <entry key="7" type="xstring" value="OBJ_DATA"/>
 <entry key="8" type="xstring" value="RELATED_WORKS"/>
 <entry key="9" type="xstring" value="IMG_DATA"/>
+<entry key="10" type="xstring" value="IMG_SHAPE"/>
 </config>
 </config>
 <config key="production_paths_Internals">
@@ -309,10 +322,20 @@
 <entry key="production_path_9_producer_dst" type="xstring" value="java.lang.String"/>
 <entry key="production_path_9_producer_name" type="xstring" value="java.lang.String"/>
 <config key="production_path_9_producer_config"/>
-<entry key="num_production_paths_Internals" type="xint" value="10"/>
+<entry key="production_path_10_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_10_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_10_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_10_converter_name" type="xstring" value="String"/>
+<config key="production_path_10_converter_config"/>
+<entry key="production_path_10_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_10_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_10_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_10_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_10_producer_config"/>
+<entry key="num_production_paths_Internals" type="xint" value="11"/>
 </config>
 <config key="original_names_Internals">
-<entry key="array-size" type="xint" value="10"/>
+<entry key="array-size" type="xint" value="11"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="TITLE"/>
 <entry key="2" type="xstring" value="COLLECTION_URL"/>
@@ -323,9 +346,10 @@
 <entry key="7" type="xstring" value="OBJ_DATA"/>
 <entry key="8" type="xstring" value="RELATED_WORKS"/>
 <entry key="9" type="xstring" value="IMG_DATA"/>
+<entry key="10" type="xstring" value="IMG_SHAPE"/>
 </config>
 <config key="positional_mapping_Internals">
-<entry key="array-size" type="xint" value="10"/>
+<entry key="array-size" type="xint" value="11"/>
 <entry key="0" type="xint" value="0"/>
 <entry key="1" type="xint" value="1"/>
 <entry key="2" type="xint" value="2"/>
@@ -336,9 +360,10 @@
 <entry key="7" type="xint" value="7"/>
 <entry key="8" type="xint" value="8"/>
 <entry key="9" type="xint" value="9"/>
+<entry key="10" type="xint" value="10"/>
 </config>
 <config key="keep_Internals">
-<entry key="array-size" type="xint" value="10"/>
+<entry key="array-size" type="xint" value="11"/>
 <entry key="0" type="xboolean" value="true"/>
 <entry key="1" type="xboolean" value="true"/>
 <entry key="2" type="xboolean" value="true"/>
@@ -349,8 +374,9 @@
 <entry key="7" type="xboolean" value="true"/>
 <entry key="8" type="xboolean" value="true"/>
 <entry key="9" type="xboolean" value="true"/>
+<entry key="10" type="xboolean" value="true"/>
 </config>
-<entry key="unknown_column_position_Internals" type="xint" value="10"/>
+<entry key="unknown_column_position_Internals" type="xint" value="11"/>
 <entry key="include_unknown_columns_Internals" type="xboolean" value="true"/>
 <entry key="enforce_types" type="xboolean" value="true"/>
 <entry key="column_filter_mode_Internals" type="xstring" value="UNION"/>
@@ -372,7 +398,7 @@
 <entry key="skip_lines" type="xboolean" value="false"/>
 <entry key="number_of_lines_to_skip" type="xlong" value="1"/>
 <entry key="skip_data_rows" type="xboolean" value="false"/>
-<entry key="number_of_rows_to_skip" type="xlong" value="1"/>
+<entry key="number_of_rows_to_skip" type="xlong" value="0"/>
 <entry key="limit_data_rows" type="xboolean" value="false"/>
 <entry key="max_rows" type="xlong" value="50"/>
 </config>
@@ -419,12 +445,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 61, Cols: 10"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 61, Cols: 11"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="4d46318b-e073-4cc5-8f3f-db07c9aea526"/>
+<entry key="file_store_id" type="xstring" value="e7843a5f-666d-41e8-9837-611fe9dcb9e6"/>
 </config>
 </config>

@@ -9,7 +9,7 @@
 <config key="column-filter">
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
-<entry key="array-size" type="xint" value="7"/>
+<entry key="array-size" type="xint" value="8"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="HAS_PICTURE"/>
 <entry key="2" type="xstring" value="DESCRIPTION"/>
@@ -17,6 +17,7 @@
 <entry key="4" type="xstring" value="OBJ_DATA"/>
 <entry key="5" type="xstring" value="RELATED_WORKS"/>
 <entry key="6" type="xstring" value="IMG_DATA"/>
+<entry key="7" type="xstring" value="IMG_SHAPE"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="3"/>
@@ -88,12 +89,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 61, Cols: 7"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 61, Cols: 8"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="c052e231-cebf-48c2-97ca-8303b739d31c"/>
+<entry key="file_store_id" type="xstring" value="d284a13d-6db6-493f-91cf-510bb618f9a6"/>
 </config>
 </config>
