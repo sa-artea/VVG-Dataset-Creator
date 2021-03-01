@@ -67,7 +67,7 @@
 <entry key="root_path_Internals" type="xstring" value="\Data\Star\Large\VVG-Star-Gallery-Collection.csv"/>
 <config key="datatable_spec_Internals">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="63"/>
+<entry key="number_columns" type="xint" value="64"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -585,7 +585,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_43">
-<entry key="column_name" type="xstring" value="1887"/>
+<entry key="column_name" type="xstring" value="Vincent van Gogh"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -597,7 +597,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_44">
-<entry key="column_name" type="xstring" value="Paris"/>
+<entry key="column_name" type="xstring" value="1887"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -609,7 +609,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_45">
-<entry key="column_name" type="xstring" value="cityscape"/>
+<entry key="column_name" type="xstring" value="Paris"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -621,7 +621,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_46">
-<entry key="column_name" type="xstring" value="portrait"/>
+<entry key="column_name" type="xstring" value="cityscape"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -633,7 +633,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_47">
-<entry key="column_name" type="xstring" value="landscape representation"/>
+<entry key="column_name" type="xstring" value="portrait"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -645,7 +645,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_48">
-<entry key="column_name" type="xstring" value="still life"/>
+<entry key="column_name" type="xstring" value="landscape representation"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -657,7 +657,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_49">
-<entry key="column_name" type="xstring" value="1890"/>
+<entry key="column_name" type="xstring" value="still life"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -669,7 +669,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_50">
-<entry key="column_name" type="xstring" value="AuverssurOise"/>
+<entry key="column_name" type="xstring" value="1890"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -681,7 +681,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_51">
-<entry key="column_name" type="xstring" value="animal art"/>
+<entry key="column_name" type="xstring" value="AuverssurOise"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -693,7 +693,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_52">
-<entry key="column_name" type="xstring" value="drawing"/>
+<entry key="column_name" type="xstring" value="animal art"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -705,7 +705,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_53">
-<entry key="column_name" type="xstring" value="1884"/>
+<entry key="column_name" type="xstring" value="drawing"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -717,7 +717,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_54">
-<entry key="column_name" type="xstring" value="study"/>
+<entry key="column_name" type="xstring" value="1884"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -729,7 +729,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_55">
-<entry key="column_name" type="xstring" value="figure representation"/>
+<entry key="column_name" type="xstring" value="study"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -741,7 +741,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_56">
-<entry key="column_name" type="xstring" value="heads"/>
+<entry key="column_name" type="xstring" value="figure representation"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -753,7 +753,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_57">
-<entry key="column_name" type="xstring" value="Antwerp"/>
+<entry key="column_name" type="xstring" value="heads"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -765,7 +765,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_58">
-<entry key="column_name" type="xstring" value="1886"/>
+<entry key="column_name" type="xstring" value="Antwerp"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -777,7 +777,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_59">
-<entry key="column_name" type="xstring" value="nude"/>
+<entry key="column_name" type="xstring" value="1886"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -789,7 +789,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_60">
-<entry key="column_name" type="xstring" value="1881"/>
+<entry key="column_name" type="xstring" value="nude"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -801,7 +801,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_61">
-<entry key="column_name" type="xstring" value="Brussels"/>
+<entry key="column_name" type="xstring" value="1881"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -813,6 +813,18 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_62">
+<entry key="column_name" type="xstring" value="Brussels"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_63">
 <entry key="column_name" type="xstring" value="IMG_DATA"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -831,7 +843,7 @@
 </config>
 <config key="individual_specs_Internals">
 <config key="individual_spec_0">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="64"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="details"/>
@@ -875,26 +887,27 @@
 <entry key="40" type="xstring" value="1885"/>
 <entry key="41" type="xstring" value="Nuenen"/>
 <entry key="42" type="xstring" value="painting"/>
-<entry key="43" type="xstring" value="1887"/>
-<entry key="44" type="xstring" value="Paris"/>
-<entry key="45" type="xstring" value="cityscape"/>
-<entry key="46" type="xstring" value="portrait"/>
-<entry key="47" type="xstring" value="landscape representation"/>
-<entry key="48" type="xstring" value="still life"/>
-<entry key="49" type="xstring" value="1890"/>
-<entry key="50" type="xstring" value="AuverssurOise"/>
-<entry key="51" type="xstring" value="animal art"/>
-<entry key="52" type="xstring" value="drawing"/>
-<entry key="53" type="xstring" value="1884"/>
-<entry key="54" type="xstring" value="study"/>
-<entry key="55" type="xstring" value="figure representation"/>
-<entry key="56" type="xstring" value="heads"/>
-<entry key="57" type="xstring" value="Antwerp"/>
-<entry key="58" type="xstring" value="1886"/>
-<entry key="59" type="xstring" value="nude"/>
-<entry key="60" type="xstring" value="1881"/>
-<entry key="61" type="xstring" value="Brussels"/>
-<entry key="62" type="xstring" value="IMG_DATA"/>
+<entry key="43" type="xstring" value="Vincent van Gogh"/>
+<entry key="44" type="xstring" value="1887"/>
+<entry key="45" type="xstring" value="Paris"/>
+<entry key="46" type="xstring" value="cityscape"/>
+<entry key="47" type="xstring" value="portrait"/>
+<entry key="48" type="xstring" value="landscape representation"/>
+<entry key="49" type="xstring" value="still life"/>
+<entry key="50" type="xstring" value="1890"/>
+<entry key="51" type="xstring" value="AuverssurOise"/>
+<entry key="52" type="xstring" value="animal art"/>
+<entry key="53" type="xstring" value="drawing"/>
+<entry key="54" type="xstring" value="1884"/>
+<entry key="55" type="xstring" value="study"/>
+<entry key="56" type="xstring" value="figure representation"/>
+<entry key="57" type="xstring" value="heads"/>
+<entry key="58" type="xstring" value="Antwerp"/>
+<entry key="59" type="xstring" value="1886"/>
+<entry key="60" type="xstring" value="nude"/>
+<entry key="61" type="xstring" value="1881"/>
+<entry key="62" type="xstring" value="Brussels"/>
+<entry key="63" type="xstring" value="IMG_DATA"/>
 </config>
 </config>
 <config key="production_paths_Internals">
@@ -1528,10 +1541,20 @@
 <entry key="production_path_62_producer_dst" type="xstring" value="java.lang.String"/>
 <entry key="production_path_62_producer_name" type="xstring" value="java.lang.String"/>
 <config key="production_path_62_producer_config"/>
-<entry key="num_production_paths_Internals" type="xint" value="63"/>
+<entry key="production_path_63_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_63_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_63_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_63_converter_name" type="xstring" value="String"/>
+<config key="production_path_63_converter_config"/>
+<entry key="production_path_63_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_63_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_63_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_63_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_63_producer_config"/>
+<entry key="num_production_paths_Internals" type="xint" value="64"/>
 </config>
 <config key="original_names_Internals">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="64"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="details"/>
@@ -1575,29 +1598,30 @@
 <entry key="40" type="xstring" value="1885"/>
 <entry key="41" type="xstring" value="Nuenen"/>
 <entry key="42" type="xstring" value="painting"/>
-<entry key="43" type="xstring" value="1887"/>
-<entry key="44" type="xstring" value="Paris"/>
-<entry key="45" type="xstring" value="cityscape"/>
-<entry key="46" type="xstring" value="portrait"/>
-<entry key="47" type="xstring" value="landscape representation"/>
-<entry key="48" type="xstring" value="still life"/>
-<entry key="49" type="xstring" value="1890"/>
-<entry key="50" type="xstring" value="AuverssurOise"/>
-<entry key="51" type="xstring" value="animal art"/>
-<entry key="52" type="xstring" value="drawing"/>
-<entry key="53" type="xstring" value="1884"/>
-<entry key="54" type="xstring" value="study"/>
-<entry key="55" type="xstring" value="figure representation"/>
-<entry key="56" type="xstring" value="heads"/>
-<entry key="57" type="xstring" value="Antwerp"/>
-<entry key="58" type="xstring" value="1886"/>
-<entry key="59" type="xstring" value="nude"/>
-<entry key="60" type="xstring" value="1881"/>
-<entry key="61" type="xstring" value="Brussels"/>
-<entry key="62" type="xstring" value="IMG_DATA"/>
+<entry key="43" type="xstring" value="Vincent van Gogh"/>
+<entry key="44" type="xstring" value="1887"/>
+<entry key="45" type="xstring" value="Paris"/>
+<entry key="46" type="xstring" value="cityscape"/>
+<entry key="47" type="xstring" value="portrait"/>
+<entry key="48" type="xstring" value="landscape representation"/>
+<entry key="49" type="xstring" value="still life"/>
+<entry key="50" type="xstring" value="1890"/>
+<entry key="51" type="xstring" value="AuverssurOise"/>
+<entry key="52" type="xstring" value="animal art"/>
+<entry key="53" type="xstring" value="drawing"/>
+<entry key="54" type="xstring" value="1884"/>
+<entry key="55" type="xstring" value="study"/>
+<entry key="56" type="xstring" value="figure representation"/>
+<entry key="57" type="xstring" value="heads"/>
+<entry key="58" type="xstring" value="Antwerp"/>
+<entry key="59" type="xstring" value="1886"/>
+<entry key="60" type="xstring" value="nude"/>
+<entry key="61" type="xstring" value="1881"/>
+<entry key="62" type="xstring" value="Brussels"/>
+<entry key="63" type="xstring" value="IMG_DATA"/>
 </config>
 <config key="positional_mapping_Internals">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="64"/>
 <entry key="0" type="xint" value="0"/>
 <entry key="1" type="xint" value="1"/>
 <entry key="2" type="xint" value="2"/>
@@ -1661,9 +1685,10 @@
 <entry key="60" type="xint" value="60"/>
 <entry key="61" type="xint" value="61"/>
 <entry key="62" type="xint" value="62"/>
+<entry key="63" type="xint" value="63"/>
 </config>
 <config key="keep_Internals">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="64"/>
 <entry key="0" type="xboolean" value="true"/>
 <entry key="1" type="xboolean" value="true"/>
 <entry key="2" type="xboolean" value="true"/>
@@ -1727,8 +1752,9 @@
 <entry key="60" type="xboolean" value="true"/>
 <entry key="61" type="xboolean" value="true"/>
 <entry key="62" type="xboolean" value="true"/>
+<entry key="63" type="xboolean" value="true"/>
 </config>
-<entry key="unknown_column_position_Internals" type="xint" value="63"/>
+<entry key="unknown_column_position_Internals" type="xint" value="64"/>
 <entry key="include_unknown_columns_Internals" type="xboolean" value="true"/>
 <entry key="enforce_types" type="xboolean" value="true"/>
 <entry key="column_filter_mode_Internals" type="xstring" value="UNION"/>
@@ -1773,7 +1799,7 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
 <entry key="factory" type="xstring" value="org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory"/>
 <entry key="node-name" type="xstring" value="CSV Reader"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -1790,19 +1816,16 @@
 <config key="Data Table"/>
 </config>
 <entry key="name" type="xstring" value="CSV Reader"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 929, Cols: 63"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="fb1d8801-3a49-4a45-8437-d103b1018735"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

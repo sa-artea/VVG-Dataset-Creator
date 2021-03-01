@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="61"/>
+<entry key="number_columns" type="xint" value="58"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -428,13 +428,13 @@
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Plaster Cast of a Woman's Torso"/>
+<entry key="StringCell" type="xstring" value="Plaster Cast of a Womans Torso"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Kneeling Ecorché"/>
+<entry key="StringCell" type="xstring" value="Kneeling Ecorche"/>
 </config>
 </config>
 <config key="9">
@@ -458,7 +458,7 @@
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Studies of a Seated Girl, L'Ecorché and Venus"/>
+<entry key="StringCell" type="xstring" value="Studies of a Seated Girl, LEcorche and Venus"/>
 </config>
 </config>
 <config key="13">
@@ -482,7 +482,7 @@
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="A Woman's Legs"/>
+<entry key="StringCell" type="xstring" value="A Womans Legs"/>
 </config>
 </config>
 <config key="17">
@@ -1044,103 +1044,103 @@
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="This woman is Gordina de Groot, who posed with her family for The Potato Eaters. To prepare for that painting, Van Gogh made over 40 studies of farmworkers' heads, including this one. He hoped this would make him a better figure painter.NoneVan Gogh wanted to portray peasants as people of a special kind, who had been working the land for centuries. 'They remind one of the earth, sometimes appear to have been modelled out of it,' Vincent wrote to his brother Theo.NoneThis work was a study in colour. Van Gogh concentrated on the complementary colours red and green."/>
+<entry key="StringCell" type="xstring" value="This woman is Gordina de Groot, who posed with her family for The Potato Eaters. To prepare for that painting, Van Gogh made over 40 studies of farmworkers heads, including this one. He hoped this would make him a better figure painter. Van Gogh wanted to portray peasants as people of a special kind, who had been working the land for centuries. They remind one of the earth, sometimes appear to have been modelled out of it, Vincent wrote to his brother Theo. This work was a study in colour. Van Gogh concentrated on the complementary colours red and green."/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="The old woman's grey hair sticks out from under her white cap. Van Gogh liked bonnets like this, which made a fine contrast with dark clothing and backgrounds. Using rough brushstrokes, Van Gogh suggested the shadows in her face.NoneNoneIn Antwerp (BE), Van Gogh wanted to master portrait painting. He heard from local art dealers that women's heads sold better than men's. From that time on, he focused on female models."/>
+<entry key="StringCell" type="xstring" value="The old womans grey hair sticks out from under her white cap. Van Gogh liked bonnets like this, which made a fine contrast with dark clothing and backgrounds. Using rough brushstrokes, Van Gogh suggested the shadows in her face. In Antwerp (BE), Van Gogh wanted to master portrait painting. He heard from local art dealers that womens heads sold better than mens. From that time on, he focused on female models."/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh was thorough in everything he did. So when he decided to practise painting plaster models of classical sculptures, he immediately produced a whole series. He painted this torso of Venus five times, in each case from a different angle.NoneNoneThis time he has turned the model to face away from him. He has used a lot of paint and followed the curves of the body with his brush."/>
+<entry key="StringCell" type="xstring" value="Van Gogh was thorough in everything he did. So when he decided to practise painting plaster models of classical sculptures, he immediately produced a whole series. He painted this torso of Venus five times, in each case from a different angle. This time he has turned the model to face away from him. He has used a lot of paint and followed the curves of the body with his brush."/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Here, Van Gogh was practising painting strong contrasts between light and dark, using only a few colours  ochre for hands and face and green for background and clothing.NoneNoneThe woman is wearing a falie or mourning shawl. If you look carefully, you can just spot a white bonnet peeping out from under it. In the spring and summer of 1885, Van Gogh drew and painted other women wearing shawls over their heads in this way. They were worn at funerals or when in mourning."/>
+<entry key="StringCell" type="xstring" value="Here, Van Gogh was practising painting strong contrasts between light and dark, using only a few colours ochre for hands and face and green for background and clothing. The woman is wearing a falie or mourning shawl. If you look carefully, you can just spot a white bonnet peeping out from under it. In the spring and summer of 1885, Van Gogh drew and painted other women wearing shawls over their heads in this way. They were worn at funerals or when in mourning."/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="By choosing this contemporary subject, Van Gogh presented himself as a modern painter of city life. That included the margins of society and the prostitutes who lived there.NoneNoneThis woman may not look like a prostitute at first glance. But in the nineteenth century, loose hair was a sign of loose morals. Van Gogh used rough brushstrokes to paint her face. He succeeded in giving her features volume and life."/>
+<entry key="StringCell" type="xstring" value="By choosing this contemporary subject, Van Gogh presented himself as a modern painter of city life. That included the margins of society and the prostitutes who lived there. This woman may not look like a prostitute at first glance. But in the nineteenth century, loose hair was a sign of loose morals. Van Gogh used rough brushstrokes to paint her face. He succeeded in giving her features volume and life."/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh painted this man in Antwerp (BE), where he lived from late November 1885 to late February 1886. He has impressive features, as Van Gogh wrote to his brother Theo: 'I have an appointment for tomorrow with a splendid old man  will he come???'NoneNoneVan Gogh had a hard time finding suitable models. Besides, models were expensive. But this man did show up to pose for him. Van Gogh thought that the man's full beard made him look like the author Victor Hugo. Using rough but well-placed brushstrokes, he made a compelling portrait."/>
+<entry key="StringCell" type="xstring" value="Van Gogh painted this man in Antwerp (BE), where he lived from late November 1885 to late February 1886. He has impressive features, as Van Gogh wrote to his brother Theo: I have an appointment for tomorrow with a splendid old man will he come??? Van Gogh had a hard time finding suitable models. Besides, models were expensive. But this man did show up to pose for him. Van Gogh thought that the mans full beard made him look like the author Victor Hugo. Using rough but well-placed brushstrokes, he made a compelling portrait."/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="To practise portraying peasant types, Van Gogh aimed to paint at least 50 different heads. He began the project in October 1884, on the advice of an artist friend. This Head of a Man is one of the last in the series.NoneNoneThe name and identity of the man are unknown. Van Goghs letters tell us little about his models. We only know that he found them in Nuenen, where he had returned to live temporarily with his parents."/>
+<entry key="StringCell" type="xstring" value="To practise portraying peasant types, Van Gogh aimed to paint at least 50 different heads. He began the project in October 1884, on the advice of an artist friend. This Head of a Man is one of the last in the series. The name and identity of the man are unknown. Van Goghs letters tell us little about his models. We only know that he found them in Nuenen, where he had returned to live temporarily with his parents."/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh hoped one day to become a figure painter. So he was constantly drawing and painting studies of heads. He made portraits of countless men and women who worked on farms around Nuenen (NL). To him, these were not portraits of individuals but depictions of types. In his eyes, they represented the hard life of farm workers.NoneNoneAbove this woman's left eye (on the right of the painting) is a black dot: her pupil. This bit of paint shifted after the painting was done and ended up on her eyelid."/>
+<entry key="StringCell" type="xstring" value="Van Gogh hoped one day to become a figure painter. So he was constantly drawing and painting studies of heads. He made portraits of countless men and women who worked on farms around Nuenen (NL). To him, these were not portraits of individuals but depictions of types. In his eyes, they represented the hard life of farm workers. Above this womans left eye (on the right of the painting) is a black dot: her pupil. This bit of paint shifted after the painting was done and ended up on her eyelid."/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh painted this countrywoman in Nuenen, where he had returned to live with his parents. She posed for him, as did many other villagers. He regarded the paintings he made of them not as portraits, but as study heads. He passionately wanted to become a good figure painter and he regarded this activity as an essential preparatory exercise.NoneNoneHe aimed to produce a total of 50 such studies, of which 47 have survived. The Van Gogh Museum has 10 of them in its collection."/>
+<entry key="StringCell" type="xstring" value="Van Gogh painted this countrywoman in Nuenen, where he had returned to live with his parents. She posed for him, as did many other villagers. He regarded the paintings he made of them not as portraits, but as study heads. He passionately wanted to become a good figure painter and he regarded this activity as an essential preparatory exercise. He aimed to produce a total of 50 such studies, of which 47 have survived. The Van Gogh Museum has 10 of them in its collection."/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Practice makes perfect: in June 1886, van Gogh painted this study of a plaster model of a classical sculpture. It was part of a whole series of such studies. This standing torso of Venus must have been his favourite model: he made no fewer than five studies of it. Two of them are now in the collection of the Van Gogh Museum.NoneNoneVan Gogh painted the background deep blue. He thought there was nothing so fine as [cobalt blue] for putting space around things  in other words, for creating an illusion of depth."/>
+<entry key="StringCell" type="xstring" value="Practice makes perfect: in June 1886, van Gogh painted this study of a plaster model of a classical sculpture. It was part of a whole series of such studies. This standing torso of Venus must have been his favourite model: he made no fewer than five studies of it. Two of them are now in the collection of the Van Gogh Museum. Van Gogh painted the background deep blue. He thought there was nothing so fine as [cobalt blue] for putting space around things in other words, for creating an illusion of depth."/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Did Van Gogh care if his models were good-looking or not? He chose this woman for her appearance, but not for the reason you might expect.NoneNoneHe was looking specifically for country people, both men and women, who had coarse, flat faces with low foreheads and thick lips. He wanted to paint 50 of them as what he called study heads. Their facial features were intended to show that they lived in close communion with nature and the land they farmed. Van Goghs interest in physiognomy may seem odd to us now, but in his own time it was not unusual."/>
+<entry key="StringCell" type="xstring" value="Did Van Gogh care if his models were good-looking or not? He chose this woman for her appearance, but not for the reason you might expect. He was looking specifically for country people, both men and women, who had coarse, flat faces with low foreheads and thick lips. He wanted to paint 50 of them as what he called study heads. Their facial features were intended to show that they lived in close communion with nature and the land they farmed. Van Goghs interest in physiognomy may seem odd to us now, but in his own time it was not unusual."/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="An ecorche is a figure shown without skin, so that all the muscles and tendons are visible. Such figures are used as aids in studying anatomy. Van Gogh had this type of plaster model, which he depicted here. He was then studying at the Antwerp art academy.NoneNoneThe painting is an exercise in suggesting volume. In traditional painting, volume is created through the play of light and shadow. But here Van Gogh tried to achieve the same effect through the thickness of his paint and the direction of his brushstrokes."/>
+<entry key="StringCell" type="xstring" value="An ecorche is a figure shown without skin, so that all the muscles and tendons are visible. Such figures are used as aids in studying anatomy. Van Gogh had this type of plaster model, which he depicted here. He was then studying at the Antwerp art academy. The painting is an exercise in suggesting volume. In traditional painting, volume is created through the play of light and shadow. But here Van Gogh tried to achieve the same effect through the thickness of his paint and the direction of his brushstrokes."/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="In the winter of 1884-1885, Van Gogh made a large series of paintings in Nuenen (NL): studies of farm workers' heads. Peasant women in Brabant really did wear white headdresses in those days. These intrigued Van Gogh because of the contrast with their faces, which remained partly in shadow. 'The heads of these women here with the white caps  its difficult  but its so eternally beautiful', he wrote. At first glance, this woman's headdress looks white, but if you look more carefully you can see that Van Gogh used a variety of colours.NoneNoneOut of all the study heads from Nuenen, this woman is the only one whose name is known: Gordina de Groot. She is also at the table in The Potato Eaters."/>
+<entry key="StringCell" type="xstring" value="In the winter of 1884-1885, Van Gogh made a large series of paintings in Nuenen (NL): studies of farm workers heads. Peasant women in Brabant really did wear white headdresses in those days. These intrigued Van Gogh because of the contrast with their faces, which remained partly in shadow. The heads of these women here with the white caps its difficult but its so eternally beautiful, he wrote. At first glance, this womans headdress looks white, but if you look more carefully you can see that Van Gogh used a variety of colours. Out of all the study heads from Nuenen, this woman is the only one whose name is known: Gordina de Groot. She is also at the table in The Potato Eaters."/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With her hair in a bun and her jewellery, this woman looks perfectly respectable to us. But to Van Gogh's contemporaries, her low-cut dress and eye makeup told a different story. Van Gogh painted this woman shortly after moving to Antwerp (BE). He needed models so that he could practise portrait painting. Only 'ladies of easy virtue' could be persuaded to pose for a painter they had never met before.NoneNoneVan Gogh painted this portrait in a single sitting. For the glittering earring, Van Gogh used a thick blob of pinkish-white paint that later fell off."/>
+<entry key="StringCell" type="xstring" value="With her hair in a bun and her jewellery, this woman looks perfectly respectable to us. But to Van Goghs contemporaries, her low-cut dress and eye makeup told a different story. Van Gogh painted this woman shortly after moving to Antwerp (BE). He needed models so that he could practise portrait painting. Only ladies of easy virtue could be persuaded to pose for a painter they had never met before. Van Gogh painted this portrait in a single sitting. For the glittering earring, Van Gogh used a thick blob of pinkish-white paint that later fell off."/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="The more you zoom in, the better you can see that Van Gogh used a large network of thin brushstrokes to suggest the forms of the human body. It's almost as if he were drawing in thin paint. You can also see the contrasting colours: green, orange-red and purple. But if you look from a distance (or through your eyelashes), all those colours melt into a warm grey.NoneNoneVan Gogh based the female torso in this painting on one of his favourite plaster casts: a small copy of a classical sculpture of Venus."/>
+<entry key="StringCell" type="xstring" value="The more you zoom in, the better you can see that Van Gogh used a large network of thin brushstrokes to suggest the forms of the human body. Its almost as if he were drawing in thin paint. You can also see the contrasting colours: green, orange-red and purple. But if you look from a distance (or through your eyelashes), all those colours melt into a warm grey. Van Gogh based the female torso in this painting on one of his favourite plaster casts: a small copy of a classical sculpture of Venus."/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="This painting is one of a series of studies of plaster models. Van Gogh owned around eleven such models of sculptures from classical antiquity or the Renaissance. Among them was this standing torso of Venus, which he painted a number of times.NoneNoneAmong other things, Van Gogh was experimenting with the effect of different kinds of background. Here, he has placed his brushstrokes at right-angles to each other, so that they look rather like wickerwork. He would use this technique more than once in his later work."/>
+<entry key="StringCell" type="xstring" value="This painting is one of a series of studies of plaster models. Van Gogh owned around eleven such models of sculptures from classical antiquity or the Renaissance. Among them was this standing torso of Venus, which he painted a number of times. Among other things, Van Gogh was experimenting with the effect of different kinds of background. Here, he has placed his brushstrokes at right-angles to each other, so that they look rather like wickerwork. He would use this technique more than once in his later work."/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="For this study in oils, Van Gogh used a small plaster model of a horse. He was then studying at the Antwerp art academy. There drawing was taught with the help of models like these, but painting had to be practiced at home. He painted this little horse on cardboard instead of canvas, because that was much cheaper.NoneNoneThe model was preserved by the Van Gogh family through the years. It is now part of the Van Gogh Museum collection."/>
+<entry key="StringCell" type="xstring" value="For this study in oils, Van Gogh used a small plaster model of a horse. He was then studying at the Antwerp art academy. There drawing was taught with the help of models like these, but painting had to be practiced at home. He painted this little horse on cardboard instead of canvas, because that was much cheaper. The model was preserved by the Van Gogh family through the years. It is now part of the Van Gogh Museum collection."/>
 </config>
 </config>
 </config>
@@ -2494,313 +2494,313 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="435 cm x 362 cm"/>
+<entry key="StringCell" type="xstring" value="43.5 cm x 36.2 cm"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="432 cm x 300 cm 22 cm x 590 cm 462 cm x 95 cm"/>
+<entry key="StringCell" type="xstring" value="43.2 cm x 30.0 cm, 2.2 cm x 59.0 cm, 46.2 cm x 9.5 cm"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="505 cm x 398 cm 681 cm x 577 cm"/>
+<entry key="StringCell" type="xstring" value="50.5 cm x 39.8 cm, 68.1 cm x 57.7 cm"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="460 cm x 380 cm 551 cm x 465 cm"/>
+<entry key="StringCell" type="xstring" value="46.0 cm x 38.0 cm, 55.1 cm x 46.5 cm"/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="455 cm x 330 cm 60 cm x 48 cm"/>
+<entry key="StringCell" type="xstring" value="45.5 cm x 33.0 cm, 60 cm x 48 cm"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="352 cm x 244 cm 529 cm x 419 cm"/>
+<entry key="StringCell" type="xstring" value="35.2 cm x 24.4 cm, 52.9 cm x 41.9 cm"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="444 cm x 337 cm 586 cm x 485 cm"/>
+<entry key="StringCell" type="xstring" value="44.4 cm x 33.7 cm, 58.6 cm x 48.5 cm"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="422 cm x 348 cm 585 cm x 51 cm"/>
+<entry key="StringCell" type="xstring" value="42.2 cm x 34.8 cm, 58.5 cm x 51 cm"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="425 cm x 321 cm 49 cm x 386 cm"/>
+<entry key="StringCell" type="xstring" value="42.5 cm x 32.1 cm, 49 cm x 38.6 cm"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="377 cm x 295 cm 536 cm x 455 cm"/>
+<entry key="StringCell" type="xstring" value="37.7 cm x 29.5 cm, 53.6 cm x 45.5 cm"/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="420 cm x 333 cm 585 cm x 50 cm"/>
+<entry key="StringCell" type="xstring" value="42.0 cm x 33.3 cm, 58.5 cm x 50 cm"/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="329 cm x 240 cm 417 cm x 331 cm"/>
+<entry key="StringCell" type="xstring" value="32.9 cm x 24.0 cm, 41.7 cm x 33.1 cm"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="438 cm x 300 cm 60 cm x 46 cm"/>
+<entry key="StringCell" type="xstring" value="43.8 cm x 30.0 cm, 60 cm x 46 cm"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="464 cm x 381 cm 551 cm x 468 cm"/>
+<entry key="StringCell" type="xstring" value="46.4 cm x 38.1 cm, 55.1 cm x 46.8 cm"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="422 cm x 345 cm"/>
+<entry key="StringCell" type="xstring" value="42.2 cm x 34.5 cm"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="353 cm x 271 cm 435 cm x 355 cm"/>
+<entry key="StringCell" type="xstring" value="35.3 cm x 27.1 cm, 43.5 cm x 35.5 cm"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="352 cm x 268 cm 44 cm x 36 cm"/>
+<entry key="StringCell" type="xstring" value="35.2 cm x 26.8 cm, 44 cm x 36 cm"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="350 cm x 270 cm 44 cm x 36 cm"/>
+<entry key="StringCell" type="xstring" value="35.0 cm x 27.0 cm, 44 cm x 36 cm"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="388 cm x 313 cm 54 cm x 46 cm"/>
+<entry key="StringCell" type="xstring" value="38.8 cm x 31.3 cm, 54 cm x 46 cm"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="427 cm x 335 cm 576 cm x 483 cm"/>
+<entry key="StringCell" type="xstring" value="42.7 cm x 33.5 cm, 57.6 cm x 48.3 cm"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="463 cm x 385 cm 664 cm x 581 cm"/>
+<entry key="StringCell" type="xstring" value="46.3 cm x 38.5 cm, 66.4 cm x 58.1 cm"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="408 cm x 271 cm 491 cm x 355 cm"/>
+<entry key="StringCell" type="xstring" value="40.8 cm x 27.1 cm, 49.1 cm x 35.5 cm"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="410 cm x 327 cm 496 cm x 416 cm"/>
+<entry key="StringCell" type="xstring" value="41.0 cm x 32.7 cm, 49.6 cm x 41.6 cm"/>
 </config>
 </config>
 <config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="353 cm x 272 cm 440 cm x 360 cm"/>
+<entry key="StringCell" type="xstring" value="35.3 cm x 27.2 cm, 44.0 cm x 36.0 cm"/>
 </config>
 </config>
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="331 cm x 409 cm 415 cm x 497 cm"/>
+<entry key="StringCell" type="xstring" value="33.1 cm x 40.9 cm, 41.5 cm x 49.7 cm"/>
 </config>
 </config>
 <config key="25">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="478 cm x 348 cm 62 cm x 49 cm"/>
+<entry key="StringCell" type="xstring" value="47.8 cm x 34.8 cm, 62 cm x 49 cm"/>
 </config>
 </config>
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="475 cm x 620 cm"/>
+<entry key="StringCell" type="xstring" value="47.5 cm x 62.0 cm"/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="477 cm x 305 cm"/>
+<entry key="StringCell" type="xstring" value="47.7 cm x 30.5 cm"/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="477 cm x 313 cm"/>
+<entry key="StringCell" type="xstring" value="47.7 cm x 31.3 cm"/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="475 cm x 308 cm"/>
+<entry key="StringCell" type="xstring" value="47.5 cm x 30.8 cm"/>
 </config>
 </config>
 <config key="30">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="314 cm x 475 cm"/>
+<entry key="StringCell" type="xstring" value="31.4 cm x 47.5 cm"/>
 </config>
 </config>
 <config key="31">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="322 cm x 249 cm"/>
+<entry key="StringCell" type="xstring" value="32.2 cm x 24.9 cm"/>
 </config>
 </config>
 <config key="32">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="383 cm x 198 cm"/>
+<entry key="StringCell" type="xstring" value="38.3 cm x 19.8 cm"/>
 </config>
 </config>
 <config key="33">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="198 cm x 383 cm"/>
+<entry key="StringCell" type="xstring" value="19.8 cm x 38.3 cm"/>
 </config>
 </config>
 <config key="34">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="208 cm x 344 cm"/>
+<entry key="StringCell" type="xstring" value="20.8 cm x 34.4 cm"/>
 </config>
 </config>
 <config key="35">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="446 cm x 546 cm"/>
+<entry key="StringCell" type="xstring" value="44.6 cm x 54.6 cm"/>
 </config>
 </config>
 <config key="36">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="317 cm x 246 cm"/>
+<entry key="StringCell" type="xstring" value="31.7 cm x 24.6 cm"/>
 </config>
 </config>
 <config key="37">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="321 cm x 246 cm"/>
+<entry key="StringCell" type="xstring" value="32.1 cm x 24.6 cm"/>
 </config>
 </config>
 <config key="38">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="322 cm x 246 cm"/>
+<entry key="StringCell" type="xstring" value="32.2 cm x 24.6 cm"/>
 </config>
 </config>
 <config key="39">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="208 cm x 130 cm"/>
+<entry key="StringCell" type="xstring" value="20.8 cm x 13.0 cm"/>
 </config>
 </config>
 <config key="40">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="291 cm x 460 cm"/>
+<entry key="StringCell" type="xstring" value="29.1 cm x 46.0 cm"/>
 </config>
 </config>
 <config key="41">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="489 cm x 318 cm"/>
+<entry key="StringCell" type="xstring" value="48.9 cm x 31.8 cm"/>
 </config>
 </config>
 <config key="42">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="475 cm x 315 cm"/>
+<entry key="StringCell" type="xstring" value="47.5 cm x 31.5 cm"/>
 </config>
 </config>
 <config key="43">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="473 cm x 352 cm"/>
+<entry key="StringCell" type="xstring" value="47.3 cm x 35.2 cm"/>
 </config>
 </config>
 <config key="44">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="611 cm x 455 cm"/>
+<entry key="StringCell" type="xstring" value="61.1 cm x 45.5 cm"/>
 </config>
 </config>
 <config key="45">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="443 cm x 273 cm"/>
+<entry key="StringCell" type="xstring" value="44.3 cm x 27.3 cm"/>
 </config>
 </config>
 <config key="46">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="437 cm x 269 cm"/>
+<entry key="StringCell" type="xstring" value="43.7 cm x 26.9 cm"/>
 </config>
 </config>
 <config key="47">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="266 cm x 221 cm"/>
+<entry key="StringCell" type="xstring" value="26.6 cm x 22.1 cm"/>
 </config>
 </config>
 <config key="48">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="509 cm x 397 cm"/>
+<entry key="StringCell" type="xstring" value="50.9 cm x 39.7 cm"/>
 </config>
 </config>
 <config key="49">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="437 cm x 313 cm"/>
+<entry key="StringCell" type="xstring" value="43.7 cm x 31.3 cm"/>
 </config>
 </config>
 <config key="50">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="476 cm x 315 cm"/>
+<entry key="StringCell" type="xstring" value="47.6 cm x 31.5 cm"/>
 </config>
 </config>
 <config key="51">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="426 cm x 305 cm 823 cm x 706 cm"/>
+<entry key="StringCell" type="xstring" value="42.6 cm x 30.5 cm, 82.3 cm x 70.6 cm"/>
 </config>
 </config>
 </config>
@@ -2818,197 +2818,203 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="32"/>
+<entry key="array-size" type="xint" value="33"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after May 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren given on loan by Vincent Willem van Gogh Laren to the Stedelijk Museum Amsterdam since 16 December 1930 donated by Vincent Willem van Gogh on 11 March 1952 to the 1st Vincent van Gogh Foundation Laren transferred on 28 December 1960 by the 1st Vincent van Gogh Foundation to the Theo van Gogh Foundation Laren agreement concluded on 21 July 1962 between the 2nd Vincent van Gogh Foundation Amsterdam and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 16 December 1930; donated by Vincent Willem van Gogh on 11 March 1952 to the (1st) Vincent van Gogh Foundation, Laren; transferred on 28 December 1960 by the (1st) Vincent van Gogh Foundation to the Theo van Gogh Foundation, Laren; agreement concluded on 21 July 1962 between the (2nd) Vincent van Gogh Foundation, Amsterdam, and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Probably taken from Nuenen by his brother Theo van Gogh Paris at the end of March 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren given on loan by Vincent Willem van Gogh Laren to the Stedelijk Museum Amsterdam since 16 December 1930 transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Probably taken from Nuenen by his brother, Theo van Gogh, Paris, at the end of March 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 16 December 1930; transferred by Vincent Willem van Gogh, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after December 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after December 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris midJune 1886 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, mid-June 1886; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after May 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam ratified 28 December 1970 agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam (ratified 28 December 1970); agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after December 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren donated by Vincent Willem van Gogh on 11 March 1952 to the 1st Vincent van Gogh Foundation Laren transferred on 28 December 1960 by the 1st Vincent van Gogh Foundation to the Theo van Gogh Foundation Laren agreement concluded on 21 July 1962 between the 2nd Vincent van Gogh Foundation Amsterdam and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after December 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; donated by Vincent Willem van Gogh on 11 March 1952 to the (1st) Vincent van Gogh Foundation, Laren; transferred on 28 December 1960 by the (1st) Vincent van Gogh Foundation to the Theo van Gogh Foundation, Laren; agreement concluded on 21 July 1962 between the (2nd) Vincent van Gogh Foundation, Amsterdam, and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after December 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after December 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Probably taken from Nuenen by his brother Theo van Gogh Paris 31 March 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Probably taken from Nuenen by his brother Theo van Gogh, Paris, 31 March 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after May 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren given on loan by Vincent Willem van Gogh Laren to the Stedelijk Museum Amsterdam since 16 December 1930 transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 16 December 1930; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after February 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren given on loan by Vincent Willem van Gogh Laren to the Stedelijk Museum Amsterdam since 16 December 1930 donated by Vincent Willem van Gogh on 11 March 1952 to the 1st Vincent van Gogh Foundation Laren transferred on 28 December 1960 by the 1st Vincent van Gogh Foundation to the Theo van Gogh Foundation Laren agreement concluded on 21 July 1962 between the 2nd Vincent van Gogh Foundation Amsterdam and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after February 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 16 December 1930; donated by Vincent Willem van Gogh on 11 March 1952 to the (1st) Vincent van Gogh Foundation, Laren; transferred on 28 December 1960 by the (1st) Vincent van Gogh Foundation to the Theo van Gogh Foundation, Laren; agreement concluded on 21 July 1962 between the (2nd) Vincent van Gogh Foundation, Amsterdam, and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="10">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after January 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after January 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris sometime between February and March 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam ratified 28 December 1970 agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between February and March 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam (ratified 28 December 1970); agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Probably taken from Nuenen by his brother Theo van Gogh Paris March 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Probably taken from Nuenen by his brother, Theo van Gogh, Paris, March 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris mid June 1886 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren donated by Vincent Willem van Gogh on 11 March 1952 to the 1st Vincent van Gogh Foundation Laren transferred on 28 December 1960 by the 1st Vincent van Gogh Foundation to the Theo van Gogh Foundation Laren agreement concluded on 21 July 1962 between the 2nd Vincent van Gogh Foundation Amsterdam and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, mid June 1886; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; donated by Vincent Willem van Gogh on 11 March 1952 to the (1st) Vincent van Gogh Foundation, Laren; transferred on 28 December 1960 by the (1st) Vincent van Gogh Foundation to the Theo van Gogh Foundation, Laren; agreement concluded on 21 July 1962 between the (2nd) Vincent van Gogh Foundation, Amsterdam, and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after May 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris mid June 1886 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, mid June 1886; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after March 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after March 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Taken from Nuenen by his brother Theo van Gogh Paris at the end of March 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Taken from Nuenen by his brother, Theo van Gogh, Paris, at the end of March 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris FebruaryMarch 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, February-March 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris mid June 1886 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam ratified 28 December 1970 agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, mid June 1886; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Probably left by the artist with his mother AC van GoghCarbentus NuenenBreda sometime between November 1885 and February 1886 given in safekeeping to Janus Schrauwen Breda April 1888 left with Janus Schrauwen by AC van GoghCarbentus after her move to Leiden 1889 sold by Janus Schrauwen to Jan C Couvreur 14 August 1902 sold by Jan C Couvreur to Kees Mouwen Jr and Willem van Bakel Breda 190203 given on consignment by Kees Mouwen Jr and Willem van Bakel to Kunstzalen Oldenzeel Rotterdam 190304 probably sold by Kunstzalen Oldenzeel to HP Bremmer The Hague after his death on 10 January 1956 bequeathed to his inheritance sold by the inheritance to Kunsthandel Van Wisselingh Amsterdam 1960 1962 sold by Kunsthandel Van Wisselingh to HAD Thomas Amsterdam after his death in 1964 inherited by his mother D ThomasMager Amsterdam after her death in 1965 donated to the Vincent van Gogh Foundation given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, mid June 1886; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam (ratified 28 December 1970); agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris sometime between October 1886 and January 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Probably left by the artist with his mother, A.C. van Gogh-Carbentus, Nuenen/Breda, sometime between November 1885 and February 1886; given in safekeeping to Janus Schrauwen, Breda, April 1888; left with Janus Schrauwen by A.C. van Gogh-Carbentus after her move to Leiden, 1889; sold by Janus Schrauwen to Jan C. Couvreur, 14 August 1902; sold by Jan C. Couvreur to Kees Mouwen Jr and Willem van Bakel, Breda, 1902-03; given on consignment by Kees Mouwen Jr and Willem van Bakel to Kunstzalen Oldenzeel, Rotterdam, 1903-04; probably sold by Kunstzalen Oldenzeel to H.P. Bremmer, The Hague; after his death on 10 January 1956 bequeathed to his inheritance; sold by the inheritance to Kunsthandel Van Wisselingh, Amsterdam, 1960; 1962 sold by Kunsthandel Van Wisselingh to H.A.D. Thomas, Amsterdam; after his death in 1964 inherited by his mother D. Thomas-Mager, Amsterdam; after her death in 1965 donated to the Vincent van Gogh Foundation; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris sometime between October 1886 and January 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren given on loan by Vincent Willem van Gogh Laren to the Stedelijk Museum Amsterdam since 22 October 1931 transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="24">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after May 1885 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren given on loan by Vincent Willem van Gogh Laren to the Stedelijk Museum Amsterdam since 22 October 1931 transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="25">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after the first half of June 1890 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="26">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam ratified 28 December 1970 agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after the first half of June 1890; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="27">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris sometime between June and September 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State transferred by Vincent Willem van Gogh Laren to the Vincent van Gogh Foundation Amsterdam 14 March 1970 given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam (ratified 28 December 1970); agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="28">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after July 1890 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren transferred by Vincent Willem van Gogh Laren on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between June and September 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; transferred by Vincent Willem van Gogh, Laren, to the Vincent van Gogh Foundation, Amsterdam, 14 March 1970 given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="29">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh Paris after midJune 1890 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren given on loan by Vincent Willem van Gogh Laren to the Stedelijk Museum Amsterdam since 22 October 1931 transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation Amsterdam agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after July 1890; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="30">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh Paris sometime between October 1886 and January 1887 after Theos death on 25 January 1891 inherited by his widow Jo van GoghBonger and their son Vincent Willem van Gogh Paris administered until her death on 2 September 1925 by Jo van GoghBonger BussumAmsterdamLaren agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands in which the preservation and management of the collection and its placing in the Rijksmuseum Vincent van Gogh to be realized in Amsterdam is entrusted to the State transferred by Vincent Willem van Gogh Laren to the Vincent van Gogh Foundation Amsterdam 17 May 1972 given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum Amsterdam on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum Amsterdam since 1 July 1994"/>
+<entry key="StringCell" type="xstring" value="With his brother Theo van Gogh, Paris, after mid-June 1890; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
 </config>
 </config>
 <config key="31">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Bought by HP Bremmer The Hague sometime between 1914 and 1920 after his death on 10 January 1956 with the heirs Bremmer The Hague with his son F Bremmer The Hague c 1960 after his death on 4 November 1981 inherited by his widow AA BremmerHollmann The Hague after her death in 1989 bequeathed to her inheritance 12 December 1990 sale Amsterdam Christies Impressionist and modern art from the collection of the late Mrs AA BremmerHollmann The Hague lot 254 Jacob Meyers daughterafter Hans Holbein bought by Blondeau Fine Art Services Geneve for NLG 74750 2004 sold by Blondeau Fine Art Services to Annet Gelink Gallery Amsterdam 2004 sold by Annet Gelink Gallery to the Van Gogh Museum and the Kroller Muller Museum 2005"/>
+<entry key="StringCell" type="xstring" value="Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; transferred by Vincent Willem van Gogh, Laren, to the Vincent van Gogh Foundation, Amsterdam, 17 May 1972; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."/>
+</config>
+</config>
+<config key="32">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Bought by H.P. Bremmer, The Hague, sometime between 1914 and 1920; after his death on 10 January 1956 with the heirs Bremmer, The Hague; with his son F. Bremmer, The Hague, c. 1960; after his death on 4 November 1981 inherited by his widow A.A. Bremmer-Hollmann, The Hague; after her death in 1989 bequeathed to her inheritance; 12 December 1990 sale Amsterdam, Christies (Impressionist and modern art from the collection of the late Mrs. A.A. Bremmer-Hollmann, The Hague), lot 254 (Jacob Meyers daughter-after Hans Holbein), bought by Blondeau Fine Art Services, Geneve for NLG 74.750; 2004 sold by Blondeau Fine Art Services to Annet Gelink Gallery, Amsterdam, 2004; sold by Annet Gelink Gallery to the Van Gogh Museum and the Kroller Muller Museum, 2005."/>
 </config>
 </config>
 </config>
@@ -3733,34 +3739,6 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_43">
-<entry key="column_name" type="xstring" value="figure representation"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain">
-<config key="possible_values">
-<entry key="array-size" type="xint" value="2"/>
-<config key="0">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="https://vangoghmuseum.nl/en/collection?Genre=figure (representation)"/>
-</config>
-</config>
-<config key="1">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="localhost"/>
-</config>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_44">
 <entry key="column_name" type="xstring" value="heads"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3788,7 +3766,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_45">
+<config key="column_spec_44">
 <entry key="column_name" type="xstring" value="Antwerp"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3816,7 +3794,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_46">
+<config key="column_spec_45">
 <entry key="column_name" type="xstring" value="portrait"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3844,7 +3822,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_47">
+<config key="column_spec_46">
 <entry key="column_name" type="xstring" value="1886"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3872,7 +3850,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_48">
+<config key="column_spec_47">
 <entry key="column_name" type="xstring" value="Paris"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3900,7 +3878,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_49">
+<config key="column_spec_48">
 <entry key="column_name" type="xstring" value="still life"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3928,7 +3906,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_50">
+<config key="column_spec_49">
 <entry key="column_name" type="xstring" value="nude"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3956,7 +3934,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_51">
+<config key="column_spec_50">
 <entry key="column_name" type="xstring" value="1884"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -3984,7 +3962,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_52">
+<config key="column_spec_51">
 <entry key="column_name" type="xstring" value="1887"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -4012,7 +3990,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_53">
+<config key="column_spec_52">
 <entry key="column_name" type="xstring" value="animal art"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -4040,7 +4018,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_54">
+<config key="column_spec_53">
 <entry key="column_name" type="xstring" value="drawing"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -4068,7 +4046,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_55">
+<config key="column_spec_54">
 <entry key="column_name" type="xstring" value="1890"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -4096,35 +4074,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_56">
-<entry key="column_name" type="xstring" value="AuverssurOise"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain">
-<config key="possible_values">
-<entry key="array-size" type="xint" value="2"/>
-<config key="0">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="https://vangoghmuseum.nl/en/collection?Place=Auvers-sur-Oise"/>
-</config>
-</config>
-<config key="1">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="localhost"/>
-</config>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_57">
+<config key="column_spec_55">
 <entry key="column_name" type="xstring" value="cityscape"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -4152,35 +4102,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_58">
-<entry key="column_name" type="xstring" value="landscape representation"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain">
-<config key="possible_values">
-<entry key="array-size" type="xint" value="2"/>
-<config key="0">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="https://vangoghmuseum.nl/en/collection?Genre=landscape (representation)"/>
-</config>
-</config>
-<config key="1">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="localhost"/>
-</config>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_59">
+<config key="column_spec_56">
 <entry key="column_name" type="xstring" value="1881"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -4208,7 +4130,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_60">
+<config key="column_spec_57">
 <entry key="column_name" type="xstring" value="Brussels"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>

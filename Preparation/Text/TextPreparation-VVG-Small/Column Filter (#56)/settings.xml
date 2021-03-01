@@ -9,77 +9,24 @@
 <config key="column-filter">
 <entry key="filter-type" type="xstring" value="name_pattern"/>
 <config key="included_names">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="10"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="creator-info"/>
 <entry key="3" type="xstring" value="details"/>
 <entry key="4" type="xstring" value="credit"/>
 <entry key="5" type="xstring" value="section"/>
-<entry key="6" type="xstring" value="complementary colours"/>
-<entry key="7" type="xstring" value="this torso of Venus"/>
-<entry key="8" type="xstring" value="drew"/>
-<entry key="9" type="xstring" value="Van Gogh wrote"/>
-<entry key="10" type="xstring" value="standing torso of Venus"/>
-<entry key="11" type="xstring" value="he wrote"/>
-<entry key="12" type="xstring" value="The Potato Eaters"/>
-<entry key="13" type="xstring" value="which he painted a number of times"/>
-<entry key="14" type="xstring" value="He would use this technique more than once in his later work"/>
-<entry key="15" type="xstring" value="F-number"/>
-<entry key="16" type="xstring" value="JH-number"/>
-<entry key="17" type="xstring" value="Object number"/>
-<entry key="18" type="xstring" value="Dimensions"/>
-<entry key="19" type="xstring" value="Provenance"/>
-<entry key="20" type="xstring" value="Head of a Woman"/>
-<entry key="21" type="xstring" value="Head of a Man"/>
-<entry key="22" type="xstring" value="Head of a Woman 1"/>
-<entry key="23" type="xstring" value="Head of a Woman 2"/>
-<entry key="24" type="xstring" value="Head of a Woman 3"/>
-<entry key="25" type="xstring" value="Torso of Venus"/>
-<entry key="26" type="xstring" value="Horse"/>
-<entry key="27" type="xstring" value="Torso of Venus 1"/>
-<entry key="28" type="xstring" value="Male Torso"/>
-<entry key="29" type="xstring" value="Kneeling Ecorche"/>
-<entry key="30" type="xstring" value="Torso of Venus 2"/>
-<entry key="31" type="xstring" value="Portrait of a Prostitute"/>
-<entry key="32" type="xstring" value="Head of an Old Man"/>
-<entry key="33" type="xstring" value="Head of a Woman 4"/>
-<entry key="34" type="xstring" value="Plaster Cast of a Womans Torso"/>
-<entry key="35" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
-<entry key="36" type="xstring" value="Torso of Venus 3"/>
-<entry key="37" type="xstring" value="Woman Sewing"/>
-<entry key="38" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
-<entry key="39" type="xstring" value="Head of a Prostitute"/>
-<entry key="40" type="xstring" value="1885"/>
-<entry key="41" type="xstring" value="Nuenen"/>
-<entry key="42" type="xstring" value="painting"/>
-<entry key="43" type="xstring" value="figure representation"/>
-<entry key="44" type="xstring" value="heads"/>
-<entry key="45" type="xstring" value="Antwerp"/>
-<entry key="46" type="xstring" value="portrait"/>
-<entry key="47" type="xstring" value="1886"/>
-<entry key="48" type="xstring" value="Paris"/>
-<entry key="49" type="xstring" value="still life"/>
-<entry key="50" type="xstring" value="nude"/>
-<entry key="51" type="xstring" value="1884"/>
-<entry key="52" type="xstring" value="1887"/>
-<entry key="53" type="xstring" value="animal art"/>
-<entry key="54" type="xstring" value="drawing"/>
-<entry key="55" type="xstring" value="1890"/>
-<entry key="56" type="xstring" value="AuverssurOise"/>
-<entry key="57" type="xstring" value="cityscape"/>
-<entry key="58" type="xstring" value="landscape representation"/>
-<entry key="59" type="xstring" value="1881"/>
-<entry key="60" type="xstring" value="Brussels"/>
-<entry key="61" type="xstring" value="IMG_DATA"/>
-<entry key="62" type="xstring" value="IMG_SHAPE"/>
+<entry key="6" type="xstring" value="F-number"/>
+<entry key="7" type="xstring" value="JH-number"/>
+<entry key="8" type="xstring" value="Object number"/>
+<entry key="9" type="xstring" value="Provenance"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
 <config key="name_pattern">
-<entry key="pattern" type="xstring" value="title|credit|creator-info|details|section|(F-|JH-|Object )number|Provenance|ID"/>
+<entry key="pattern" type="xstring" value="ID|(F-|JH-|Object )number|Dimensions"/>
 <entry key="type" type="xstring" value="Regex"/>
 <entry key="caseSensitive" type="xboolean" value="true"/>
 </config>
@@ -96,10 +43,10 @@
 </config>
 </config>
 <config key="nodeAnnotation">
-<entry key="text" type="xstring" value="Filtering %%00013%%00010text data"/>
+<entry key="text" type="xstring" value="Filter extended text%%00013%%00010columns"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="107"/>
-<entry key="y-coordinate" type="xint" value="219"/>
+<entry key="x-coordinate" type="xint" value="307"/>
+<entry key="y-coordinate" type="xint" value="379"/>
 <entry key="width" type="xint" value="106"/>
 <entry key="height" type="xint" value="30"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
@@ -109,8 +56,8 @@
 <entry key="annotation-version" type="xint" value="20151123"/>
 <config key="styles">
 <config key="style_0">
-<entry key="start" type="xint" value="12"/>
-<entry key="length" type="xint" value="4"/>
+<entry key="start" type="xint" value="7"/>
+<entry key="length" type="xint" value="8"/>
 <entry key="fontname" type="xstring" value="Arial"/>
 <entry key="fontstyle" type="xint" value="0"/>
 <entry key="fontsize" type="xint" value="9"/>
@@ -139,12 +86,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 10"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 5"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="fd5ad9d4-24b9-4543-a7c2-e92d42b3e48f"/>
+<entry key="file_store_id" type="xstring" value="e09558a3-f834-46f1-97b8-e5138151b8e9"/>
 </config>
 </config>

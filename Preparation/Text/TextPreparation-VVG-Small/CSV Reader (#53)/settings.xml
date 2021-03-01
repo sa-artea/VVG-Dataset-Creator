@@ -67,7 +67,7 @@
 <entry key="root_path_Internals" type="xstring" value="\Data\Star\Small\VVG-Star-Gallery-Collection.csv"/>
 <config key="datatable_spec_Internals">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="63"/>
+<entry key="number_columns" type="xint" value="60"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -585,18 +585,6 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_43">
-<entry key="column_name" type="xstring" value="figure representation"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_44">
 <entry key="column_name" type="xstring" value="heads"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -608,7 +596,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_45">
+<config key="column_spec_44">
 <entry key="column_name" type="xstring" value="Antwerp"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -620,7 +608,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_46">
+<config key="column_spec_45">
 <entry key="column_name" type="xstring" value="portrait"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -632,7 +620,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_47">
+<config key="column_spec_46">
 <entry key="column_name" type="xstring" value="1886"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -644,7 +632,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_48">
+<config key="column_spec_47">
 <entry key="column_name" type="xstring" value="Paris"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -656,7 +644,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_49">
+<config key="column_spec_48">
 <entry key="column_name" type="xstring" value="still life"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -668,7 +656,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_50">
+<config key="column_spec_49">
 <entry key="column_name" type="xstring" value="nude"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -680,7 +668,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_51">
+<config key="column_spec_50">
 <entry key="column_name" type="xstring" value="1884"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -692,7 +680,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_52">
+<config key="column_spec_51">
 <entry key="column_name" type="xstring" value="1887"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -704,7 +692,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_53">
+<config key="column_spec_52">
 <entry key="column_name" type="xstring" value="animal art"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -716,7 +704,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_54">
+<config key="column_spec_53">
 <entry key="column_name" type="xstring" value="drawing"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -728,7 +716,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_55">
+<config key="column_spec_54">
 <entry key="column_name" type="xstring" value="1890"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -740,19 +728,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_56">
-<entry key="column_name" type="xstring" value="AuverssurOise"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_57">
+<config key="column_spec_55">
 <entry key="column_name" type="xstring" value="cityscape"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -764,19 +740,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_58">
-<entry key="column_name" type="xstring" value="landscape representation"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_59">
+<config key="column_spec_56">
 <entry key="column_name" type="xstring" value="1881"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -788,7 +752,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_60">
+<config key="column_spec_57">
 <entry key="column_name" type="xstring" value="Brussels"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -800,25 +764,25 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_61">
+<config key="column_spec_58">
 <entry key="column_name" type="xstring" value="IMG_DATA"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
 </config>
 <config key="column_domain"/>
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_62">
+<config key="column_spec_59">
 <entry key="column_name" type="xstring" value="IMG_SHAPE"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
 </config>
 <config key="column_domain"/>
 <config key="column_properties"/>
@@ -831,7 +795,7 @@
 </config>
 <config key="individual_specs_Internals">
 <config key="individual_spec_0">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="60"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="creator-info"/>
@@ -875,26 +839,23 @@
 <entry key="40" type="xstring" value="1885"/>
 <entry key="41" type="xstring" value="Nuenen"/>
 <entry key="42" type="xstring" value="painting"/>
-<entry key="43" type="xstring" value="figure representation"/>
-<entry key="44" type="xstring" value="heads"/>
-<entry key="45" type="xstring" value="Antwerp"/>
-<entry key="46" type="xstring" value="portrait"/>
-<entry key="47" type="xstring" value="1886"/>
-<entry key="48" type="xstring" value="Paris"/>
-<entry key="49" type="xstring" value="still life"/>
-<entry key="50" type="xstring" value="nude"/>
-<entry key="51" type="xstring" value="1884"/>
-<entry key="52" type="xstring" value="1887"/>
-<entry key="53" type="xstring" value="animal art"/>
-<entry key="54" type="xstring" value="drawing"/>
-<entry key="55" type="xstring" value="1890"/>
-<entry key="56" type="xstring" value="AuverssurOise"/>
-<entry key="57" type="xstring" value="cityscape"/>
-<entry key="58" type="xstring" value="landscape representation"/>
-<entry key="59" type="xstring" value="1881"/>
-<entry key="60" type="xstring" value="Brussels"/>
-<entry key="61" type="xstring" value="IMG_DATA"/>
-<entry key="62" type="xstring" value="IMG_SHAPE"/>
+<entry key="43" type="xstring" value="heads"/>
+<entry key="44" type="xstring" value="Antwerp"/>
+<entry key="45" type="xstring" value="portrait"/>
+<entry key="46" type="xstring" value="1886"/>
+<entry key="47" type="xstring" value="Paris"/>
+<entry key="48" type="xstring" value="still life"/>
+<entry key="49" type="xstring" value="nude"/>
+<entry key="50" type="xstring" value="1884"/>
+<entry key="51" type="xstring" value="1887"/>
+<entry key="52" type="xstring" value="animal art"/>
+<entry key="53" type="xstring" value="drawing"/>
+<entry key="54" type="xstring" value="1890"/>
+<entry key="55" type="xstring" value="cityscape"/>
+<entry key="56" type="xstring" value="1881"/>
+<entry key="57" type="xstring" value="Brussels"/>
+<entry key="58" type="xstring" value="IMG_DATA"/>
+<entry key="59" type="xstring" value="IMG_SHAPE"/>
 </config>
 </config>
 <config key="production_paths_Internals">
@@ -1478,60 +1439,30 @@
 <entry key="production_path_57_producer_dst" type="xstring" value="java.lang.String"/>
 <entry key="production_path_57_producer_name" type="xstring" value="java.lang.String"/>
 <config key="production_path_57_producer_config"/>
-<entry key="production_path_58_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-<entry key="production_path_58_converter_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_58_converter_dst" type="xstring" value="String"/>
-<entry key="production_path_58_converter_name" type="xstring" value="String"/>
+<entry key="production_path_58_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
+<entry key="production_path_58_converter_src" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_58_converter_dst" type="xstring" value="Number (integer)"/>
+<entry key="production_path_58_converter_name" type="xstring" value="Integer"/>
 <config key="production_path_58_converter_config"/>
-<entry key="production_path_58_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-<entry key="production_path_58_producer_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_58_producer_dst" type="xstring" value="java.lang.String"/>
-<entry key="production_path_58_producer_name" type="xstring" value="java.lang.String"/>
+<entry key="production_path_58_producer" type="xstring" value="class java.lang.Integer-&gt;java.lang.Integer"/>
+<entry key="production_path_58_producer_src" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_58_producer_dst" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_58_producer_name" type="xstring" value="java.lang.Integer"/>
 <config key="production_path_58_producer_config"/>
-<entry key="production_path_59_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-<entry key="production_path_59_converter_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_59_converter_dst" type="xstring" value="String"/>
-<entry key="production_path_59_converter_name" type="xstring" value="String"/>
+<entry key="production_path_59_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
+<entry key="production_path_59_converter_src" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_59_converter_dst" type="xstring" value="Number (integer)"/>
+<entry key="production_path_59_converter_name" type="xstring" value="Integer"/>
 <config key="production_path_59_converter_config"/>
-<entry key="production_path_59_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-<entry key="production_path_59_producer_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_59_producer_dst" type="xstring" value="java.lang.String"/>
-<entry key="production_path_59_producer_name" type="xstring" value="java.lang.String"/>
+<entry key="production_path_59_producer" type="xstring" value="class java.lang.Integer-&gt;java.lang.Integer"/>
+<entry key="production_path_59_producer_src" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_59_producer_dst" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_59_producer_name" type="xstring" value="java.lang.Integer"/>
 <config key="production_path_59_producer_config"/>
-<entry key="production_path_60_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-<entry key="production_path_60_converter_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_60_converter_dst" type="xstring" value="String"/>
-<entry key="production_path_60_converter_name" type="xstring" value="String"/>
-<config key="production_path_60_converter_config"/>
-<entry key="production_path_60_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-<entry key="production_path_60_producer_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_60_producer_dst" type="xstring" value="java.lang.String"/>
-<entry key="production_path_60_producer_name" type="xstring" value="java.lang.String"/>
-<config key="production_path_60_producer_config"/>
-<entry key="production_path_61_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-<entry key="production_path_61_converter_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_61_converter_dst" type="xstring" value="String"/>
-<entry key="production_path_61_converter_name" type="xstring" value="String"/>
-<config key="production_path_61_converter_config"/>
-<entry key="production_path_61_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-<entry key="production_path_61_producer_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_61_producer_dst" type="xstring" value="java.lang.String"/>
-<entry key="production_path_61_producer_name" type="xstring" value="java.lang.String"/>
-<config key="production_path_61_producer_config"/>
-<entry key="production_path_62_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
-<entry key="production_path_62_converter_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_62_converter_dst" type="xstring" value="String"/>
-<entry key="production_path_62_converter_name" type="xstring" value="String"/>
-<config key="production_path_62_converter_config"/>
-<entry key="production_path_62_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
-<entry key="production_path_62_producer_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_62_producer_dst" type="xstring" value="java.lang.String"/>
-<entry key="production_path_62_producer_name" type="xstring" value="java.lang.String"/>
-<config key="production_path_62_producer_config"/>
-<entry key="num_production_paths_Internals" type="xint" value="63"/>
+<entry key="num_production_paths_Internals" type="xint" value="60"/>
 </config>
 <config key="original_names_Internals">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="60"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="creator-info"/>
@@ -1575,29 +1506,26 @@
 <entry key="40" type="xstring" value="1885"/>
 <entry key="41" type="xstring" value="Nuenen"/>
 <entry key="42" type="xstring" value="painting"/>
-<entry key="43" type="xstring" value="figure representation"/>
-<entry key="44" type="xstring" value="heads"/>
-<entry key="45" type="xstring" value="Antwerp"/>
-<entry key="46" type="xstring" value="portrait"/>
-<entry key="47" type="xstring" value="1886"/>
-<entry key="48" type="xstring" value="Paris"/>
-<entry key="49" type="xstring" value="still life"/>
-<entry key="50" type="xstring" value="nude"/>
-<entry key="51" type="xstring" value="1884"/>
-<entry key="52" type="xstring" value="1887"/>
-<entry key="53" type="xstring" value="animal art"/>
-<entry key="54" type="xstring" value="drawing"/>
-<entry key="55" type="xstring" value="1890"/>
-<entry key="56" type="xstring" value="AuverssurOise"/>
-<entry key="57" type="xstring" value="cityscape"/>
-<entry key="58" type="xstring" value="landscape representation"/>
-<entry key="59" type="xstring" value="1881"/>
-<entry key="60" type="xstring" value="Brussels"/>
-<entry key="61" type="xstring" value="IMG_DATA"/>
-<entry key="62" type="xstring" value="IMG_SHAPE"/>
+<entry key="43" type="xstring" value="heads"/>
+<entry key="44" type="xstring" value="Antwerp"/>
+<entry key="45" type="xstring" value="portrait"/>
+<entry key="46" type="xstring" value="1886"/>
+<entry key="47" type="xstring" value="Paris"/>
+<entry key="48" type="xstring" value="still life"/>
+<entry key="49" type="xstring" value="nude"/>
+<entry key="50" type="xstring" value="1884"/>
+<entry key="51" type="xstring" value="1887"/>
+<entry key="52" type="xstring" value="animal art"/>
+<entry key="53" type="xstring" value="drawing"/>
+<entry key="54" type="xstring" value="1890"/>
+<entry key="55" type="xstring" value="cityscape"/>
+<entry key="56" type="xstring" value="1881"/>
+<entry key="57" type="xstring" value="Brussels"/>
+<entry key="58" type="xstring" value="IMG_DATA"/>
+<entry key="59" type="xstring" value="IMG_SHAPE"/>
 </config>
 <config key="positional_mapping_Internals">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="60"/>
 <entry key="0" type="xint" value="0"/>
 <entry key="1" type="xint" value="1"/>
 <entry key="2" type="xint" value="2"/>
@@ -1658,12 +1586,9 @@
 <entry key="57" type="xint" value="57"/>
 <entry key="58" type="xint" value="58"/>
 <entry key="59" type="xint" value="59"/>
-<entry key="60" type="xint" value="60"/>
-<entry key="61" type="xint" value="61"/>
-<entry key="62" type="xint" value="62"/>
 </config>
 <config key="keep_Internals">
-<entry key="array-size" type="xint" value="63"/>
+<entry key="array-size" type="xint" value="60"/>
 <entry key="0" type="xboolean" value="true"/>
 <entry key="1" type="xboolean" value="true"/>
 <entry key="2" type="xboolean" value="true"/>
@@ -1724,11 +1649,8 @@
 <entry key="57" type="xboolean" value="true"/>
 <entry key="58" type="xboolean" value="true"/>
 <entry key="59" type="xboolean" value="true"/>
-<entry key="60" type="xboolean" value="true"/>
-<entry key="61" type="xboolean" value="true"/>
-<entry key="62" type="xboolean" value="true"/>
 </config>
-<entry key="unknown_column_position_Internals" type="xint" value="63"/>
+<entry key="unknown_column_position_Internals" type="xint" value="60"/>
 <entry key="include_unknown_columns_Internals" type="xboolean" value="true"/>
 <entry key="enforce_types" type="xboolean" value="true"/>
 <entry key="column_filter_mode_Internals" type="xstring" value="UNION"/>
@@ -1797,12 +1719,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 63"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 60"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="822dd4ec-834d-457e-88b5-011b51da460c"/>
+<entry key="file_store_id" type="xstring" value="2ec06484-5dc2-4d4b-892c-5b2b8df9df35"/>
 </config>
 </config>

@@ -12,7 +12,7 @@
 <entry key="include" type="xboolean" value="true"/>
 <entry key="deepFiltering" type="xboolean" value="false"/>
 <entry key="CaseSensitive" type="xboolean" value="true"/>
-<entry key="Pattern" type="xstring" value="True"/>
+<entry key="Pattern" type="xstring" value="true"/>
 <entry key="hasWildCards" type="xboolean" value="false"/>
 <entry key="isRegExpr" type="xboolean" value="false"/>
 </config>
@@ -58,6 +58,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="43a7ab4a-8c94-4421-b2bb-ca500aee78e8"/>
+<entry key="file_store_id" type="xstring" value="fd4533b0-c108-4bba-bb10-b6c76273d418"/>
 </config>
 </config>
