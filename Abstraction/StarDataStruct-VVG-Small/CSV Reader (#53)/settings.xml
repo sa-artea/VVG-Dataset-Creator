@@ -122,7 +122,7 @@
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.BooleanCell"/>
 </config>
 <config key="column_domain"/>
 <config key="column_properties"/>
@@ -262,9 +262,9 @@
 <entry key="production_path_3_producer_dst" type="xstring" value="java.lang.String"/>
 <entry key="production_path_3_producer_name" type="xstring" value="java.lang.String"/>
 <config key="production_path_3_producer_config"/>
-<entry key="production_path_4_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_4_converter" type="xstring" value="org.knime.core.data.def.BooleanCell$BooleanCellFactory.createCell(class java.lang.String)"/>
 <entry key="production_path_4_converter_src" type="xstring" value="java.lang.String"/>
-<entry key="production_path_4_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_4_converter_dst" type="xstring" value="Boolean value"/>
 <entry key="production_path_4_converter_name" type="xstring" value="String"/>
 <config key="production_path_4_converter_config"/>
 <entry key="production_path_4_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
@@ -451,6 +451,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="e7843a5f-666d-41e8-9837-611fe9dcb9e6"/>
+<entry key="file_store_id" type="xstring" value="dc125971-d243-46e6-9475-6f5516a04e97"/>
 </config>
 </config>

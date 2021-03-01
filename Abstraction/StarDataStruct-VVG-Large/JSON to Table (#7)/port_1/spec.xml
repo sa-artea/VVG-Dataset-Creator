@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="84"/>
+<entry key="number_columns" type="xint" value="85"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -15,6 +15,18 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_1">
+<entry key="column_name" type="xstring" value="unnamed"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.json.JSONCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_2">
 <entry key="column_name" type="xstring" value="title"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -26,7 +38,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_2">
+<config key="column_spec_3">
 <entry key="column_name" type="xstring" value="onview"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -48,7 +60,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_3">
+<config key="column_spec_4">
 <entry key="column_name" type="xstring" value="creatorinfo"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -60,7 +72,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_4">
+<config key="column_spec_5">
 <entry key="column_name" type="xstring" value="details"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -72,7 +84,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_5">
+<config key="column_spec_6">
 <entry key="column_name" type="xstring" value="credit"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -166,7 +178,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_6">
+<config key="column_spec_7">
 <entry key="column_name" type="xstring" value="section"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -178,7 +190,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_7">
+<config key="column_spec_8">
 <entry key="column_name" type="xstring" value="He wanted"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -206,7 +218,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_8">
+<config key="column_spec_9">
 <entry key="column_name" type="xstring" value="He told his sister Wil"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -228,7 +240,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_9">
+<config key="column_spec_10">
 <entry key="column_name" type="xstring" value="he wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -364,7 +376,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_10">
+<config key="column_spec_11">
 <entry key="column_name" type="xstring" value="description"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -386,7 +398,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_11">
+<config key="column_spec_12">
 <entry key="column_name" type="xstring" value="a letter"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -414,7 +426,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_12">
+<config key="column_spec_13">
 <entry key="column_name" type="xstring" value="He saw the reaper as"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -436,7 +448,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_13">
+<config key="column_spec_14">
 <entry key="column_name" type="xstring" value="the other still life"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -458,7 +470,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_14">
+<config key="column_spec_15">
 <entry key="column_name" type="xstring" value="healthy and fortifying about the countryside"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -480,7 +492,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_15">
+<config key="column_spec_16">
 <entry key="column_name" type="xstring" value="the letter"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -502,7 +514,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_16">
+<config key="column_spec_17">
 <entry key="column_name" type="xstring" value="the hospital in SaintRemy"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -524,7 +536,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_17">
+<config key="column_spec_18">
 <entry key="column_name" type="xstring" value="Van Gogh wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -558,7 +570,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_18">
+<config key="column_spec_19">
 <entry key="column_name" type="xstring" value="He wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -640,7 +652,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_19">
+<config key="column_spec_20">
 <entry key="column_name" type="xstring" value="Vincent had told Theo"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -662,7 +674,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_20">
+<config key="column_spec_21">
 <entry key="column_name" type="xstring" value="Vincent explained"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -684,7 +696,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_21">
+<config key="column_spec_22">
 <entry key="column_name" type="xstring" value="Head of a Woman"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -706,7 +718,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_22">
+<config key="column_spec_23">
 <entry key="column_name" type="xstring" value="complementary colours"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -734,7 +746,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_23">
+<config key="column_spec_24">
 <entry key="column_name" type="xstring" value="The Potato Eaters"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -756,7 +768,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_24">
+<config key="column_spec_25">
 <entry key="column_name" type="xstring" value="Vincent described"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -778,7 +790,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_25">
+<config key="column_spec_26">
 <entry key="column_name" type="xstring" value="colours he used"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -800,7 +812,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_26">
+<config key="column_spec_27">
 <entry key="column_name" type="xstring" value="writing to"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -822,7 +834,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_27">
+<config key="column_spec_28">
 <entry key="column_name" type="xstring" value="matt in colour without looking impressive"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -844,7 +856,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_28">
+<config key="column_spec_29">
 <entry key="column_name" type="xstring" value="he was pleased with the result"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -866,7 +878,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_29">
+<config key="column_spec_30">
 <entry key="column_name" type="xstring" value="his own simple peasant chair"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -888,7 +900,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_30">
+<config key="column_spec_31">
 <entry key="column_name" type="xstring" value="this torso of Venus"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -910,7 +922,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_31">
+<config key="column_spec_32">
 <entry key="column_name" type="xstring" value="drew"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -932,7 +944,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_32">
+<config key="column_spec_33">
 <entry key="column_name" type="xstring" value="as he had done when he began his painting career three years before"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -954,7 +966,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_33">
+<config key="column_spec_34">
 <entry key="column_name" type="xstring" value="one portrait photo"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -976,7 +988,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_34">
+<config key="column_spec_35">
 <entry key="column_name" type="xstring" value="has survived"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -998,7 +1010,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_35">
+<config key="column_spec_36">
 <entry key="column_name" type="xstring" value="painted a number of pictures at this spot"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1020,7 +1032,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_36">
+<config key="column_spec_37">
 <entry key="column_name" type="xstring" value="Van Gogh drew strength from nature"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1042,7 +1054,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_37">
+<config key="column_spec_38">
 <entry key="column_name" type="xstring" value="draw"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1064,7 +1076,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_38">
+<config key="column_spec_39">
 <entry key="column_name" type="xstring" value="portraits"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1086,7 +1098,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_39">
+<config key="column_spec_40">
 <entry key="column_name" type="xstring" value="Pointillism"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1108,7 +1120,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_40">
+<config key="column_spec_41">
 <entry key="column_name" type="xstring" value="Van Gogh described"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1130,7 +1142,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_41">
+<config key="column_spec_42">
 <entry key="column_name" type="xstring" value="standing torso of Venus"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1152,7 +1164,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_42">
+<config key="column_spec_43">
 <entry key="column_name" type="xstring" value="The same girl"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1174,7 +1186,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_43">
+<config key="column_spec_44">
 <entry key="column_name" type="xstring" value="artists smock"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1196,7 +1208,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_44">
+<config key="column_spec_45">
 <entry key="column_name" type="xstring" value="a larger painting of a very similar image"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1218,7 +1230,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_45">
+<config key="column_spec_46">
 <entry key="column_name" type="xstring" value="Van Gogh greatly admired Japanese woodcuts"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1240,7 +1252,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_46">
+<config key="column_spec_47">
 <entry key="column_name" type="xstring" value="the Japanese printmakers style and use of colour"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1262,7 +1274,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_47">
+<config key="column_spec_48">
 <entry key="column_name" type="xstring" value="Plum Garden in Kameido"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1284,7 +1296,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_48">
+<config key="column_spec_49">
 <entry key="column_name" type="xstring" value="employed this unusual way of handling perspective"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1306,7 +1318,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_49">
+<config key="column_spec_50">
 <entry key="column_name" type="xstring" value="painted two years previously"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1328,7 +1340,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_50">
+<config key="column_spec_51">
 <entry key="column_name" type="xstring" value="the laws of colour"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1350,7 +1362,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_51">
+<config key="column_spec_52">
 <entry key="column_name" type="xstring" value="subject"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1372,7 +1384,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_52">
+<config key="column_spec_53">
 <entry key="column_name" type="xstring" value="He painted them frequently during the two months that he spent in Drenthe in 1883"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1394,7 +1406,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_53">
+<config key="column_spec_54">
 <entry key="column_name" type="xstring" value="Study for The Potato Eaters"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1416,7 +1428,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_54">
+<config key="column_spec_55">
 <entry key="column_name" type="xstring" value="Vincent van Gogh wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1438,7 +1450,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_55">
+<config key="column_spec_56">
 <entry key="column_name" type="xstring" value="Vincent wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1478,7 +1490,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_56">
+<config key="column_spec_57">
 <entry key="column_name" type="xstring" value="Van Gogh called it"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1500,7 +1512,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_57">
+<config key="column_spec_58">
 <entry key="column_name" type="xstring" value="still lifes featuring apples"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1522,7 +1534,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_58">
+<config key="column_spec_59">
 <entry key="column_name" type="xstring" value="potatoes"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1544,7 +1556,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_59">
+<config key="column_spec_60">
 <entry key="column_name" type="xstring" value="greenish things"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1566,7 +1578,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_60">
+<config key="column_spec_61">
 <entry key="column_name" type="xstring" value="Vincents somewhat cynical remark"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1588,7 +1600,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_61">
+<config key="column_spec_62">
 <entry key="column_name" type="xstring" value="Van Gogh once wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1610,7 +1622,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_62">
+<config key="column_spec_63">
 <entry key="column_name" type="xstring" value="He had written"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1632,7 +1644,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_63">
+<config key="column_spec_64">
 <entry key="column_name" type="xstring" value="after seeing the work of the Impressionists"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1654,7 +1666,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_64">
+<config key="column_spec_65">
 <entry key="column_name" type="xstring" value="He was a habitue of Parisian cafes"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1676,7 +1688,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_65">
+<config key="column_spec_66">
 <entry key="column_name" type="xstring" value="He later wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1698,7 +1710,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_66">
+<config key="column_spec_67">
 <entry key="column_name" type="xstring" value="print by Rembrandt"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1720,7 +1732,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_67">
+<config key="column_spec_68">
 <entry key="column_name" type="xstring" value="the flower still lifes of Adolphe Monticelli"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1742,7 +1754,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_68">
+<config key="column_spec_69">
 <entry key="column_name" type="xstring" value="the portrait he painted of her"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1764,7 +1776,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_69">
+<config key="column_spec_70">
 <entry key="column_name" type="xstring" value="the effects of different colours on each other"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1786,7 +1798,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_70">
+<config key="column_spec_71">
 <entry key="column_name" type="xstring" value="sketched"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1808,7 +1820,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_71">
+<config key="column_spec_72">
 <entry key="column_name" type="xstring" value="wrote"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1830,7 +1842,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_72">
+<config key="column_spec_73">
 <entry key="column_name" type="xstring" value="which he painted a number of times"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1852,7 +1864,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_73">
+<config key="column_spec_74">
 <entry key="column_name" type="xstring" value="He would use this technique more than once in his later work"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1874,7 +1886,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_74">
+<config key="column_spec_75">
 <entry key="column_name" type="xstring" value="They reminded him"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1896,7 +1908,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_75">
+<config key="column_spec_76">
 <entry key="column_name" type="xstring" value="pollard willows"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1918,7 +1930,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_76">
+<config key="column_spec_77">
 <entry key="column_name" type="xstring" value="the little garden of a bathhouse"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1940,7 +1952,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_77">
+<config key="column_spec_78">
 <entry key="column_name" type="xstring" value="entrance hall of the asylum in SaintRemydeProvence"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1962,7 +1974,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_78">
+<config key="column_spec_79">
 <entry key="column_name" type="xstring" value="Yellow House"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1984,7 +1996,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_79">
+<config key="column_spec_80">
 <entry key="column_name" type="xstring" value="old church tower"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2006,7 +2018,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_80">
+<config key="column_spec_81">
 <entry key="column_name" type="xstring" value="In a letter he called this figure"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2028,7 +2040,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_81">
+<config key="column_spec_82">
 <entry key="column_name" type="xstring" value="in an earlier letter"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2050,7 +2062,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_82">
+<config key="column_spec_83">
 <entry key="column_name" type="xstring" value="The latest drawings look like theyve been done in a fury"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2072,7 +2084,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_83">
+<config key="column_spec_84">
 <entry key="column_name" type="xstring" value="Sien"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>

@@ -14,11 +14,10 @@
 <entry key="1" type="xstring" value="RELATED_WORKS"/>
 </config>
 <config key="excluded_names">
-<entry key="array-size" type="xint" value="4"/>
+<entry key="array-size" type="xint" value="3"/>
 <entry key="0" type="xstring" value="DESCRIPTION"/>
 <entry key="1" type="xstring" value="SEARCH_TAGS"/>
 <entry key="2" type="xstring" value="OBJ_DATA"/>
-<entry key="3" type="xstring" value="IMG_DATA"/>
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
 <config key="name_pattern">
@@ -89,6 +88,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="a15a4b66-1059-4df5-a41a-ef885c27f42e"/>
+<entry key="file_store_id" type="xstring" value="4df09f47-c001-47ef-b60e-18390835743e"/>
 </config>
 </config>

@@ -9,10 +9,10 @@
 <entry key="input.column" type="xstring" value="RELATED_WORKS"/>
 <entry key="column.name.strategy" type="xstring" value="JsonPathWithCustomSeparator"/>
 <entry key="column.segment.separator" type="xstring" value=","/>
-<entry key="expansion" type="xstring" value="OnlyLeaves"/>
+<entry key="expansion" type="xstring" value="OnlyUpTo"/>
 <entry key="up.to.n.levels" type="xint" value="1"/>
 <entry key="array.handling" type="xstring" value="GenerateColumns"/>
-<entry key="removeSourceColumn" type="xboolean" value="true"/>
+<entry key="removeSourceColumn" type="xboolean" value="false"/>
 <entry key="omit.nested.objects" type="xboolean" value="false"/>
 </config>
 <config key="nodeAnnotation">
@@ -59,12 +59,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 22"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 23"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="da9b7668-b124-48a7-878b-cb133064a637"/>
+<entry key="file_store_id" type="xstring" value="75285721-a2ad-49e7-b255-9dca91c9bb74"/>
 </config>
 </config>

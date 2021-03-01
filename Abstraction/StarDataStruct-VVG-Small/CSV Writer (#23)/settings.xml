@@ -25,7 +25,7 @@
 <entry key="location_present" type="xboolean" value="true"/>
 <entry key="file_system_type" type="xstring" value="MOUNTPOINT"/>
 <entry key="file_system_specifier" type="xstring" value="LOCAL"/>
-<entry key="path" type="xstring" value="\Data\Star\Small\related-work-altl.csv"/>
+<entry key="path" type="xstring" value="\Data\Star\Small\related-work-alt.csv"/>
 </config>
 <config key="filter_mode_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
@@ -129,6 +129,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="78e74260-f926-4ad3-820f-7dbca7cbccaf"/>
+<entry key="file_store_id" type="xstring" value="a4d00fd6-bd62-4d96-8081-cdd16014815b"/>
 </config>
 </config>
