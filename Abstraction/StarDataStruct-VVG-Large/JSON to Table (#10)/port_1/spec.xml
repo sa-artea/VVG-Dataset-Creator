@@ -27,7 +27,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_2">
-<entry key="column_name" type="xstring" value="Fnumber"/>
+<entry key="column_name" type="xstring" value="F-number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -39,7 +39,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_3">
-<entry key="column_name" type="xstring" value="JHnumber"/>
+<entry key="column_name" type="xstring" value="JH-number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -109,7 +109,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_8">
-<entry key="column_name" type="xstring" value="Credits obliged to state"/>
+<entry key="column_name" type="xstring" value="Credits (obliged to state)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -122,43 +122,43 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam Vincent van Gogh Foundation"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam purchased with support from the BankGiro Loterij the Vincent van Gogh Foundation the Rembrandt Association and her Prints and Drawings Fund the Mondriaan Fund and the VSB Foundation"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (purchased with support from the BankGiro Loterij, the Vincent van Gogh Foundation, the Rembrandt Association and her Prints and Drawings Fund, the Mondriaan Fund and the VSB Foundation)"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam purchased with support from the Vincent van Gogh Foundation and the Rembrandt Association"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (purchased with support from the Vincent van Gogh Foundation and the Rembrandt Association)"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam Vincent van Gogh Foundation gift from Paul Gachet jr"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation, gift from Paul Gachet jr.)"/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam Drents Museum Assen purchased with support from the BankGiro Loterij Mondriaan Fund Rembrandt Association with the additional support from her Themafonds ImpressionismeClaude Monet Fonds her Hendrickje Fonds and the Prins Bernhard Cultuurfonds Vincent van Gogh Stichting Province of Drenthe Stichting Beringer Hazewinkel Stichting Steunfonds Drents Museum and Stichting Vrienden van het Drents Museum"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam / Drents Museum, Assen (purchased with support from the BankGiro Loterij, Mondriaan Fund, Rembrandt Association (with the additional support from her Themafonds Impressionisme/Claude Monet Fonds, her Hendrickje Fonds and the Prins Bernhard Cultuurfonds), Vincent van Gogh Stichting, Province of Drenthe, Stichting Beringer Hazewinkel, Stichting Steunfonds Drents Museum and Stichting Vrienden van het Drents Museum)"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum purchased with support from the Vincent van Gogh Foundation and the Rembrandt Association with the additional support from the Prins Bernhard Cultuurfonds"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum (purchased with support from the Vincent van Gogh Foundation and the Rembrandt Association, with the additional support from the Prins Bernhard Cultuurfonds)"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam purchased with support from the Vincent van Gogh Foundation"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (purchased with support from the Vincent van Gogh Foundation)"/>
 </config>
 </config>
 </config>
@@ -180,37 +180,37 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam State of the Netherlands bequest of AE Ribbius Peletier"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (State of the Netherlands, bequest of A.E. Ribbius Peletier)"/>
 </config>
 </config>
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam bequest of Dr M Rehfisch"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (bequest of Dr. M. Rehfisch)"/>
 </config>
 </config>
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam purchased with support from the Rembrandt Association"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (purchased with support from the Rembrandt Association)"/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Van Gogh Museum Amsterdam gift from A Cohen TervaertHenny"/>
+<entry key="StringCell" type="xstring" value="Van Gogh Museum, Amsterdam (gift from A. Cohen Tervaert-Henny)"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Kroller Muller Museum Otterlo and Van Gogh Museum Amsterdam purchased with support from the BankGiro Loterij"/>
+<entry key="StringCell" type="xstring" value="Kroller Muller Museum, Otterlo and Van Gogh Museum, Amsterdam (purchased with support from the BankGiro Loterij)"/>
 </config>
 </config>
 </config>
@@ -219,7 +219,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_10">
-<entry key="column_name" type="xstring" value="None"/>
+<entry key="column_name" type="xstring" value="&lt;empty_1&gt;"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -260,7 +260,7 @@
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="trial proof three known impressions"/>
+<entry key="StringCell" type="xstring" value="trial proof, three known impressions"/>
 </config>
 </config>
 <config key="2">
@@ -284,19 +284,19 @@
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="trial proof four known impressions"/>
+<entry key="StringCell" type="xstring" value="trial proof, four known impressions"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="sixtyone known impressions"/>
+<entry key="StringCell" type="xstring" value="sixty-one known impressions"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="seventeen possibly eighteen known impressions"/>
+<entry key="StringCell" type="xstring" value="seventeen, possibly eighteen known impressions"/>
 </config>
 </config>
 </config>
@@ -346,7 +346,7 @@
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Paul Ferdinand Gachet pere"/>
+<entry key="StringCell" type="xstring" value="Paul Ferdinand Gachet (pere)"/>
 </config>
 </config>
 </config>
@@ -368,7 +368,7 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="J Smulders Cie"/>
+<entry key="StringCell" type="xstring" value="J. Smulders &amp; Cie"/>
 </config>
 </config>
 <config key="1">

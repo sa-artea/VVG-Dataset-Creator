@@ -6,18 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<config key="all_columns">
-<config key="0">
-<entry key="old_column_name" type="xstring" value="Fnumber"/>
-<entry key="new_column_name" type="xstring" value="F-number"/>
-<entry key="new_column_type" type="xint" value="0"/>
-</config>
-<config key="1">
-<entry key="old_column_name" type="xstring" value="JHnumber"/>
-<entry key="new_column_name" type="xstring" value="JH-number"/>
-<entry key="new_column_type" type="xint" value="0"/>
-</config>
-</config>
+<config key="all_columns"/>
 </config>
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="Fix colums %%00013%%00010names"/>
@@ -60,6 +49,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="4a44e035-2ffb-4bbb-a1b4-e98965524ebe"/>
+<entry key="file_store_id" type="xstring" value="9e1e2f3d-c035-457a-a3f6-695e8c1999e0"/>
 </config>
 </config>

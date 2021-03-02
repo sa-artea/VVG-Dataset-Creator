@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="24"/>
+<entry key="number_columns" type="xint" value="21"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -239,34 +239,6 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_9">
-<entry key="column_name" type="xstring" value="landscape representation"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain">
-<config key="possible_values">
-<entry key="array-size" type="xint" value="2"/>
-<config key="0">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="https://vangoghmuseum.nl/en/collection?Genre=landscape (representation)"/>
-</config>
-</config>
-<config key="1">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="localhost"/>
-</config>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_10">
 <entry key="column_name" type="xstring" value="still life"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -294,7 +266,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_11">
+<config key="column_spec_10">
 <entry key="column_name" type="xstring" value="1890"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -322,35 +294,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_12">
-<entry key="column_name" type="xstring" value="AuverssurOise"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain">
-<config key="possible_values">
-<entry key="array-size" type="xint" value="2"/>
-<config key="0">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="https://vangoghmuseum.nl/en/collection?Place=Auvers-sur-Oise"/>
-</config>
-</config>
-<config key="1">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="localhost"/>
-</config>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_13">
+<config key="column_spec_11">
 <entry key="column_name" type="xstring" value="animal art"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -378,7 +322,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_14">
+<config key="column_spec_12">
 <entry key="column_name" type="xstring" value="drawing"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -406,7 +350,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_15">
+<config key="column_spec_13">
 <entry key="column_name" type="xstring" value="1884"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -434,7 +378,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_16">
+<config key="column_spec_14">
 <entry key="column_name" type="xstring" value="study"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -462,35 +406,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_17">
-<entry key="column_name" type="xstring" value="figure representation"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain">
-<config key="possible_values">
-<entry key="array-size" type="xint" value="2"/>
-<config key="0">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="https://vangoghmuseum.nl/en/collection?Genre=figure (representation)"/>
-</config>
-</config>
-<config key="1">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="localhost"/>
-</config>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_18">
+<config key="column_spec_15">
 <entry key="column_name" type="xstring" value="heads"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -518,7 +434,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_19">
+<config key="column_spec_16">
 <entry key="column_name" type="xstring" value="Antwerp"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -546,7 +462,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_20">
+<config key="column_spec_17">
 <entry key="column_name" type="xstring" value="1886"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -574,7 +490,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_21">
+<config key="column_spec_18">
 <entry key="column_name" type="xstring" value="nude"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -602,7 +518,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_22">
+<config key="column_spec_19">
 <entry key="column_name" type="xstring" value="1881"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -630,7 +546,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_23">
+<config key="column_spec_20">
 <entry key="column_name" type="xstring" value="Brussels"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>

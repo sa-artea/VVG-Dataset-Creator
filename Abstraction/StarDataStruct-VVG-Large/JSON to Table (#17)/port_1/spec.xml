@@ -99,7 +99,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_5">
-<entry key="column_name" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of The Potato Eaters Man and a Woman Planting Potatoes and Two Women Working in the Fields"/>
+<entry key="column_name" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of The Potato Eaters, Man and a Woman Planting Potatoes and Two Women Working in the Fields"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -121,7 +121,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_6">
-<entry key="column_name" type="xstring" value="Studies of the Interior of a Cottage and a Sketch of The Potato Eaters"/>
+<entry key="column_name" type="xstring" value="Studies of the Interior of a Cottage, and a Sketch of The Potato Eaters"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -143,7 +143,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_7">
-<entry key="column_name" type="xstring" value="Square SaintPierre at Sunset"/>
+<entry key="column_name" type="xstring" value="Square Saint-Pierre at Sunset"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -377,7 +377,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_16">
-<entry key="column_name" type="xstring" value="SelfPortrait as a Painter"/>
+<entry key="column_name" type="xstring" value="Self-Portrait as a Painter"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -399,7 +399,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_17">
-<entry key="column_name" type="xstring" value="View of Paris with NotreDame and the Pantheon"/>
+<entry key="column_name" type="xstring" value="View of Paris with Notre-Dame and the Pantheon"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -421,7 +421,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_18">
-<entry key="column_name" type="xstring" value="View of Paris with the Hotel de Ville and the Tour SaintJacques"/>
+<entry key="column_name" type="xstring" value="View of Paris with the Hotel de Ville and the Tour Saint-Jacques"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -487,7 +487,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_21">
-<entry key="column_name" type="xstring" value="Gardens on Montmartre and the BluteFin Windmill"/>
+<entry key="column_name" type="xstring" value="Gardens on Montmartre and the Blute-Fin Windmill"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -815,7 +815,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_34">
-<entry key="column_name" type="xstring" value="SelfPortrait"/>
+<entry key="column_name" type="xstring" value="Self-Portrait"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -849,7 +849,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_35">
-<entry key="column_name" type="xstring" value="SelfPortrait with Straw Hat and Pipe"/>
+<entry key="column_name" type="xstring" value="Self-Portrait with Straw Hat and Pipe"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -871,7 +871,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_36">
-<entry key="column_name" type="xstring" value="SelfPortrait 1"/>
+<entry key="column_name" type="xstring" value="Self-Portrait 1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -893,7 +893,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_37">
-<entry key="column_name" type="xstring" value="SelfPortrait 2"/>
+<entry key="column_name" type="xstring" value="Self-Portrait 2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1031,7 +1031,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_43">
-<entry key="column_name" type="xstring" value="SelfPortrait with Straw Hat"/>
+<entry key="column_name" type="xstring" value="Self-Portrait with Straw Hat"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1247,7 +1247,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_52">
-<entry key="column_name" type="xstring" value="Garden with Courting Couples Square SaintPierre"/>
+<entry key="column_name" type="xstring" value="Garden with Courting Couples: Square Saint-Pierre"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1269,7 +1269,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_53">
-<entry key="column_name" type="xstring" value="Water Hyacinth Sandpiper and Kingfisher from the album New Selection of Birds and Flowers"/>
+<entry key="column_name" type="xstring" value="Water Hyacinth, Sandpiper and Kingfisher, from the album New Selection of Birds and Flowers"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1313,7 +1313,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_55">
-<entry key="column_name" type="xstring" value="Sudden Evening Shower on the Great Bridge near Atake from the series One Hundred Views of Famous Places in Edo"/>
+<entry key="column_name" type="xstring" value="Sudden Evening Shower on the Great Bridge near Atake, from the series One Hundred Views of Famous Places in Edo"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1335,7 +1335,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_56">
-<entry key="column_name" type="xstring" value="The Residence with Plum Trees at Kameido from the series One Hundred Views of Famous Places in Edo"/>
+<entry key="column_name" type="xstring" value="The Residence with Plum Trees at Kameido, from the series One Hundred Views of Famous Places in Edo"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1379,7 +1379,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_58">
-<entry key="column_name" type="xstring" value="Tracing of the Cover of Paris Illustre Le Japon"/>
+<entry key="column_name" type="xstring" value="Tracing of the Cover of Paris Illustre. Le Japon"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1749,7 +1749,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_74">
-<entry key="column_name" type="xstring" value="SelfPortrait or Portrait of Theo van Gogh"/>
+<entry key="column_name" type="xstring" value="Self-Portrait or Portrait of Theo van Gogh"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1815,7 +1815,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_77">
-<entry key="column_name" type="xstring" value="Montmartre Windmills and Allotments"/>
+<entry key="column_name" type="xstring" value="Montmartre: Windmills and Allotments"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2113,7 +2113,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_90">
-<entry key="column_name" type="xstring" value="SelfPortrait with Glass"/>
+<entry key="column_name" type="xstring" value="Self-Portrait with Glass"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2135,7 +2135,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_91">
-<entry key="column_name" type="xstring" value="At SaintLazare"/>
+<entry key="column_name" type="xstring" value="At Saint-Lazare"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2179,7 +2179,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_93">
-<entry key="column_name" type="xstring" value="The Sagami River from the series ThirtySix Views of Mount Fuji"/>
+<entry key="column_name" type="xstring" value="The Sagami River, from the series Thirty-Six Views of Mount Fuji"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2201,7 +2201,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_94">
-<entry key="column_name" type="xstring" value="Yoshiwara The Field of Floating Islands in the Fuji Marshes no 15 from the series Collection of Illustrations of Famous Places near the FiftyThree Stations Along the Tokaido"/>
+<entry key="column_name" type="xstring" value="Yoshiwara: The Field of Floating Islands in the Fuji Marshes, no. 15 from the series Collection of Illustrations of Famous Places near the Fifty-Three Stations [Along the Tokaido]"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2267,7 +2267,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_97">
-<entry key="column_name" type="xstring" value="Nude Girl Seated"/>
+<entry key="column_name" type="xstring" value="Nude Girl, Seated"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2389,7 +2389,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_102">
-<entry key="column_name" type="xstring" value="Flowering Plum Orchard after Hiroshige"/>
+<entry key="column_name" type="xstring" value="Flowering Plum Orchard (after Hiroshige)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2411,7 +2411,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_103">
-<entry key="column_name" type="xstring" value="Courtesan after Eisen"/>
+<entry key="column_name" type="xstring" value="Courtesan (after Eisen)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2807,7 +2807,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_118">
-<entry key="column_name" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketch of The Potato Eaters recto"/>
+<entry key="column_name" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketch of The Potato Eaters (recto)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>

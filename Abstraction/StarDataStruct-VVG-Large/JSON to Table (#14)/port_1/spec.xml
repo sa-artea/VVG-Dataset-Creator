@@ -313,7 +313,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_15">
-<entry key="column_name" type="xstring" value="selfportrait"/>
+<entry key="column_name" type="xstring" value="self-portrait"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -379,7 +379,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_18">
-<entry key="column_name" type="xstring" value="landscape representation"/>
+<entry key="column_name" type="xstring" value="landscape (representation)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -467,7 +467,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_22">
-<entry key="column_name" type="xstring" value="SaintRemydeProvence"/>
+<entry key="column_name" type="xstring" value="Saint-Remy-de-Provence"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -511,7 +511,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_24">
-<entry key="column_name" type="xstring" value="AuverssurOise"/>
+<entry key="column_name" type="xstring" value="Auvers-sur-Oise"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -709,7 +709,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_33">
-<entry key="column_name" type="xstring" value="figure representation"/>
+<entry key="column_name" type="xstring" value="figure (representation)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -973,7 +973,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_45">
-<entry key="column_name" type="xstring" value="history visual work"/>
+<entry key="column_name" type="xstring" value="history (visual work)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1061,7 +1061,7 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_49">
-<entry key="column_name" type="xstring" value="1871 1880"/>
+<entry key="column_name" type="xstring" value="1871 - 1880"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
