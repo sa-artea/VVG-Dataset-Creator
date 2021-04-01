@@ -1,5 +1,5 @@
-ID,TITLE,COLLECTION_URL,DOWNLOAD_URL,HAS_PICTURE,DESCRIPTION,SEARCH_TAGS,OBJ_DATA,RELATED_WORKS,IMG_DATA,IMG_SHAPE
-s0004V1962r,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0004V1962r,https://vangoghmuseum.nl/asset/download/s0004V1962r,TRUE,"{
+"ID","TITLE","COLLECTION_URL","DOWNLOAD_URL","HAS_PICTURE","DESCRIPTION","SEARCH_TAGS","OBJ_DATA","RELATED_WORKS","IMG_DATA","IMG_SHAPE"
+"s0004V1962r","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0004V1962r","https://vangoghmuseum.nl/asset/download/s0004V1962r","True","{
     ""title"": ""Head of a Woman"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, May 1885"",
     ""details"": ""oil on canvas, 43.5 cm x 36.2 cm"",
@@ -21,8 +21,21 @@ s0004V1962r,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0004V1962r,h
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 16 December 1930; donated by Vincent Willem van Gogh on 11 March 1952 to the (1st) Vincent van Gogh Foundation, Laren; transferred on 28 December 1960 by the (1st) Vincent van Gogh Foundation to the Theo van Gogh Foundation, Laren; agreement concluded on 21 July 1962 between the (2nd) Vincent van Gogh Foundation, Amsterdam, and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; donated on 21 July 1962 by the Theo van Gogh Foundation to the Vincent van Gogh Foundation; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},1,99
-s0006V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0006V1962,https://vangoghmuseum.nl/asset/download/s0006V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\s0004V1962r\\vangoghmuseum-s0004V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0004V1962r\\vangoghmuseum-s0004V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        675,
+        3
+    ],
+    ""bw"": [
+        800,
+        675
+    ]
+}"
+"s0006V1962","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0006V1962","https://vangoghmuseum.nl/asset/download/s0006V1962","True","{
     ""title"": ""Head of a Woman"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, April 1885"",
     ""details"": ""oil on canvas, 43.2 cm x 30.0 cm x 2.2 cm"",
@@ -51,8 +64,21 @@ s0006V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0006V1962,htt
     ""Head of a Woman 1"": ""https://vangoghmuseum.nl/en/collection/s0139V1962"",
     ""Head of a Woman 2"": ""https://vangoghmuseum.nl/en/collection/s0062V1962"",
     ""Head of a Woman 3"": ""https://vangoghmuseum.nl/en/collection/s0084V1962""
-}",2,98
-s0010V1962,Portrait of an Old Woman,https://vangoghmuseum.nl/en/collection/s0010V1962,https://vangoghmuseum.nl/asset/download/s0010V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0006V1962\\vangoghmuseum-s0006V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0006V1962\\vangoghmuseum-s0006V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        545,
+        3
+    ],
+    ""bw"": [
+        800,
+        545
+    ]
+}"
+"s0010V1962","Portrait of an Old Woman","https://vangoghmuseum.nl/en/collection/s0010V1962","https://vangoghmuseum.nl/asset/download/s0010V1962","True","{
     ""title"": ""Portrait of an Old Woman"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Antwerp, December 1885"",
     ""details"": ""oil on canvas, 50.5 cm x 39.8 cm"",
@@ -73,8 +99,21 @@ s0010V1962,Portrait of an Old Woman,https://vangoghmuseum.nl/en/collection/s0010
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after December 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},3,97
-s0056V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0056V1962,https://vangoghmuseum.nl/asset/download/s0056V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\s0010V1962\\vangoghmuseum-s0010V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0010V1962\\vangoghmuseum-s0010V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        622,
+        3
+    ],
+    ""bw"": [
+        800,
+        622
+    ]
+}"
+"s0056V1962","Torso of Venus","https://vangoghmuseum.nl/en/collection/s0056V1962","https://vangoghmuseum.nl/asset/download/s0056V1962","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June 1886"",
     ""details"": ""oil on cardboard, 46.0 cm x 38.0 cm"",
@@ -105,8 +144,21 @@ s0056V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0056V1962,http
     ""Male Torso"": ""https://vangoghmuseum.nl/en/collection/s0103V1962"",
     ""Kneeling Ecorche"": ""https://vangoghmuseum.nl/en/collection/s0102V1962"",
     ""Torso of Venus 2"": ""https://vangoghmuseum.nl/en/collection/s0201V1962""
-}",4,96
-s0058V1962,Woman with a Mourning Shawl,https://vangoghmuseum.nl/en/collection/s0058V1962,https://vangoghmuseum.nl/asset/download/s0058V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0056V1962\\vangoghmuseum-s0056V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0056V1962\\vangoghmuseum-s0056V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        652,
+        3
+    ],
+    ""bw"": [
+        800,
+        652
+    ]
+}"
+"s0058V1962","Woman with a Mourning Shawl","https://vangoghmuseum.nl/en/collection/s0058V1962","https://vangoghmuseum.nl/asset/download/s0058V1962","True","{
     ""title"": ""Woman with a Mourning Shawl"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, March-May 1885"",
     ""details"": ""oil on canvas, 45.5 cm x 33.0 cm"",
@@ -129,8 +181,21 @@ s0058V1962,Woman with a Mourning Shawl,https://vangoghmuseum.nl/en/collection/s0
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam (ratified 28 December 1970); agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},5,95
-s0059V1962,Head of a Prostitute,https://vangoghmuseum.nl/en/collection/s0059V1962,https://vangoghmuseum.nl/asset/download/s0059V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\s0058V1962\\vangoghmuseum-s0058V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0058V1962\\vangoghmuseum-s0058V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        570,
+        3
+    ],
+    ""bw"": [
+        800,
+        570
+    ]
+}"
+"s0059V1962","Head of a Prostitute","https://vangoghmuseum.nl/en/collection/s0059V1962","https://vangoghmuseum.nl/asset/download/s0059V1962","True","{
     ""title"": ""Head of a Prostitute"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Antwerp, December 1885"",
     ""details"": ""oil on canvas, 35.2 cm x 24.4 cm"",
@@ -154,8 +219,21 @@ s0059V1962,Head of a Prostitute,https://vangoghmuseum.nl/en/collection/s0059V196
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
 }","{
     ""Portrait of a Prostitute"": ""https://vangoghmuseum.nl/en/collection/s0143V1962""
-}",6,94
-s0061V1962,Portrait of an Old Man,https://vangoghmuseum.nl/en/collection/s0061V1962,https://vangoghmuseum.nl/asset/download/s0061V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0059V1962\\vangoghmuseum-s0059V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0059V1962\\vangoghmuseum-s0059V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        547,
+        3
+    ],
+    ""bw"": [
+        800,
+        547
+    ]
+}"
+"s0061V1962","Portrait of an Old Man","https://vangoghmuseum.nl/en/collection/s0061V1962","https://vangoghmuseum.nl/asset/download/s0061V1962","True","{
     ""title"": ""Portrait of an Old Man"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Antwerp, December 1885"",
     ""details"": ""oil on canvas, 44.4 cm x 33.7 cm"",
@@ -179,8 +257,21 @@ s0061V1962,Portrait of an Old Man,https://vangoghmuseum.nl/en/collection/s0061V1
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
 }","{
     ""Head of an Old Man"": ""https://vangoghmuseum.nl/en/collection/d0041V1971""
-}",7,93
-s0062V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0062V1962,https://vangoghmuseum.nl/asset/download/s0062V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0061V1962\\vangoghmuseum-s0061V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0061V1962\\vangoghmuseum-s0061V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        610,
+        3
+    ],
+    ""bw"": [
+        800,
+        610
+    ]
+}"
+"s0062V1962","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0062V1962","https://vangoghmuseum.nl/asset/download/s0062V1962","True","{
     ""title"": ""Head of a Woman"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, March 1885"",
     ""details"": ""oil on canvas on triplex, 42.2 cm x 34.8 cm"",
@@ -208,8 +299,21 @@ s0062V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0062V1962,htt
     ""Head of a Woman 1"": ""https://vangoghmuseum.nl/en/collection/s0139V1962"",
     ""Head of a Woman 2"": ""https://vangoghmuseum.nl/en/collection/s0006V1962"",
     ""Head of a Woman 3"": ""https://vangoghmuseum.nl/en/collection/s0084V1962""
-}",8,92
-s0068V1962r,Head of a Man,https://vangoghmuseum.nl/en/collection/s0068V1962r,https://vangoghmuseum.nl/asset/download/s0068V1962r,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0062V1962\\vangoghmuseum-s0062V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0062V1962\\vangoghmuseum-s0062V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        664,
+        3
+    ],
+    ""bw"": [
+        800,
+        664
+    ]
+}"
+"s0068V1962r","Head of a Man","https://vangoghmuseum.nl/en/collection/s0068V1962r","https://vangoghmuseum.nl/asset/download/s0068V1962r","True","{
     ""title"": ""Head of a Man"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, March-May 1885"",
     ""details"": ""oil on canvas, 42.5 cm x 32.1 cm"",
@@ -231,8 +335,21 @@ s0068V1962r,Head of a Man,https://vangoghmuseum.nl/en/collection/s0068V1962r,htt
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 16 December 1930; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},9,91
-s0069V1962,Head of a Man,https://vangoghmuseum.nl/en/collection/s0069V1962,https://vangoghmuseum.nl/asset/download/s0069V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\s0068V1962r\\vangoghmuseum-s0068V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0068V1962r\\vangoghmuseum-s0068V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        606,
+        3
+    ],
+    ""bw"": [
+        800,
+        606
+    ]
+}"
+"s0069V1962","Head of a Man","https://vangoghmuseum.nl/en/collection/s0069V1962","https://vangoghmuseum.nl/asset/download/s0069V1962","True","{
     ""title"": ""Head of a Man"",
     ""on-view"": "" "",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, November 1884-February 1885"",
@@ -262,8 +379,21 @@ s0069V1962,Head of a Man,https://vangoghmuseum.nl/en/collection/s0069V1962,https
     ""Head of a Woman 2"": ""https://vangoghmuseum.nl/en/collection/s0006V1962"",
     ""Head of a Woman 3"": ""https://vangoghmuseum.nl/en/collection/s0062V1962"",
     ""Head of a Woman 4"": ""https://vangoghmuseum.nl/en/collection/s0084V1962""
-}",10,90
-s0072V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0072V1962,https://vangoghmuseum.nl/asset/download/s0072V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0069V1962\\vangoghmuseum-s0069V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0069V1962\\vangoghmuseum-s0069V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        626,
+        3
+    ],
+    ""bw"": [
+        800,
+        626
+    ]
+}"
+"s0072V1962","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0072V1962","https://vangoghmuseum.nl/asset/download/s0072V1962","True","{
     ""title"": ""Head of a Woman"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, November 1884-January 1885"",
     ""details"": ""oil on canvas, 42.0 cm x 33.3 cm"",
@@ -293,8 +423,21 @@ s0072V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0072V1962,htt
     ""Head of a Woman 2"": ""https://vangoghmuseum.nl/en/collection/s0006V1962"",
     ""Head of a Woman 3"": ""https://vangoghmuseum.nl/en/collection/s0062V1962"",
     ""Head of a Woman 4"": ""https://vangoghmuseum.nl/en/collection/s0084V1962""
-}",11,89
-s0075V1962,Plaster Cast of a Woman's Torso,https://vangoghmuseum.nl/en/collection/s0075V1962,https://vangoghmuseum.nl/asset/download/s0075V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0072V1962\\vangoghmuseum-s0072V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0072V1962\\vangoghmuseum-s0072V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        641,
+        3
+    ],
+    ""bw"": [
+        800,
+        641
+    ]
+}"
+"s0075V1962","Plaster Cast of a Woman's Torso","https://vangoghmuseum.nl/en/collection/s0075V1962","https://vangoghmuseum.nl/asset/download/s0075V1962","True","{
     ""title"": ""Plaster Cast of a Womans Torso"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, February-March 1887"",
     ""details"": ""oil on cardboard, 32.9 cm x 24.0 cm"",
@@ -320,8 +463,21 @@ s0075V1962,Plaster Cast of a Woman's Torso,https://vangoghmuseum.nl/en/collectio
 }","{
     ""Plaster Cast of a Womans Torso"": ""https://vangoghmuseum.nl/en/collection/s0199V1962"",
     ""Plaster Cast of a Womans Torso 1"": ""https://vangoghmuseum.nl/en/collection/s0200V1962""
-}",12,88
-s0084V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0084V1962,https://vangoghmuseum.nl/asset/download/s0084V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0075V1962\\vangoghmuseum-s0075V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0075V1962\\vangoghmuseum-s0075V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        573,
+        3
+    ],
+    ""bw"": [
+        800,
+        573
+    ]
+}"
+"s0084V1962","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0084V1962","https://vangoghmuseum.nl/asset/download/s0084V1962","True","{
     ""title"": ""Head of a Woman"",
     ""on-view"": "" "",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, March-May 1885"",
@@ -350,8 +506,21 @@ s0084V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0084V1962,htt
     ""Head of a Woman 1"": ""https://vangoghmuseum.nl/en/collection/s0139V1962"",
     ""Head of a Woman 2"": ""https://vangoghmuseum.nl/en/collection/s0006V1962"",
     ""Head of a Woman 3"": ""https://vangoghmuseum.nl/en/collection/s0062V1962""
-}",13,87
-s0089V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0089V1962,https://vangoghmuseum.nl/asset/download/s0089V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0084V1962\\vangoghmuseum-s0084V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0084V1962\\vangoghmuseum-s0084V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        545,
+        3
+    ],
+    ""bw"": [
+        800,
+        545
+    ]
+}"
+"s0089V1962","Torso of Venus","https://vangoghmuseum.nl/en/collection/s0089V1962","https://vangoghmuseum.nl/asset/download/s0089V1962","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June 1886"",
     ""details"": ""oil on cardboard, 46.4 cm x 38.1 cm"",
@@ -382,8 +551,21 @@ s0089V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0089V1962,http
     ""Kneeling Ecorche"": ""https://vangoghmuseum.nl/en/collection/s0102V1962"",
     ""Torso of Venus 1"": ""https://vangoghmuseum.nl/en/collection/s0201V1962"",
     ""Torso of Venus 2"": ""https://vangoghmuseum.nl/en/collection/s0056V1962""
-}",14,86
-s0097V1962r,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0097V1962r,https://vangoghmuseum.nl/asset/download/s0097V1962r,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0089V1962\\vangoghmuseum-s0089V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0089V1962\\vangoghmuseum-s0089V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        646,
+        3
+    ],
+    ""bw"": [
+        800,
+        646
+    ]
+}"
+"s0097V1962r","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0097V1962r","https://vangoghmuseum.nl/asset/download/s0097V1962r","True","{
     ""title"": ""Head of a Woman"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, March-May 1885"",
     ""details"": ""oil on canvas, 42.2 cm x 34.5 cm"",
@@ -405,8 +587,21 @@ s0097V1962r,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0097V1962r,h
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},15,85
-s0101V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0101V1962,https://vangoghmuseum.nl/asset/download/s0101V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\s0097V1962r\\vangoghmuseum-s0097V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0097V1962r\\vangoghmuseum-s0097V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        635,
+        3
+    ],
+    ""bw"": [
+        800,
+        635
+    ]
+}"
+"s0101V1962","Torso of Venus","https://vangoghmuseum.nl/en/collection/s0101V1962","https://vangoghmuseum.nl/asset/download/s0101V1962","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June 1886"",
     ""details"": ""oil on cardboard, 35.3 cm x 27.1 cm"",
@@ -436,8 +631,21 @@ s0101V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0101V1962,http
     ""Male Torso"": ""https://vangoghmuseum.nl/en/collection/s0103V1962"",
     ""Kneeling Ecorche"": ""https://vangoghmuseum.nl/en/collection/s0102V1962"",
     ""Torso of Venus 2"": ""https://vangoghmuseum.nl/en/collection/s0201V1962""
-}",16,84
-s0102V1962,Kneeling Ecorché,https://vangoghmuseum.nl/en/collection/s0102V1962,https://vangoghmuseum.nl/asset/download/s0102V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0101V1962\\vangoghmuseum-s0101V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0101V1962\\vangoghmuseum-s0101V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        613,
+        3
+    ],
+    ""bw"": [
+        800,
+        613
+    ]
+}"
+"s0102V1962","Kneeling Ecorché","https://vangoghmuseum.nl/en/collection/s0102V1962","https://vangoghmuseum.nl/asset/download/s0102V1962","True","{
     ""title"": ""Kneeling Ecorche"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June 1886"",
     ""details"": ""oil on cardboard, 35.2 cm x 26.8 cm"",
@@ -467,8 +675,21 @@ s0102V1962,Kneeling Ecorché,https://vangoghmuseum.nl/en/collection/s0102V1962,h
     ""Torso of Venus 2"": ""https://vangoghmuseum.nl/en/collection/s0101V1962"",
     ""Male Torso"": ""https://vangoghmuseum.nl/en/collection/s0103V1962"",
     ""Torso of Venus 3"": ""https://vangoghmuseum.nl/en/collection/s0201V1962""
-}",17,83
-s0103V1962,Male Torso,https://vangoghmuseum.nl/en/collection/s0103V1962,https://vangoghmuseum.nl/asset/download/s0103V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0102V1962\\vangoghmuseum-s0102V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0102V1962\\vangoghmuseum-s0102V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        602,
+        3
+    ],
+    ""bw"": [
+        800,
+        602
+    ]
+}"
+"s0103V1962","Male Torso","https://vangoghmuseum.nl/en/collection/s0103V1962","https://vangoghmuseum.nl/asset/download/s0103V1962","True","{
     ""title"": ""Male Torso"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June 1886"",
     ""details"": ""oil on cardboard, 35.0 cm x 27.0 cm"",
@@ -498,8 +719,21 @@ s0103V1962,Male Torso,https://vangoghmuseum.nl/en/collection/s0103V1962,https://
     ""Torso of Venus 2"": ""https://vangoghmuseum.nl/en/collection/s0101V1962"",
     ""Kneeling Ecorche"": ""https://vangoghmuseum.nl/en/collection/s0102V1962"",
     ""Torso of Venus 3"": ""https://vangoghmuseum.nl/en/collection/s0201V1962""
-}",18,82
-s0132V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0132V1962,https://vangoghmuseum.nl/asset/download/s0132V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0103V1962\\vangoghmuseum-s0103V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0103V1962\\vangoghmuseum-s0103V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        611,
+        3
+    ],
+    ""bw"": [
+        800,
+        611
+    ]
+}"
+"s0132V1962","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0132V1962","https://vangoghmuseum.nl/asset/download/s0132V1962","True","{
     ""title"": ""Head of a Woman"",
     ""on-view"": "" "",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, March 1885"",
@@ -524,8 +758,21 @@ s0132V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0132V1962,htt
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
 }","{
     ""Woman Sewing"": ""https://vangoghmuseum.nl/en/collection/s0007V1962""
-}",19,81
-s0139V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0139V1962,https://vangoghmuseum.nl/asset/download/s0139V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0132V1962\\vangoghmuseum-s0132V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0132V1962\\vangoghmuseum-s0132V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        641,
+        3
+    ],
+    ""bw"": [
+        800,
+        641
+    ]
+}"
+"s0139V1962","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0139V1962","https://vangoghmuseum.nl/asset/download/s0139V1962","True","{
     ""title"": ""Head of a Woman"",
     ""on-view"": "" "",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, March 1885"",
@@ -557,8 +804,21 @@ s0139V1962,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0139V1962,htt
     ""Head of a Woman 1"": ""https://vangoghmuseum.nl/en/collection/s0006V1962"",
     ""Head of a Woman 2"": ""https://vangoghmuseum.nl/en/collection/s0062V1962"",
     ""Head of a Woman 3"": ""https://vangoghmuseum.nl/en/collection/s0084V1962""
-}",20,80
-s0143V1962,Portrait of a Prostitute,https://vangoghmuseum.nl/en/collection/s0143V1962,https://vangoghmuseum.nl/asset/download/s0143V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0139V1962\\vangoghmuseum-s0139V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0139V1962\\vangoghmuseum-s0139V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        620,
+        3
+    ],
+    ""bw"": [
+        800,
+        620
+    ]
+}"
+"s0143V1962","Portrait of a Prostitute","https://vangoghmuseum.nl/en/collection/s0143V1962","https://vangoghmuseum.nl/asset/download/s0143V1962","True","{
     ""title"": ""Portrait of a Prostitute"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Antwerp, December 1885"",
     ""details"": ""oil on canvas, 46.3 cm x 38.5 cm"",
@@ -581,8 +841,21 @@ s0143V1962,Portrait of a Prostitute,https://vangoghmuseum.nl/en/collection/s0143
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
 }","{
     ""Head of a Prostitute"": ""https://vangoghmuseum.nl/en/collection/s0059V1962""
-}",21,79
-s0199V1962,Plaster Cast of a Woman's Torso,https://vangoghmuseum.nl/en/collection/s0199V1962,https://vangoghmuseum.nl/asset/download/s0199V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0143V1962\\vangoghmuseum-s0143V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0143V1962\\vangoghmuseum-s0143V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        659,
+        3
+    ],
+    ""bw"": [
+        800,
+        659
+    ]
+}"
+"s0199V1962","Plaster Cast of a Woman's Torso","https://vangoghmuseum.nl/en/collection/s0199V1962","https://vangoghmuseum.nl/asset/download/s0199V1962","True","{
     ""title"": ""Plaster Cast of a Womans Torso"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, February-March 1887"",
     ""details"": ""oil on canvas, 40.8 cm x 27.1 cm"",
@@ -608,8 +881,21 @@ s0199V1962,Plaster Cast of a Woman's Torso,https://vangoghmuseum.nl/en/collectio
 }","{
     ""Plaster Cast of a Womans Torso"": ""https://vangoghmuseum.nl/en/collection/s0075V1962"",
     ""Plaster Cast of a Womans Torso 1"": ""https://vangoghmuseum.nl/en/collection/s0200V1962""
-}",22,78
-s0200V1962,Plaster Cast of a Woman's Torso,https://vangoghmuseum.nl/en/collection/s0200V1962,https://vangoghmuseum.nl/asset/download/s0200V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0199V1962\\vangoghmuseum-s0199V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0199V1962\\vangoghmuseum-s0199V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        523,
+        3
+    ],
+    ""bw"": [
+        800,
+        523
+    ]
+}"
+"s0200V1962","Plaster Cast of a Woman's Torso","https://vangoghmuseum.nl/en/collection/s0200V1962","https://vangoghmuseum.nl/asset/download/s0200V1962","True","{
     ""title"": ""Plaster Cast of a Womans Torso"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, February-March 1887"",
     ""details"": ""oil on canvas, 41.0 cm x 32.7 cm"",
@@ -635,8 +921,21 @@ s0200V1962,Plaster Cast of a Woman's Torso,https://vangoghmuseum.nl/en/collectio
 }","{
     ""Plaster Cast of a Womans Torso"": ""https://vangoghmuseum.nl/en/collection/s0075V1962"",
     ""Plaster Cast of a Womans Torso 1"": ""https://vangoghmuseum.nl/en/collection/s0199V1962""
-}",23,77
-s0201V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0201V1962,https://vangoghmuseum.nl/asset/download/s0201V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0200V1962\\vangoghmuseum-s0200V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0200V1962\\vangoghmuseum-s0200V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        636,
+        3
+    ],
+    ""bw"": [
+        800,
+        636
+    ]
+}"
+"s0201V1962","Torso of Venus","https://vangoghmuseum.nl/en/collection/s0201V1962","https://vangoghmuseum.nl/asset/download/s0201V1962","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June 1886"",
     ""details"": ""oil on cardboard, 35.3 cm x 27.2 cm"",
@@ -668,8 +967,21 @@ s0201V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/s0201V1962,http
     ""Torso of Venus 2"": ""https://vangoghmuseum.nl/en/collection/s0101V1962"",
     ""Male Torso"": ""https://vangoghmuseum.nl/en/collection/s0103V1962"",
     ""Kneeling Ecorche"": ""https://vangoghmuseum.nl/en/collection/s0102V1962""
-}",24,76
-s0202V1962,Horse,https://vangoghmuseum.nl/en/collection/s0202V1962,https://vangoghmuseum.nl/asset/download/s0202V1962,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0201V1962\\vangoghmuseum-s0201V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0201V1962\\vangoghmuseum-s0201V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        609,
+        3
+    ],
+    ""bw"": [
+        800,
+        609
+    ]
+}"
+"s0202V1962","Horse","https://vangoghmuseum.nl/en/collection/s0202V1962","https://vangoghmuseum.nl/asset/download/s0202V1962","True","{
     ""title"": ""Horse"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June 1886"",
     ""details"": ""oil on cardboard, 33.1 cm x 40.9 cm"",
@@ -698,8 +1010,21 @@ s0202V1962,Horse,https://vangoghmuseum.nl/en/collection/s0202V1962,https://vango
     ""Male Torso"": ""https://vangoghmuseum.nl/en/collection/s0103V1962"",
     ""Kneeling Ecorche"": ""https://vangoghmuseum.nl/en/collection/s0102V1962"",
     ""Torso of Venus 3"": ""https://vangoghmuseum.nl/en/collection/s0201V1962""
-}",25,75
-s0343V1966,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0343V1966,https://vangoghmuseum.nl/asset/download/s0343V1966,TRUE,"{
+}","{
+    ""rgb"": ""Data\\Img\\s0202V1962\\vangoghmuseum-s0202V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0202V1962\\vangoghmuseum-s0202V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        644,
+        800,
+        3
+    ],
+    ""bw"": [
+        644,
+        800
+    ]
+}"
+"s0343V1966","Head of a Woman","https://vangoghmuseum.nl/en/collection/s0343V1966","https://vangoghmuseum.nl/asset/download/s0343V1966","True","{
     ""title"": ""Head of a Woman"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, November 1884-May 1885"",
     ""details"": ""oil on canvas on panel, 47.8 cm x 34.8 cm"",
@@ -721,8 +1046,21 @@ s0343V1966,Head of a Woman,https://vangoghmuseum.nl/en/collection/s0343V1966,htt
     ""Provenance"": ""Probably left by the artist with his mother, A.C. van Gogh-Carbentus, Nuenen/Breda, sometime between November 1885 and February 1886; given in safekeeping to Janus Schrauwen, Breda, April 1888; left with Janus Schrauwen by A.C. van Gogh-Carbentus after her move to Leiden, 1889; sold by Janus Schrauwen to Jan C. Couvreur, 14 August 1902; sold by Jan C. Couvreur to Kees Mouwen Jr and Willem van Bakel, Breda, 1902-03; given on consignment by Kees Mouwen Jr and Willem van Bakel to Kunstzalen Oldenzeel, Rotterdam, 1903-04; probably sold by Kunstzalen Oldenzeel to H.P. Bremmer, The Hague; after his death on 10 January 1956 bequeathed to his inheritance; sold by the inheritance to Kunsthandel Van Wisselingh, Amsterdam, 1960; 1962 sold by Kunsthandel Van Wisselingh to H.A.D. Thomas, Amsterdam; after his death in 1964 inherited by his mother D. Thomas-Mager, Amsterdam; after her death in 1965 donated to the Vincent van Gogh Foundation; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},26,74
-d0012V1962r,"Studies of a Seated Girl, L'Ecorché and Venus",https://vangoghmuseum.nl/en/collection/d0012V1962r,https://vangoghmuseum.nl/asset/download/d0012V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\s0343V1966\\vangoghmuseum-s0343V1966-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\s0343V1966\\vangoghmuseum-s0343V1966-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        570,
+        3
+    ],
+    ""bw"": [
+        800,
+        570
+    ]
+}"
+"d0012V1962r","Studies of a Seated Girl, L'Ecorché and Venus","https://vangoghmuseum.nl/en/collection/d0012V1962r","https://vangoghmuseum.nl/asset/download/d0012V1962r","True","{
     ""title"": ""Studies of a Seated Girl, LEcorche and Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 47.5 cm x 62.0 cm"",
@@ -745,8 +1083,21 @@ d0012V1962r,"Studies of a Seated Girl, L'Ecorché and Venus",https://vangoghmuse
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},27,73
-d0012V1962v,Seated Girl and Venus,https://vangoghmuseum.nl/en/collection/d0012V1962v,https://vangoghmuseum.nl/asset/download/d0012V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0012V1962r\\vangoghmuseum-d0012V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0012V1962r\\vangoghmuseum-d0012V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        620,
+        800,
+        3
+    ],
+    ""bw"": [
+        620,
+        800
+    ]
+}"
+"d0012V1962v","Seated Girl and Venus","https://vangoghmuseum.nl/en/collection/d0012V1962v","https://vangoghmuseum.nl/asset/download/d0012V1962v","True","{
     ""title"": ""Seated Girl and Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 47.5 cm x 62.0 cm"",
@@ -769,8 +1120,21 @@ d0012V1962v,Seated Girl and Venus,https://vangoghmuseum.nl/en/collection/d0012V1
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},28,72
-d0013V1962,Idol,https://vangoghmuseum.nl/en/collection/d0013V1962,https://vangoghmuseum.nl/asset/download/d0013V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0012V1962v\\vangoghmuseum-d0012V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0012V1962v\\vangoghmuseum-d0012V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        611,
+        800,
+        3
+    ],
+    ""bw"": [
+        611,
+        800
+    ]
+}"
+"d0013V1962","Idol","https://vangoghmuseum.nl/en/collection/d0013V1962","https://vangoghmuseum.nl/asset/download/d0013V1962","True","{
     ""title"": ""Idol"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal, chalk, on paper, 47.7 cm x 30.5 cm"",
@@ -793,8 +1157,21 @@ d0013V1962,Idol,https://vangoghmuseum.nl/en/collection/d0013V1962,https://vangog
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},29,71
-d0014V1962r,Idol,https://vangoghmuseum.nl/en/collection/d0014V1962r,https://vangoghmuseum.nl/asset/download/d0014V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0013V1962\\vangoghmuseum-d0013V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0013V1962\\vangoghmuseum-d0013V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        529,
+        3
+    ],
+    ""bw"": [
+        800,
+        529
+    ]
+}"
+"d0014V1962r","Idol","https://vangoghmuseum.nl/en/collection/d0014V1962r","https://vangoghmuseum.nl/asset/download/d0014V1962r","True","{
     ""title"": ""Idol"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal, chalk, on paper, 47.7 cm x 31.3 cm"",
@@ -817,8 +1194,21 @@ d0014V1962r,Idol,https://vangoghmuseum.nl/en/collection/d0014V1962r,https://vang
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},30,70
-d0014V1962v,Idol,https://vangoghmuseum.nl/en/collection/d0014V1962v,https://vangoghmuseum.nl/asset/download/d0014V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0014V1962r\\vangoghmuseum-d0014V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0014V1962r\\vangoghmuseum-d0014V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        514,
+        3
+    ],
+    ""bw"": [
+        800,
+        514
+    ]
+}"
+"d0014V1962v","Idol","https://vangoghmuseum.nl/en/collection/d0014V1962v","https://vangoghmuseum.nl/asset/download/d0014V1962v","True","{
     ""title"": ""Idol"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal, chalk, on paper, 47.7 cm x 31.3 cm"",
@@ -841,8 +1231,21 @@ d0014V1962v,Idol,https://vangoghmuseum.nl/en/collection/d0014V1962v,https://vang
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},31,69
-d0015V1962r,Idol,https://vangoghmuseum.nl/en/collection/d0015V1962r,https://vangoghmuseum.nl/asset/download/d0015V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0014V1962v\\vangoghmuseum-d0014V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0014V1962v\\vangoghmuseum-d0014V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        517,
+        3
+    ],
+    ""bw"": [
+        800,
+        517
+    ]
+}"
+"d0015V1962r","Idol","https://vangoghmuseum.nl/en/collection/d0015V1962r","https://vangoghmuseum.nl/asset/download/d0015V1962r","True","{
     ""title"": ""Idol"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal, chalk, on paper, 47.5 cm x 30.8 cm"",
@@ -865,8 +1268,21 @@ d0015V1962r,Idol,https://vangoghmuseum.nl/en/collection/d0015V1962r,https://vang
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},32,68
-d0015V1962v,Idol,https://vangoghmuseum.nl/en/collection/d0015V1962v,https://vangoghmuseum.nl/asset/download/d0015V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0015V1962r\\vangoghmuseum-d0015V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0015V1962r\\vangoghmuseum-d0015V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        513,
+        3
+    ],
+    ""bw"": [
+        800,
+        513
+    ]
+}"
+"d0015V1962v","Idol","https://vangoghmuseum.nl/en/collection/d0015V1962v","https://vangoghmuseum.nl/asset/download/d0015V1962v","True","{
     ""title"": ""Idol"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal, chalk, on paper, 47.5 cm x 30.8 cm"",
@@ -889,8 +1305,21 @@ d0015V1962v,Idol,https://vangoghmuseum.nl/en/collection/d0015V1962v,https://vang
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},33,67
-d0031V1962v,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0031V1962v,https://vangoghmuseum.nl/asset/download/d0031V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0015V1962v\\vangoghmuseum-d0015V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0015V1962v\\vangoghmuseum-d0015V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        500,
+        3
+    ],
+    ""bw"": [
+        800,
+        500
+    ]
+}"
+"d0031V1962v","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0031V1962v","https://vangoghmuseum.nl/asset/download/d0031V1962v","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal, chalk, on paper, 31.4 cm x 47.5 cm"",
@@ -913,8 +1342,21 @@ d0031V1962v,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0031V1962v,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},34,66
-d0034V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0034V1962r,https://vangoghmuseum.nl/asset/download/d0034V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0031V1962v\\vangoghmuseum-d0031V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0031V1962v\\vangoghmuseum-d0031V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        520,
+        3
+    ],
+    ""bw"": [
+        800,
+        520
+    ]
+}"
+"d0034V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0034V1962r","https://vangoghmuseum.nl/asset/download/d0034V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, 1887"",
     ""details"": ""chalk, lithographic crayon, on paper, 32.2 cm x 24.9 cm"",
@@ -937,8 +1379,21 @@ d0034V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0034V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},35,65
-d0036V1962r,Venus in a Top Hat,https://vangoghmuseum.nl/en/collection/d0036V1962r,https://vangoghmuseum.nl/asset/download/d0036V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0034V1962r\\vangoghmuseum-d0034V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0034V1962r\\vangoghmuseum-d0034V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        600,
+        3
+    ],
+    ""bw"": [
+        800,
+        600
+    ]
+}"
+"d0036V1962r","Venus in a Top Hat","https://vangoghmuseum.nl/en/collection/d0036V1962r","https://vangoghmuseum.nl/asset/download/d0036V1962r","True","{
     ""title"": ""Venus in a Top Hat"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 38.3 cm x 19.8 cm"",
@@ -961,8 +1416,21 @@ d0036V1962r,Venus in a Top Hat,https://vangoghmuseum.nl/en/collection/d0036V1962
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},36,64
-d0036V1962v,A Womans Legs,https://vangoghmuseum.nl/en/collection/d0036V1962v,https://vangoghmuseum.nl/asset/download/d0036V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0036V1962r\\vangoghmuseum-d0036V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0036V1962r\\vangoghmuseum-d0036V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        397,
+        3
+    ],
+    ""bw"": [
+        800,
+        397
+    ]
+}"
+"d0036V1962v","A Woman's Legs","https://vangoghmuseum.nl/en/collection/d0036V1962v","https://vangoghmuseum.nl/asset/download/d0036V1962v","True","{
     ""title"": ""A Womans Legs"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 19.8 cm x 38.3 cm"",
@@ -984,8 +1452,21 @@ d0036V1962v,A Womans Legs,https://vangoghmuseum.nl/en/collection/d0036V1962v,htt
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},37,63
-d0056V1962r,Arm,https://vangoghmuseum.nl/en/collection/d0056V1962r,https://vangoghmuseum.nl/asset/download/d0056V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0036V1962v\\vangoghmuseum-d0036V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0036V1962v\\vangoghmuseum-d0036V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        403,
+        800,
+        3
+    ],
+    ""bw"": [
+        403,
+        800
+    ]
+}"
+"d0056V1962r","Arm","https://vangoghmuseum.nl/en/collection/d0056V1962r","https://vangoghmuseum.nl/asset/download/d0056V1962r","True","{
     ""title"": ""Arm"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, December 1884-May 1885"",
     ""details"": ""chalk on paper, 20.8 cm x 34.4 cm"",
@@ -1007,8 +1488,21 @@ d0056V1962r,Arm,https://vangoghmuseum.nl/en/collection/d0056V1962r,https://vango
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},38,62
-d0056V1962v,Arm,https://vangoghmuseum.nl/en/collection/d0056V1962v,https://vangoghmuseum.nl/asset/download/d0056V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0056V1962r\\vangoghmuseum-d0056V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0056V1962r\\vangoghmuseum-d0056V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        482,
+        800,
+        3
+    ],
+    ""bw"": [
+        482,
+        800
+    ]
+}"
+"d0056V1962v","Arm","https://vangoghmuseum.nl/en/collection/d0056V1962v","https://vangoghmuseum.nl/asset/download/d0056V1962v","True","{
     ""title"": ""Arm"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Nuenen, December 1884-May 1885"",
     ""details"": ""chalk on paper, 20.8 cm x 34.4 cm"",
@@ -1030,8 +1524,21 @@ d0056V1962v,Arm,https://vangoghmuseum.nl/en/collection/d0056V1962v,https://vango
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after May 1885; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},39,61
-d0062V1962,Standing and Sitting Male Nude (after Bargue),https://vangoghmuseum.nl/en/collection/d0062V1962,https://vangoghmuseum.nl/asset/download/d0062V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0056V1962v\\vangoghmuseum-d0056V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0056V1962v\\vangoghmuseum-d0056V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        484,
+        800,
+        3
+    ],
+    ""bw"": [
+        484,
+        800
+    ]
+}"
+"d0062V1962","Standing and Sitting Male Nude (after Bargue)","https://vangoghmuseum.nl/en/collection/d0062V1962","https://vangoghmuseum.nl/asset/download/d0062V1962","True","{
     ""title"": ""Standing and Sitting Male Nude (after Bargue)"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Auvers-sur-Oise, June 1890"",
     ""details"": ""pencil on paper, 44.6 cm x 54.6 cm"",
@@ -1053,8 +1560,21 @@ d0062V1962,Standing and Sitting Male Nude (after Bargue),https://vangoghmuseum.n
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after the first half of June 1890; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},40,60
-d0136V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0136V1962r,https://vangoghmuseum.nl/asset/download/d0136V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0062V1962\\vangoghmuseum-d0062V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0062V1962\\vangoghmuseum-d0062V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        644,
+        800,
+        3
+    ],
+    ""bw"": [
+        644,
+        800
+    ]
+}"
+"d0136V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0136V1962r","https://vangoghmuseum.nl/asset/download/d0136V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, 1887"",
     ""details"": ""chalk on paper, 31.7 cm x 24.6 cm"",
@@ -1077,8 +1597,21 @@ d0136V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0136V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},41,59
-d0136V1962v,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0136V1962v,,FALSE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0136V1962r\\vangoghmuseum-d0136V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0136V1962r\\vangoghmuseum-d0136V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        634,
+        3
+    ],
+    ""bw"": [
+        800,
+        634
+    ]
+}"
+"d0136V1962v","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0136V1962v","","False","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, 1887"",
     ""details"": ""chalk on paper, 31.7 cm x 24.6 cm"",
@@ -1101,8 +1634,14 @@ d0136V1962v,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0136V1962v,,F
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},42,58
-d0137V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0137V1962r,https://vangoghmuseum.nl/asset/download/d0137V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": """",
+    ""bw"": """"
+}","{
+    ""rgb"": """",
+    ""bw"": """"
+}"
+"d0137V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0137V1962r","https://vangoghmuseum.nl/asset/download/d0137V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, 1887"",
     ""details"": ""chalk on paper, 32.1 cm x 24.6 cm"",
@@ -1125,8 +1664,21 @@ d0137V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0137V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},43,57
-d0137V1962v,Torso of Venus and a Landscape,https://vangoghmuseum.nl/en/collection/d0137V1962v,,FALSE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0137V1962r\\vangoghmuseum-d0137V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0137V1962r\\vangoghmuseum-d0137V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        609,
+        3
+    ],
+    ""bw"": [
+        800,
+        609
+    ]
+}"
+"d0137V1962v","Torso of Venus and a Landscape","https://vangoghmuseum.nl/en/collection/d0137V1962v","","False","{
     ""title"": ""Torso of Venus and a Landscape"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, 1887"",
     ""details"": ""chalk, pen and ink, on paper, 32.1 cm x 24.6 cm"",
@@ -1150,8 +1702,14 @@ d0137V1962v,Torso of Venus and a Landscape,https://vangoghmuseum.nl/en/collectio
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},44,56
-d0138V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0138V1962r,https://vangoghmuseum.nl/asset/download/d0138V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": """",
+    ""bw"": """"
+}","{
+    ""rgb"": """",
+    ""bw"": """"
+}"
+"d0138V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0138V1962r","https://vangoghmuseum.nl/asset/download/d0138V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, 1887"",
     ""details"": ""chalk on paper, 32.2 cm x 24.6 cm"",
@@ -1174,8 +1732,21 @@ d0138V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0138V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},45,55
-d0140V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0140V1962r,https://vangoghmuseum.nl/asset/download/d0140V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0138V1962r\\vangoghmuseum-d0138V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0138V1962r\\vangoghmuseum-d0138V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        615,
+        3
+    ],
+    ""bw"": [
+        800,
+        615
+    ]
+}"
+"d0140V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0140V1962r","https://vangoghmuseum.nl/asset/download/d0140V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, 1887"",
     ""details"": ""chalk, pencil, on paper, 20.8 cm x 13.0 cm"",
@@ -1198,8 +1769,21 @@ d0140V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0140V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam (ratified 28 December 1970); agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},46,54
-d0153V1970,Apartment Blocks and Miscellaneous Studies,https://vangoghmuseum.nl/en/collection/d0153V1970,https://vangoghmuseum.nl/asset/download/d0153V1970,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0140V1962r\\vangoghmuseum-d0140V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0140V1962r\\vangoghmuseum-d0140V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        511,
+        3
+    ],
+    ""bw"": [
+        800,
+        511
+    ]
+}"
+"d0153V1970","Apartment Blocks and Miscellaneous Studies","https://vangoghmuseum.nl/en/collection/d0153V1970","https://vangoghmuseum.nl/asset/download/d0153V1970","True","{
     ""title"": ""Apartment Blocks and Miscellaneous Studies"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, June-September 1887"",
     ""details"": ""pencil on paper, 29.1 cm x 46.0 cm"",
@@ -1222,8 +1806,21 @@ d0153V1970,Apartment Blocks and Miscellaneous Studies,https://vangoghmuseum.nl/e
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between June and September 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; transferred by Vincent Willem van Gogh, Laren, to the Vincent van Gogh Foundation, Amsterdam, 14 March 1970 given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},47,53
-d0158V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0158V1962,https://vangoghmuseum.nl/asset/download/d0158V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0153V1970\\vangoghmuseum-d0153V1970-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0153V1970\\vangoghmuseum-d0153V1970-800-bw.jpg""
+}","{
+    ""rgb"": [
+        505,
+        800,
+        3
+    ],
+    ""bw"": [
+        505,
+        800
+    ]
+}"
+"d0158V1962","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0158V1962","https://vangoghmuseum.nl/asset/download/d0158V1962","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal, pencil, on paper, 48.9 cm x 31.8 cm"",
@@ -1246,8 +1843,21 @@ d0158V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0158V1962,http
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},48,52
-d0159V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0159V1962r,https://vangoghmuseum.nl/asset/download/d0159V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0158V1962\\vangoghmuseum-d0158V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0158V1962\\vangoghmuseum-d0158V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        511,
+        3
+    ],
+    ""bw"": [
+        800,
+        511
+    ]
+}"
+"d0159V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0159V1962r","https://vangoghmuseum.nl/asset/download/d0159V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 47.5 cm x 31.5 cm"",
@@ -1270,8 +1880,21 @@ d0159V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0159V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},49,51
-d0159V1962v,Venus,https://vangoghmuseum.nl/en/collection/d0159V1962v,https://vangoghmuseum.nl/asset/download/d0159V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0159V1962r\\vangoghmuseum-d0159V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0159V1962r\\vangoghmuseum-d0159V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        600,
+        3
+    ],
+    ""bw"": [
+        800,
+        600
+    ]
+}"
+"d0159V1962v","Venus","https://vangoghmuseum.nl/en/collection/d0159V1962v","https://vangoghmuseum.nl/asset/download/d0159V1962v","True","{
     ""title"": ""Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""pencil on paper, 47.5 cm x 31.5 cm"",
@@ -1294,8 +1917,21 @@ d0159V1962v,Venus,https://vangoghmuseum.nl/en/collection/d0159V1962v,https://van
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},50,50
-d0160V1962v,Idol and Sketches of Venus,https://vangoghmuseum.nl/en/collection/d0160V1962v,https://vangoghmuseum.nl/asset/download/d0160V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0159V1962v\\vangoghmuseum-d0159V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0159V1962v\\vangoghmuseum-d0159V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        600,
+        3
+    ],
+    ""bw"": [
+        800,
+        600
+    ]
+}"
+"d0160V1962v","Idol and Sketches of Venus","https://vangoghmuseum.nl/en/collection/d0160V1962v","https://vangoghmuseum.nl/asset/download/d0160V1962v","True","{
     ""title"": ""Idol and Sketches of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 47.3 cm x 35.2 cm"",
@@ -1318,8 +1954,21 @@ d0160V1962v,Idol and Sketches of Venus,https://vangoghmuseum.nl/en/collection/d0
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},51,49
-d0180V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0180V1962r,https://vangoghmuseum.nl/asset/download/d0180V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0160V1962v\\vangoghmuseum-d0160V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0160V1962v\\vangoghmuseum-d0160V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        606,
+        3
+    ],
+    ""bw"": [
+        800,
+        606
+    ]
+}"
+"d0180V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0180V1962r","https://vangoghmuseum.nl/asset/download/d0180V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 61.1 cm x 45.5 cm"",
@@ -1342,8 +1991,21 @@ d0180V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0180V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},52,48
-d0180V1962v,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0180V1962v,https://vangoghmuseum.nl/asset/download/d0180V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0180V1962r\\vangoghmuseum-d0180V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0180V1962r\\vangoghmuseum-d0180V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        587,
+        3
+    ],
+    ""bw"": [
+        800,
+        587
+    ]
+}"
+"d0180V1962v","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0180V1962v","https://vangoghmuseum.nl/asset/download/d0180V1962v","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 61.1 cm x 45.5 cm"",
@@ -1366,8 +2028,21 @@ d0180V1962v,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0180V1962v,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},53,47
-d0190V1962r,Standing Male Nude and Sitting Figure (after Bargue),https://vangoghmuseum.nl/en/collection/d0190V1962r,https://vangoghmuseum.nl/asset/download/d0190V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0180V1962v\\vangoghmuseum-d0180V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0180V1962v\\vangoghmuseum-d0180V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        588,
+        3
+    ],
+    ""bw"": [
+        800,
+        588
+    ]
+}"
+"d0190V1962r","Standing Male Nude and Sitting Figure (after Bargue)","https://vangoghmuseum.nl/en/collection/d0190V1962r","https://vangoghmuseum.nl/asset/download/d0190V1962r","True","{
     ""title"": ""Standing Male Nude and Sitting Figure (after Bargue)"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Auvers-sur-Oise, June 1890"",
     ""details"": ""pencil on paper, 44.3 cm x 27.3 cm"",
@@ -1388,8 +2063,21 @@ d0190V1962r,Standing Male Nude and Sitting Figure (after Bargue),https://vangogh
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after July 1890; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},54,46
-d0212V1962v,Sitting Male Nude (after Bargue),https://vangoghmuseum.nl/en/collection/d0212V1962v,https://vangoghmuseum.nl/asset/download/d0212V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0190V1962r\\vangoghmuseum-d0190V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0190V1962r\\vangoghmuseum-d0190V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        487,
+        3
+    ],
+    ""bw"": [
+        800,
+        487
+    ]
+}"
+"d0212V1962v","Sitting Male Nude (after Bargue)","https://vangoghmuseum.nl/en/collection/d0212V1962v","https://vangoghmuseum.nl/asset/download/d0212V1962v","True","{
     ""title"": ""Sitting Male Nude (after Bargue)"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Auvers-sur-Oise, June 1890"",
     ""details"": ""pencil on paper, 43.7 cm x 26.9 cm"",
@@ -1410,8 +2098,21 @@ d0212V1962v,Sitting Male Nude (after Bargue),https://vangoghmuseum.nl/en/collect
     ""Provenance"": ""With his brother Theo van Gogh, Paris, after mid-June 1890; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; given on loan by Vincent Willem van Gogh, Laren to the Stedelijk Museum, Amsterdam, since 22 October 1931; transferred by Vincent Willem van Gogh on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},55,45
-d0303V1972v,Fragment of a Venus,https://vangoghmuseum.nl/en/collection/d0303V1972v,https://vangoghmuseum.nl/asset/download/d0303V1972v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0212V1962v\\vangoghmuseum-d0212V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0212V1962v\\vangoghmuseum-d0212V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        482,
+        3
+    ],
+    ""bw"": [
+        800,
+        482
+    ]
+}"
+"d0303V1972v","Fragment of a Venus","https://vangoghmuseum.nl/en/collection/d0303V1972v","https://vangoghmuseum.nl/asset/download/d0303V1972v","True","{
     ""title"": ""Fragment of a Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 26.6 cm x 22.1 cm"",
@@ -1433,8 +2134,21 @@ d0303V1972v,Fragment of a Venus,https://vangoghmuseum.nl/en/collection/d0303V197
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; transferred by Vincent Willem van Gogh, Laren, to the Vincent van Gogh Foundation, Amsterdam, 17 May 1972; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},56,44
-d0399V1962,Venus,https://vangoghmuseum.nl/en/collection/d0399V1962,https://vangoghmuseum.nl/asset/download/d0399V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0303V1972v\\vangoghmuseum-d0303V1972v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0303V1972v\\vangoghmuseum-d0303V1972v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        673,
+        3
+    ],
+    ""bw"": [
+        800,
+        673
+    ]
+}"
+"d0399V1962","Venus","https://vangoghmuseum.nl/en/collection/d0399V1962","https://vangoghmuseum.nl/asset/download/d0399V1962","True","{
     ""title"": ""Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""charcoal (?), chalk, on paper, 50.9 cm x 39.7 cm"",
@@ -1457,8 +2171,21 @@ d0399V1962,Venus,https://vangoghmuseum.nl/en/collection/d0399V1962,https://vango
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},57,43
-d0401V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0401V1962,https://vangoghmuseum.nl/asset/download/d0401V1962,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0399V1962\\vangoghmuseum-d0399V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0399V1962\\vangoghmuseum-d0399V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        620,
+        3
+    ],
+    ""bw"": [
+        800,
+        620
+    ]
+}"
+"d0401V1962","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0401V1962","https://vangoghmuseum.nl/asset/download/d0401V1962","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 43.7 cm x 31.3 cm"",
@@ -1481,8 +2208,21 @@ d0401V1962,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0401V1962,http
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},58,42
-d0402V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0402V1962r,https://vangoghmuseum.nl/asset/download/d0402V1962r,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0401V1962\\vangoghmuseum-d0401V1962-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0401V1962\\vangoghmuseum-d0401V1962-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        600,
+        3
+    ],
+    ""bw"": [
+        800,
+        600
+    ]
+}"
+"d0402V1962r","Torso of Venus","https://vangoghmuseum.nl/en/collection/d0402V1962r","https://vangoghmuseum.nl/asset/download/d0402V1962r","True","{
     ""title"": ""Torso of Venus"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 47.6 cm x 31.5 cm"",
@@ -1505,8 +2245,21 @@ d0402V1962r,Torso of Venus,https://vangoghmuseum.nl/en/collection/d0402V1962r,ht
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},59,41
-d0402V1962v,Venus de Milo,https://vangoghmuseum.nl/en/collection/d0402V1962v,https://vangoghmuseum.nl/asset/download/d0402V1962v,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0402V1962r\\vangoghmuseum-d0402V1962r-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0402V1962r\\vangoghmuseum-d0402V1962r-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        509,
+        3
+    ],
+    ""bw"": [
+        800,
+        509
+    ]
+}"
+"d0402V1962v","Venus de Milo","https://vangoghmuseum.nl/en/collection/d0402V1962v","https://vangoghmuseum.nl/asset/download/d0402V1962v","True","{
     ""title"": ""Venus de Milo"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Paris, March-May 1886"",
     ""details"": ""chalk on paper, 47.6 cm x 31.5 cm"",
@@ -1528,8 +2281,21 @@ d0402V1962v,Venus de Milo,https://vangoghmuseum.nl/en/collection/d0402V1962v,htt
     ""Provenance"": ""Left by the artist at the apartment of his brother Theo van Gogh, Paris, sometime between October 1886 and January 1887; after Theos death on 25 January 1891, inherited by his widow, Jo van Gogh-Bonger, and their son, Vincent Willem van Gogh, Paris; administered until her death on 2 September 1925 by Jo van Gogh-Bonger, Bussum/Amsterdam/Laren; transferred by Vincent Willem van Gogh, Laren, on 10 July 1962 to the Vincent van Gogh Foundation, Amsterdam; agreement concluded on 21 July 1962 between the Vincent van Gogh Foundation and the State of the Netherlands, in which the preservation and management of the collection, and its placing in the Rijksmuseum Vincent van Gogh, to be realized in Amsterdam, is entrusted to the State; given on loan until the opening of the museum on 2 June 1973 to the Stedelijk Museum, Amsterdam; on permanent loan to the Rijksmuseum Vincent van Gogh from 2 June 1973 and at the Van Gogh Museum, Amsterdam, since 1 July 1994."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits (obliged to state)"": ""Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation)""
-}",{},60,40
-d1125S2005,The Daughter of Jacob Meyer (after Bargue after Holbein),https://vangoghmuseum.nl/en/collection/d1125S2005,https://vangoghmuseum.nl/asset/download/d1125S2005,TRUE,"{
+}","{}","{
+    ""rgb"": ""Data\\Img\\d0402V1962v\\vangoghmuseum-d0402V1962v-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d0402V1962v\\vangoghmuseum-d0402V1962v-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        508,
+        3
+    ],
+    ""bw"": [
+        800,
+        508
+    ]
+}"
+"d1125S2005","The Daughter of Jacob Meyer (after Bargue after Holbein)","https://vangoghmuseum.nl/en/collection/d1125S2005","https://vangoghmuseum.nl/asset/download/d1125S2005","True","{
     ""title"": ""The Daughter of Jacob Meyer (after Bargue after Holbein)"",
     ""creator-info"": ""Vincent van Gogh (1853 - 1890), Brussels, October 1880-April 1881"",
     ""details"": ""pencil on paper, 42.6 cm x 30.5 cm"",
@@ -1551,4 +2317,17 @@ d1125S2005,The Daughter of Jacob Meyer (after Bargue after Holbein),https://vang
     ""Provenance"": ""Bought by H.P. Bremmer, The Hague, sometime between 1914 and 1920; after his death on 10 January 1956 with the heirs Bremmer, The Hague; with his son F. Bremmer, The Hague, c. 1960; after his death on 4 November 1981 inherited by his widow A.A. Bremmer-Hollmann, The Hague; after her death in 1989 bequeathed to her inheritance; 12 December 1990 sale Amsterdam, Christies (Impressionist and modern art from the collection of the late Mrs. A.A. Bremmer-Hollmann, The Hague), lot 254 (Jacob Meyers daughter-after Hans Holbein), bought by Blondeau Fine Art Services, Geneve for NLG 74.750; 2004 sold by Blondeau Fine Art Services to Annet Gelink Gallery, Amsterdam, 2004; sold by Annet Gelink Gallery to the Van Gogh Museum and the Kroller Muller Museum, 2005."",
     ""artist"": ""Vincent van Gogh"",
     ""Credits"": ""Kroller Muller Museum, Otterlo and Van Gogh Museum, Amsterdam (purchased with support from the BankGiro Loterij)""
-}",{},61,39
+}","{}","{
+    ""rgb"": ""Data\\Img\\d1125S2005\\vangoghmuseum-d1125S2005-800-rgb.jpg"",
+    ""bw"": ""Data\\Img\\d1125S2005\\vangoghmuseum-d1125S2005-800-bw.jpg""
+}","{
+    ""rgb"": [
+        800,
+        570,
+        3
+    ],
+    ""bw"": [
+        800,
+        570
+    ]
+}"

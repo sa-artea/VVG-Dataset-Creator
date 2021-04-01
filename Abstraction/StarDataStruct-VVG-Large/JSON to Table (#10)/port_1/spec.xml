@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="15"/>
+<entry key="number_columns" type="xint" value="14"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -15,18 +15,6 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_1">
-<entry key="column_name" type="xstring" value="unnamed"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.json.JSONCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_2">
 <entry key="column_name" type="xstring" value="F-number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -38,7 +26,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_3">
+<config key="column_spec_2">
 <entry key="column_name" type="xstring" value="JH-number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -50,7 +38,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_4">
+<config key="column_spec_3">
 <entry key="column_name" type="xstring" value="Object number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -62,7 +50,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_5">
+<config key="column_spec_4">
 <entry key="column_name" type="xstring" value="Dimensions"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -74,7 +62,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_6">
+<config key="column_spec_5">
 <entry key="column_name" type="xstring" value="Provenance"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -86,7 +74,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_7">
+<config key="column_spec_6">
 <entry key="column_name" type="xstring" value="artist"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -108,7 +96,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_8">
+<config key="column_spec_7">
 <entry key="column_name" type="xstring" value="Credits (obliged to state)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -166,7 +154,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_9">
+<config key="column_spec_8">
 <entry key="column_name" type="xstring" value="Credits"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -218,8 +206,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_10">
-<entry key="column_name" type="xstring" value="&lt;empty_1&gt;"/>
+<config key="column_spec_9">
+<entry key="column_name" type="xstring" value="&lt;empty_5&gt;"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -240,7 +228,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_11">
+<config key="column_spec_10">
 <entry key="column_name" type="xstring" value="Edition"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -304,7 +292,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_12">
+<config key="column_spec_11">
 <entry key="column_name" type="xstring" value="designer"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -326,7 +314,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_13">
+<config key="column_spec_12">
 <entry key="column_name" type="xstring" value="printmaker"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -354,7 +342,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_14">
+<config key="column_spec_13">
 <entry key="column_name" type="xstring" value="printer"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>

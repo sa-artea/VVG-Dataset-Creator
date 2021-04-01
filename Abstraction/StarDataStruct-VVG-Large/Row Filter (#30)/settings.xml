@@ -12,7 +12,7 @@
 <entry key="include" type="xboolean" value="false"/>
 <entry key="deepFiltering" type="xboolean" value="false"/>
 <entry key="CaseSensitive" type="xboolean" value="true"/>
-<entry key="Pattern" type="xstring" value="False"/>
+<entry key="Pattern" type="xstring" value="false"/>
 <entry key="hasWildCards" type="xboolean" value="false"/>
 <entry key="isRegExpr" type="xboolean" value="false"/>
 </config>
@@ -38,11 +38,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Row Filter"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -52,12 +52,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 964, Cols: 7"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 929, Cols: 9"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="89c80f9b-0cb4-4131-a749-6aa1502aae29"/>
+<entry key="file_store_id" type="xstring" value="ef3789a0-bcfa-4495-b1d4-8dabe5429d5a"/>
 </config>
 </config>

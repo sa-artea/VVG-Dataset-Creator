@@ -108,7 +108,7 @@
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.json.JSONCell"/>
 </config>
 <config key="column_domain"/>
 <config key="column_properties"/>
@@ -120,7 +120,7 @@
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.json.JSONCell"/>
 </config>
 <config key="column_domain"/>
 <config key="column_properties"/>

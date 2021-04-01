@@ -15,7 +15,7 @@
 <entry key="2" type="xstring" value="Nuenen"/>
 <entry key="3" type="xstring" value="painting"/>
 <entry key="4" type="xstring" value="study"/>
-<entry key="5" type="xstring" value="figure representation"/>
+<entry key="5" type="xstring" value="figure (representation)"/>
 <entry key="6" type="xstring" value="heads"/>
 <entry key="7" type="xstring" value="Vincent van Gogh"/>
 <entry key="8" type="xstring" value="Antwerp"/>
@@ -29,10 +29,10 @@
 <entry key="16" type="xstring" value="animal art"/>
 <entry key="17" type="xstring" value="drawing"/>
 <entry key="18" type="xstring" value="1890"/>
-<entry key="19" type="xstring" value="AuverssurOise"/>
+<entry key="19" type="xstring" value="Auvers-sur-Oise"/>
 <entry key="20" type="xstring" value="cityscape"/>
-<entry key="21" type="xstring" value="landscape representation"/>
-<entry key="22" type="xstring" value="1871  1880"/>
+<entry key="21" type="xstring" value="landscape (representation)"/>
+<entry key="22" type="xstring" value="1871 - 1880"/>
 <entry key="23" type="xstring" value="1881"/>
 <entry key="24" type="xstring" value="Brussels"/>
 </config>
@@ -78,11 +78,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Column Filter"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -92,12 +92,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 21"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 25"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="39290103-4e4c-4da4-bfc1-3e8705c3005e"/>
+<entry key="file_store_id" type="xstring" value="7b0a3b14-da1f-4d41-a7cf-0634811678c0"/>
 </config>
 </config>

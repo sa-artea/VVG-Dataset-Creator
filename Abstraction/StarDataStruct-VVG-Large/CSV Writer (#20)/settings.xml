@@ -80,7 +80,7 @@
 <entry key="custom_comment_text" type="xstring" value=""/>
 </config>
 <config key="encoding">
-<entry key="character_set" type="xstring" isnull="true" value=""/>
+<entry key="character_set" type="xstring" value="UTF-8"/>
 </config>
 </config>
 <config key="nodeAnnotation">
@@ -104,11 +104,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
 <config key="factory_settings"/>
 <config key="node_creation_config">
 <config key="File System Connection"/>
@@ -120,6 +120,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="9da52678-8512-43ba-aacc-044db86536a8"/>
+<entry key="file_store_id" type="xstring" value="be0b83cd-8d52-4eae-8f36-afe3e3c1347e"/>
 </config>
 </config>

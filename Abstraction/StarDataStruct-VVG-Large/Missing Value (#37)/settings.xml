@@ -103,6 +103,70 @@
 </config>
 </config>
 </config>
+<config key="6">
+<config key="colNames">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="Edition"/>
+</config>
+<config key="settings">
+<entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory"/>
+<config key="settings">
+<config key="fixStringValue_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="fixStringValue" type="xstring" value="Unknown"/>
+</config>
+</config>
+</config>
+<config key="7">
+<config key="colNames">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="designer"/>
+</config>
+<config key="settings">
+<entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory"/>
+<config key="settings">
+<config key="fixStringValue_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="fixStringValue" type="xstring" value="Unknown"/>
+</config>
+</config>
+</config>
+<config key="8">
+<config key="colNames">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="printmaker"/>
+</config>
+<config key="settings">
+<entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory"/>
+<config key="settings">
+<config key="fixStringValue_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="fixStringValue" type="xstring" value="Unknown"/>
+</config>
+</config>
+</config>
+<config key="9">
+<config key="colNames">
+<entry key="array-size" type="xint" value="1"/>
+<entry key="0" type="xstring" value="printer"/>
+</config>
+<config key="settings">
+<entry key="factoryID" type="xstring" value="org.knime.base.node.preproc.pmml.missingval.handlers.FixedStringValueMissingCellHandlerFactory"/>
+<config key="settings">
+<config key="fixStringValue_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="fixStringValue" type="xstring" value="Unknown"/>
+</config>
+</config>
+</config>
 </config>
 <config key="dataTypeSettings">
 <config key="org.knime.core.data.def.StringCell">
@@ -132,11 +196,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Missing Value"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -146,7 +210,7 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 964, Cols: 7"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 929, Cols: 11"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 <config key="port_2">
@@ -161,6 +225,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="1615cfbd-bf7c-4992-97ac-0e8455a437b2"/>
+<entry key="file_store_id" type="xstring" value="59d53613-54f0-414f-8a44-a548e0d7d7c1"/>
 </config>
 </config>

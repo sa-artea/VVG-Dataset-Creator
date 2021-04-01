@@ -10,7 +10,7 @@
 <entry key="root_path_Internals" type="xstring" value="\Data\Star\Small\VVG-Star-Gallery-Collection.csv"/>
 <config key="datatable_spec_Internals">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="60"/>
+<entry key="number_columns" type="xint" value="66"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="ID"/>
 <config key="element_names">
@@ -84,114 +84,6 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_6">
-<entry key="column_name" type="xstring" value="complementary colours"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_7">
-<entry key="column_name" type="xstring" value="this torso of Venus"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_8">
-<entry key="column_name" type="xstring" value="drew"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_9">
-<entry key="column_name" type="xstring" value="Van Gogh wrote"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_10">
-<entry key="column_name" type="xstring" value="standing torso of Venus"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_11">
-<entry key="column_name" type="xstring" value="he wrote"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_12">
-<entry key="column_name" type="xstring" value="The Potato Eaters"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_13">
-<entry key="column_name" type="xstring" value="which he painted a number of times"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_14">
-<entry key="column_name" type="xstring" value="He would use this technique more than once in his later work"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_15">
 <entry key="column_name" type="xstring" value="F-number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -203,7 +95,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_16">
+<config key="column_spec_7">
 <entry key="column_name" type="xstring" value="JH-number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -215,7 +107,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_17">
+<config key="column_spec_8">
 <entry key="column_name" type="xstring" value="Object number"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -227,7 +119,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_18">
+<config key="column_spec_9">
 <entry key="column_name" type="xstring" value="Dimensions"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -239,7 +131,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_19">
+<config key="column_spec_10">
 <entry key="column_name" type="xstring" value="Provenance"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -251,8 +143,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_20">
-<entry key="column_name" type="xstring" value="Head of a Woman"/>
+<config key="column_spec_11">
+<entry key="column_name" type="xstring" value="rgb_img"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -263,8 +155,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_21">
-<entry key="column_name" type="xstring" value="Head of a Man"/>
+<config key="column_spec_12">
+<entry key="column_name" type="xstring" value="bw_img"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -275,8 +167,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_22">
-<entry key="column_name" type="xstring" value="Head of a Woman 1"/>
+<config key="column_spec_13">
+<entry key="column_name" type="xstring" value="rgb_shape"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -287,8 +179,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_23">
-<entry key="column_name" type="xstring" value="Head of a Woman 2"/>
+<config key="column_spec_14">
+<entry key="column_name" type="xstring" value="bw_shape"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -299,235 +191,7 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_24">
-<entry key="column_name" type="xstring" value="Head of a Woman 3"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_25">
-<entry key="column_name" type="xstring" value="Torso of Venus"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_26">
-<entry key="column_name" type="xstring" value="Horse"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_27">
-<entry key="column_name" type="xstring" value="Torso of Venus 1"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_28">
-<entry key="column_name" type="xstring" value="Male Torso"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_29">
-<entry key="column_name" type="xstring" value="Kneeling Ecorche"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_30">
-<entry key="column_name" type="xstring" value="Torso of Venus 2"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_31">
-<entry key="column_name" type="xstring" value="Portrait of a Prostitute"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_32">
-<entry key="column_name" type="xstring" value="Head of an Old Man"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_33">
-<entry key="column_name" type="xstring" value="Head of a Woman 4"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_34">
-<entry key="column_name" type="xstring" value="Plaster Cast of a Womans Torso"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_35">
-<entry key="column_name" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_36">
-<entry key="column_name" type="xstring" value="Torso of Venus 3"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_37">
-<entry key="column_name" type="xstring" value="Woman Sewing"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_38">
-<entry key="column_name" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_39">
-<entry key="column_name" type="xstring" value="Head of a Prostitute"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_40">
-<entry key="column_name" type="xstring" value="1885"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_41">
-<entry key="column_name" type="xstring" value="Nuenen"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_42">
-<entry key="column_name" type="xstring" value="painting"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-</config>
-<config key="column_domain"/>
-<config key="column_properties"/>
-<config key="meta_data"/>
-</config>
-<config key="column_spec_43">
+<config key="column_spec_15">
 <entry key="column_name" type="xstring" value="heads"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -539,8 +203,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_44">
-<entry key="column_name" type="xstring" value="Antwerp"/>
+<config key="column_spec_16">
+<entry key="column_name" type="xstring" value="Head of a Woman"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -551,8 +215,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_45">
-<entry key="column_name" type="xstring" value="portrait"/>
+<config key="column_spec_17">
+<entry key="column_name" type="xstring" value="Head of a Man"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -563,8 +227,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_46">
-<entry key="column_name" type="xstring" value="1886"/>
+<config key="column_spec_18">
+<entry key="column_name" type="xstring" value="Head of a Woman 1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -575,8 +239,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_47">
-<entry key="column_name" type="xstring" value="Paris"/>
+<config key="column_spec_19">
+<entry key="column_name" type="xstring" value="Head of a Woman 2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -587,8 +251,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_48">
-<entry key="column_name" type="xstring" value="still life"/>
+<config key="column_spec_20">
+<entry key="column_name" type="xstring" value="Head of a Woman 3"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -599,8 +263,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_49">
-<entry key="column_name" type="xstring" value="nude"/>
+<config key="column_spec_21">
+<entry key="column_name" type="xstring" value="Head of a Woman 4"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -611,8 +275,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_50">
-<entry key="column_name" type="xstring" value="1884"/>
+<config key="column_spec_22">
+<entry key="column_name" type="xstring" value="Head of a Prostitute"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -623,8 +287,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_51">
-<entry key="column_name" type="xstring" value="1887"/>
+<config key="column_spec_23">
+<entry key="column_name" type="xstring" value="Head of an Old Man"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -635,8 +299,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_52">
-<entry key="column_name" type="xstring" value="animal art"/>
+<config key="column_spec_24">
+<entry key="column_name" type="xstring" value="Torso of Venus"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -647,7 +311,103 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_53">
+<config key="column_spec_25">
+<entry key="column_name" type="xstring" value="Torso of Venus 1"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_26">
+<entry key="column_name" type="xstring" value="Torso of Venus 2"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_27">
+<entry key="column_name" type="xstring" value="Torso of Venus 3"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_28">
+<entry key="column_name" type="xstring" value="this torso of Venus"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_29">
+<entry key="column_name" type="xstring" value="standing torso of Venus"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_30">
+<entry key="column_name" type="xstring" value="Plaster Cast of a Womans Torso"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_31">
+<entry key="column_name" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_32">
+<entry key="column_name" type="xstring" value="Male Torso"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_33">
 <entry key="column_name" type="xstring" value="drawing"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -659,8 +419,8 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_54">
-<entry key="column_name" type="xstring" value="1890"/>
+<config key="column_spec_34">
+<entry key="column_name" type="xstring" value="painting"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -671,7 +431,67 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_55">
+<config key="column_spec_35">
+<entry key="column_name" type="xstring" value="portrait"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_36">
+<entry key="column_name" type="xstring" value="still life"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_37">
+<entry key="column_name" type="xstring" value="nude"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_38">
+<entry key="column_name" type="xstring" value="figure (representation)"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_39">
+<entry key="column_name" type="xstring" value="landscape (representation)"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_40">
 <entry key="column_name" type="xstring" value="cityscape"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -683,7 +503,175 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
-<config key="column_spec_56">
+<config key="column_spec_41">
+<entry key="column_name" type="xstring" value="animal art"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_42">
+<entry key="column_name" type="xstring" value="Horse"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_43">
+<entry key="column_name" type="xstring" value="Kneeling Ecorche"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_44">
+<entry key="column_name" type="xstring" value="Portrait of a Prostitute"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_45">
+<entry key="column_name" type="xstring" value="Woman Sewing"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_46">
+<entry key="column_name" type="xstring" value="The Potato Eaters"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_47">
+<entry key="column_name" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_48">
+<entry key="column_name" type="xstring" value="Van Gogh wrote"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_49">
+<entry key="column_name" type="xstring" value="he wrote"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_50">
+<entry key="column_name" type="xstring" value="drew"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_51">
+<entry key="column_name" type="xstring" value="complementary colours"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_52">
+<entry key="column_name" type="xstring" value="which he painted a number of times"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_53">
+<entry key="column_name" type="xstring" value="He would use this technique more than once in his later work"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_54">
+<entry key="column_name" type="xstring" value="1871 - 1880"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_55">
 <entry key="column_name" type="xstring" value="1881"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -695,8 +683,20 @@
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
+<config key="column_spec_56">
+<entry key="column_name" type="xstring" value="1884"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
 <config key="column_spec_57">
-<entry key="column_name" type="xstring" value="Brussels"/>
+<entry key="column_name" type="xstring" value="1885"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -708,24 +708,96 @@
 <config key="meta_data"/>
 </config>
 <config key="column_spec_58">
-<entry key="column_name" type="xstring" value="IMG_DATA"/>
+<entry key="column_name" type="xstring" value="1886"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
 </config>
 <config key="column_domain"/>
 <config key="column_properties"/>
 <config key="meta_data"/>
 </config>
 <config key="column_spec_59">
-<entry key="column_name" type="xstring" value="IMG_SHAPE"/>
+<entry key="column_name" type="xstring" value="1887"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_60">
+<entry key="column_name" type="xstring" value="1890"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_61">
+<entry key="column_name" type="xstring" value="Nuenen"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_62">
+<entry key="column_name" type="xstring" value="Antwerp"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_63">
+<entry key="column_name" type="xstring" value="Paris"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_64">
+<entry key="column_name" type="xstring" value="Auvers-sur-Oise"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+<config key="meta_data"/>
+</config>
+<config key="column_spec_65">
+<entry key="column_name" type="xstring" value="Brussels"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
 </config>
 <config key="column_domain"/>
 <config key="column_properties"/>
@@ -738,67 +810,73 @@
 </config>
 <config key="individual_specs_Internals">
 <config key="individual_spec_0">
-<entry key="array-size" type="xint" value="60"/>
+<entry key="array-size" type="xint" value="66"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="creator-info"/>
 <entry key="3" type="xstring" value="details"/>
 <entry key="4" type="xstring" value="credit"/>
 <entry key="5" type="xstring" value="section"/>
-<entry key="6" type="xstring" value="complementary colours"/>
-<entry key="7" type="xstring" value="this torso of Venus"/>
-<entry key="8" type="xstring" value="drew"/>
-<entry key="9" type="xstring" value="Van Gogh wrote"/>
-<entry key="10" type="xstring" value="standing torso of Venus"/>
-<entry key="11" type="xstring" value="he wrote"/>
-<entry key="12" type="xstring" value="The Potato Eaters"/>
-<entry key="13" type="xstring" value="which he painted a number of times"/>
-<entry key="14" type="xstring" value="He would use this technique more than once in his later work"/>
-<entry key="15" type="xstring" value="F-number"/>
-<entry key="16" type="xstring" value="JH-number"/>
-<entry key="17" type="xstring" value="Object number"/>
-<entry key="18" type="xstring" value="Dimensions"/>
-<entry key="19" type="xstring" value="Provenance"/>
-<entry key="20" type="xstring" value="Head of a Woman"/>
-<entry key="21" type="xstring" value="Head of a Man"/>
-<entry key="22" type="xstring" value="Head of a Woman 1"/>
-<entry key="23" type="xstring" value="Head of a Woman 2"/>
-<entry key="24" type="xstring" value="Head of a Woman 3"/>
-<entry key="25" type="xstring" value="Torso of Venus"/>
-<entry key="26" type="xstring" value="Horse"/>
-<entry key="27" type="xstring" value="Torso of Venus 1"/>
-<entry key="28" type="xstring" value="Male Torso"/>
-<entry key="29" type="xstring" value="Kneeling Ecorche"/>
-<entry key="30" type="xstring" value="Torso of Venus 2"/>
-<entry key="31" type="xstring" value="Portrait of a Prostitute"/>
-<entry key="32" type="xstring" value="Head of an Old Man"/>
-<entry key="33" type="xstring" value="Head of a Woman 4"/>
-<entry key="34" type="xstring" value="Plaster Cast of a Womans Torso"/>
-<entry key="35" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
-<entry key="36" type="xstring" value="Torso of Venus 3"/>
-<entry key="37" type="xstring" value="Woman Sewing"/>
-<entry key="38" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
-<entry key="39" type="xstring" value="Head of a Prostitute"/>
-<entry key="40" type="xstring" value="1885"/>
-<entry key="41" type="xstring" value="Nuenen"/>
-<entry key="42" type="xstring" value="painting"/>
-<entry key="43" type="xstring" value="heads"/>
-<entry key="44" type="xstring" value="Antwerp"/>
-<entry key="45" type="xstring" value="portrait"/>
-<entry key="46" type="xstring" value="1886"/>
-<entry key="47" type="xstring" value="Paris"/>
-<entry key="48" type="xstring" value="still life"/>
-<entry key="49" type="xstring" value="nude"/>
-<entry key="50" type="xstring" value="1884"/>
-<entry key="51" type="xstring" value="1887"/>
-<entry key="52" type="xstring" value="animal art"/>
-<entry key="53" type="xstring" value="drawing"/>
-<entry key="54" type="xstring" value="1890"/>
-<entry key="55" type="xstring" value="cityscape"/>
-<entry key="56" type="xstring" value="1881"/>
-<entry key="57" type="xstring" value="Brussels"/>
-<entry key="58" type="xstring" value="IMG_DATA"/>
-<entry key="59" type="xstring" value="IMG_SHAPE"/>
+<entry key="6" type="xstring" value="F-number"/>
+<entry key="7" type="xstring" value="JH-number"/>
+<entry key="8" type="xstring" value="Object number"/>
+<entry key="9" type="xstring" value="Dimensions"/>
+<entry key="10" type="xstring" value="Provenance"/>
+<entry key="11" type="xstring" value="rgb_img"/>
+<entry key="12" type="xstring" value="bw_img"/>
+<entry key="13" type="xstring" value="rgb_shape"/>
+<entry key="14" type="xstring" value="bw_shape"/>
+<entry key="15" type="xstring" value="heads"/>
+<entry key="16" type="xstring" value="Head of a Woman"/>
+<entry key="17" type="xstring" value="Head of a Man"/>
+<entry key="18" type="xstring" value="Head of a Woman 1"/>
+<entry key="19" type="xstring" value="Head of a Woman 2"/>
+<entry key="20" type="xstring" value="Head of a Woman 3"/>
+<entry key="21" type="xstring" value="Head of a Woman 4"/>
+<entry key="22" type="xstring" value="Head of a Prostitute"/>
+<entry key="23" type="xstring" value="Head of an Old Man"/>
+<entry key="24" type="xstring" value="Torso of Venus"/>
+<entry key="25" type="xstring" value="Torso of Venus 1"/>
+<entry key="26" type="xstring" value="Torso of Venus 2"/>
+<entry key="27" type="xstring" value="Torso of Venus 3"/>
+<entry key="28" type="xstring" value="this torso of Venus"/>
+<entry key="29" type="xstring" value="standing torso of Venus"/>
+<entry key="30" type="xstring" value="Plaster Cast of a Womans Torso"/>
+<entry key="31" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
+<entry key="32" type="xstring" value="Male Torso"/>
+<entry key="33" type="xstring" value="drawing"/>
+<entry key="34" type="xstring" value="painting"/>
+<entry key="35" type="xstring" value="portrait"/>
+<entry key="36" type="xstring" value="still life"/>
+<entry key="37" type="xstring" value="nude"/>
+<entry key="38" type="xstring" value="figure (representation)"/>
+<entry key="39" type="xstring" value="landscape (representation)"/>
+<entry key="40" type="xstring" value="cityscape"/>
+<entry key="41" type="xstring" value="animal art"/>
+<entry key="42" type="xstring" value="Horse"/>
+<entry key="43" type="xstring" value="Kneeling Ecorche"/>
+<entry key="44" type="xstring" value="Portrait of a Prostitute"/>
+<entry key="45" type="xstring" value="Woman Sewing"/>
+<entry key="46" type="xstring" value="The Potato Eaters"/>
+<entry key="47" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
+<entry key="48" type="xstring" value="Van Gogh wrote"/>
+<entry key="49" type="xstring" value="he wrote"/>
+<entry key="50" type="xstring" value="drew"/>
+<entry key="51" type="xstring" value="complementary colours"/>
+<entry key="52" type="xstring" value="which he painted a number of times"/>
+<entry key="53" type="xstring" value="He would use this technique more than once in his later work"/>
+<entry key="54" type="xstring" value="1871 - 1880"/>
+<entry key="55" type="xstring" value="1881"/>
+<entry key="56" type="xstring" value="1884"/>
+<entry key="57" type="xstring" value="1885"/>
+<entry key="58" type="xstring" value="1886"/>
+<entry key="59" type="xstring" value="1887"/>
+<entry key="60" type="xstring" value="1890"/>
+<entry key="61" type="xstring" value="Nuenen"/>
+<entry key="62" type="xstring" value="Antwerp"/>
+<entry key="63" type="xstring" value="Paris"/>
+<entry key="64" type="xstring" value="Auvers-sur-Oise"/>
+<entry key="65" type="xstring" value="Brussels"/>
 </config>
 </config>
 <config key="production_paths_Internals">
@@ -1382,93 +1460,159 @@
 <entry key="production_path_57_producer_dst" type="xstring" value="java.lang.String"/>
 <entry key="production_path_57_producer_name" type="xstring" value="java.lang.String"/>
 <config key="production_path_57_producer_config"/>
-<entry key="production_path_58_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
-<entry key="production_path_58_converter_src" type="xstring" value="java.lang.Integer"/>
-<entry key="production_path_58_converter_dst" type="xstring" value="Number (integer)"/>
-<entry key="production_path_58_converter_name" type="xstring" value="Integer"/>
+<entry key="production_path_58_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_58_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_58_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_58_converter_name" type="xstring" value="String"/>
 <config key="production_path_58_converter_config"/>
-<entry key="production_path_58_producer" type="xstring" value="class java.lang.Integer-&gt;java.lang.Integer"/>
-<entry key="production_path_58_producer_src" type="xstring" value="java.lang.Integer"/>
-<entry key="production_path_58_producer_dst" type="xstring" value="java.lang.Integer"/>
-<entry key="production_path_58_producer_name" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_58_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_58_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_58_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_58_producer_name" type="xstring" value="java.lang.String"/>
 <config key="production_path_58_producer_config"/>
-<entry key="production_path_59_converter" type="xstring" value="org.knime.core.data.def.IntCell$IntCellFactory.create(class java.lang.Integer)"/>
-<entry key="production_path_59_converter_src" type="xstring" value="java.lang.Integer"/>
-<entry key="production_path_59_converter_dst" type="xstring" value="Number (integer)"/>
-<entry key="production_path_59_converter_name" type="xstring" value="Integer"/>
+<entry key="production_path_59_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_59_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_59_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_59_converter_name" type="xstring" value="String"/>
 <config key="production_path_59_converter_config"/>
-<entry key="production_path_59_producer" type="xstring" value="class java.lang.Integer-&gt;java.lang.Integer"/>
-<entry key="production_path_59_producer_src" type="xstring" value="java.lang.Integer"/>
-<entry key="production_path_59_producer_dst" type="xstring" value="java.lang.Integer"/>
-<entry key="production_path_59_producer_name" type="xstring" value="java.lang.Integer"/>
+<entry key="production_path_59_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_59_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_59_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_59_producer_name" type="xstring" value="java.lang.String"/>
 <config key="production_path_59_producer_config"/>
-<entry key="num_production_paths_Internals" type="xint" value="60"/>
+<entry key="production_path_60_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_60_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_60_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_60_converter_name" type="xstring" value="String"/>
+<config key="production_path_60_converter_config"/>
+<entry key="production_path_60_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_60_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_60_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_60_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_60_producer_config"/>
+<entry key="production_path_61_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_61_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_61_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_61_converter_name" type="xstring" value="String"/>
+<config key="production_path_61_converter_config"/>
+<entry key="production_path_61_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_61_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_61_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_61_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_61_producer_config"/>
+<entry key="production_path_62_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_62_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_62_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_62_converter_name" type="xstring" value="String"/>
+<config key="production_path_62_converter_config"/>
+<entry key="production_path_62_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_62_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_62_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_62_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_62_producer_config"/>
+<entry key="production_path_63_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_63_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_63_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_63_converter_name" type="xstring" value="String"/>
+<config key="production_path_63_converter_config"/>
+<entry key="production_path_63_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_63_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_63_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_63_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_63_producer_config"/>
+<entry key="production_path_64_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_64_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_64_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_64_converter_name" type="xstring" value="String"/>
+<config key="production_path_64_converter_config"/>
+<entry key="production_path_64_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_64_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_64_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_64_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_64_producer_config"/>
+<entry key="production_path_65_converter" type="xstring" value="org.knime.core.data.def.StringCell$StringCellFactory.createCell(class java.lang.String)"/>
+<entry key="production_path_65_converter_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_65_converter_dst" type="xstring" value="String"/>
+<entry key="production_path_65_converter_name" type="xstring" value="String"/>
+<config key="production_path_65_converter_config"/>
+<entry key="production_path_65_producer" type="xstring" value="class java.lang.String-&gt;java.lang.String"/>
+<entry key="production_path_65_producer_src" type="xstring" value="java.lang.String"/>
+<entry key="production_path_65_producer_dst" type="xstring" value="java.lang.String"/>
+<entry key="production_path_65_producer_name" type="xstring" value="java.lang.String"/>
+<config key="production_path_65_producer_config"/>
+<entry key="num_production_paths_Internals" type="xint" value="66"/>
 </config>
 <config key="original_names_Internals">
-<entry key="array-size" type="xint" value="60"/>
+<entry key="array-size" type="xint" value="66"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="creator-info"/>
 <entry key="3" type="xstring" value="details"/>
 <entry key="4" type="xstring" value="credit"/>
 <entry key="5" type="xstring" value="section"/>
-<entry key="6" type="xstring" value="complementary colours"/>
-<entry key="7" type="xstring" value="this torso of Venus"/>
-<entry key="8" type="xstring" value="drew"/>
-<entry key="9" type="xstring" value="Van Gogh wrote"/>
-<entry key="10" type="xstring" value="standing torso of Venus"/>
-<entry key="11" type="xstring" value="he wrote"/>
-<entry key="12" type="xstring" value="The Potato Eaters"/>
-<entry key="13" type="xstring" value="which he painted a number of times"/>
-<entry key="14" type="xstring" value="He would use this technique more than once in his later work"/>
-<entry key="15" type="xstring" value="F-number"/>
-<entry key="16" type="xstring" value="JH-number"/>
-<entry key="17" type="xstring" value="Object number"/>
-<entry key="18" type="xstring" value="Dimensions"/>
-<entry key="19" type="xstring" value="Provenance"/>
-<entry key="20" type="xstring" value="Head of a Woman"/>
-<entry key="21" type="xstring" value="Head of a Man"/>
-<entry key="22" type="xstring" value="Head of a Woman 1"/>
-<entry key="23" type="xstring" value="Head of a Woman 2"/>
-<entry key="24" type="xstring" value="Head of a Woman 3"/>
-<entry key="25" type="xstring" value="Torso of Venus"/>
-<entry key="26" type="xstring" value="Horse"/>
-<entry key="27" type="xstring" value="Torso of Venus 1"/>
-<entry key="28" type="xstring" value="Male Torso"/>
-<entry key="29" type="xstring" value="Kneeling Ecorche"/>
-<entry key="30" type="xstring" value="Torso of Venus 2"/>
-<entry key="31" type="xstring" value="Portrait of a Prostitute"/>
-<entry key="32" type="xstring" value="Head of an Old Man"/>
-<entry key="33" type="xstring" value="Head of a Woman 4"/>
-<entry key="34" type="xstring" value="Plaster Cast of a Womans Torso"/>
-<entry key="35" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
-<entry key="36" type="xstring" value="Torso of Venus 3"/>
-<entry key="37" type="xstring" value="Woman Sewing"/>
-<entry key="38" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
-<entry key="39" type="xstring" value="Head of a Prostitute"/>
-<entry key="40" type="xstring" value="1885"/>
-<entry key="41" type="xstring" value="Nuenen"/>
-<entry key="42" type="xstring" value="painting"/>
-<entry key="43" type="xstring" value="heads"/>
-<entry key="44" type="xstring" value="Antwerp"/>
-<entry key="45" type="xstring" value="portrait"/>
-<entry key="46" type="xstring" value="1886"/>
-<entry key="47" type="xstring" value="Paris"/>
-<entry key="48" type="xstring" value="still life"/>
-<entry key="49" type="xstring" value="nude"/>
-<entry key="50" type="xstring" value="1884"/>
-<entry key="51" type="xstring" value="1887"/>
-<entry key="52" type="xstring" value="animal art"/>
-<entry key="53" type="xstring" value="drawing"/>
-<entry key="54" type="xstring" value="1890"/>
-<entry key="55" type="xstring" value="cityscape"/>
-<entry key="56" type="xstring" value="1881"/>
-<entry key="57" type="xstring" value="Brussels"/>
-<entry key="58" type="xstring" value="IMG_DATA"/>
-<entry key="59" type="xstring" value="IMG_SHAPE"/>
+<entry key="6" type="xstring" value="F-number"/>
+<entry key="7" type="xstring" value="JH-number"/>
+<entry key="8" type="xstring" value="Object number"/>
+<entry key="9" type="xstring" value="Dimensions"/>
+<entry key="10" type="xstring" value="Provenance"/>
+<entry key="11" type="xstring" value="rgb_img"/>
+<entry key="12" type="xstring" value="bw_img"/>
+<entry key="13" type="xstring" value="rgb_shape"/>
+<entry key="14" type="xstring" value="bw_shape"/>
+<entry key="15" type="xstring" value="heads"/>
+<entry key="16" type="xstring" value="Head of a Woman"/>
+<entry key="17" type="xstring" value="Head of a Man"/>
+<entry key="18" type="xstring" value="Head of a Woman 1"/>
+<entry key="19" type="xstring" value="Head of a Woman 2"/>
+<entry key="20" type="xstring" value="Head of a Woman 3"/>
+<entry key="21" type="xstring" value="Head of a Woman 4"/>
+<entry key="22" type="xstring" value="Head of a Prostitute"/>
+<entry key="23" type="xstring" value="Head of an Old Man"/>
+<entry key="24" type="xstring" value="Torso of Venus"/>
+<entry key="25" type="xstring" value="Torso of Venus 1"/>
+<entry key="26" type="xstring" value="Torso of Venus 2"/>
+<entry key="27" type="xstring" value="Torso of Venus 3"/>
+<entry key="28" type="xstring" value="this torso of Venus"/>
+<entry key="29" type="xstring" value="standing torso of Venus"/>
+<entry key="30" type="xstring" value="Plaster Cast of a Womans Torso"/>
+<entry key="31" type="xstring" value="Plaster Cast of a Womans Torso 1"/>
+<entry key="32" type="xstring" value="Male Torso"/>
+<entry key="33" type="xstring" value="drawing"/>
+<entry key="34" type="xstring" value="painting"/>
+<entry key="35" type="xstring" value="portrait"/>
+<entry key="36" type="xstring" value="still life"/>
+<entry key="37" type="xstring" value="nude"/>
+<entry key="38" type="xstring" value="figure (representation)"/>
+<entry key="39" type="xstring" value="landscape (representation)"/>
+<entry key="40" type="xstring" value="cityscape"/>
+<entry key="41" type="xstring" value="animal art"/>
+<entry key="42" type="xstring" value="Horse"/>
+<entry key="43" type="xstring" value="Kneeling Ecorche"/>
+<entry key="44" type="xstring" value="Portrait of a Prostitute"/>
+<entry key="45" type="xstring" value="Woman Sewing"/>
+<entry key="46" type="xstring" value="The Potato Eaters"/>
+<entry key="47" type="xstring" value="Letter from Vincent van Gogh to Theo van Gogh with sketches of Head of a Woman and Head of a Woman"/>
+<entry key="48" type="xstring" value="Van Gogh wrote"/>
+<entry key="49" type="xstring" value="he wrote"/>
+<entry key="50" type="xstring" value="drew"/>
+<entry key="51" type="xstring" value="complementary colours"/>
+<entry key="52" type="xstring" value="which he painted a number of times"/>
+<entry key="53" type="xstring" value="He would use this technique more than once in his later work"/>
+<entry key="54" type="xstring" value="1871 - 1880"/>
+<entry key="55" type="xstring" value="1881"/>
+<entry key="56" type="xstring" value="1884"/>
+<entry key="57" type="xstring" value="1885"/>
+<entry key="58" type="xstring" value="1886"/>
+<entry key="59" type="xstring" value="1887"/>
+<entry key="60" type="xstring" value="1890"/>
+<entry key="61" type="xstring" value="Nuenen"/>
+<entry key="62" type="xstring" value="Antwerp"/>
+<entry key="63" type="xstring" value="Paris"/>
+<entry key="64" type="xstring" value="Auvers-sur-Oise"/>
+<entry key="65" type="xstring" value="Brussels"/>
 </config>
 <config key="positional_mapping_Internals">
-<entry key="array-size" type="xint" value="60"/>
+<entry key="array-size" type="xint" value="66"/>
 <entry key="0" type="xint" value="0"/>
 <entry key="1" type="xint" value="1"/>
 <entry key="2" type="xint" value="2"/>
@@ -1529,9 +1673,15 @@
 <entry key="57" type="xint" value="57"/>
 <entry key="58" type="xint" value="58"/>
 <entry key="59" type="xint" value="59"/>
+<entry key="60" type="xint" value="60"/>
+<entry key="61" type="xint" value="61"/>
+<entry key="62" type="xint" value="62"/>
+<entry key="63" type="xint" value="63"/>
+<entry key="64" type="xint" value="64"/>
+<entry key="65" type="xint" value="65"/>
 </config>
 <config key="keep_Internals">
-<entry key="array-size" type="xint" value="60"/>
+<entry key="array-size" type="xint" value="66"/>
 <entry key="0" type="xboolean" value="true"/>
 <entry key="1" type="xboolean" value="true"/>
 <entry key="2" type="xboolean" value="true"/>
@@ -1592,8 +1742,14 @@
 <entry key="57" type="xboolean" value="true"/>
 <entry key="58" type="xboolean" value="true"/>
 <entry key="59" type="xboolean" value="true"/>
+<entry key="60" type="xboolean" value="true"/>
+<entry key="61" type="xboolean" value="true"/>
+<entry key="62" type="xboolean" value="true"/>
+<entry key="63" type="xboolean" value="true"/>
+<entry key="64" type="xboolean" value="true"/>
+<entry key="65" type="xboolean" value="true"/>
 </config>
-<entry key="unknown_column_position_Internals" type="xint" value="60"/>
+<entry key="unknown_column_position_Internals" type="xint" value="66"/>
 <entry key="include_unknown_columns_Internals" type="xboolean" value="true"/>
 <entry key="enforce_types" type="xboolean" value="true"/>
 <entry key="column_filter_mode_Internals" type="xstring" value="UNION"/>
@@ -1701,11 +1857,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
 <config key="factory_settings"/>
 <config key="node_creation_config">
 <config key="File System Connection"/>
@@ -1719,12 +1875,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 60"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 59, Cols: 66"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="2732d61a-5818-40d6-9c5f-3315adc3738f"/>
+<entry key="file_store_id" type="xstring" value="02447db9-ed15-486f-a2f1-e1512ec2e576"/>
 </config>
 </config>

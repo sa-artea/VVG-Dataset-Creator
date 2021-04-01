@@ -80,22 +80,31 @@
 <entry key="custom_comment_text" type="xstring" value=""/>
 </config>
 <config key="encoding">
-<entry key="character_set" type="xstring" isnull="true" value=""/>
+<entry key="character_set" type="xstring" value="UTF-8"/>
 </config>
 </config>
 <config key="nodeAnnotation">
-<entry key="text" type="xstring" value="Save Data-Obj Collection"/>
+<entry key="text" type="xstring" value="Save Image-Data%%00013%%00010Collection"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="552"/>
-<entry key="y-coordinate" type="xint" value="999"/>
-<entry key="width" type="xint" value="137"/>
-<entry key="height" type="xint" value="15"/>
+<entry key="x-coordinate" type="xint" value="1587"/>
+<entry key="y-coordinate" type="xint" value="1059"/>
+<entry key="width" type="xint" value="106"/>
+<entry key="height" type="xint" value="30"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
 <entry key="borderSize" type="xint" value="0"/>
 <entry key="borderColor" type="xint" value="16777215"/>
 <entry key="defFontSize" type="xint" value="9"/>
 <entry key="annotation-version" type="xint" value="20151123"/>
-<config key="styles"/>
+<config key="styles">
+<config key="style_0">
+<entry key="start" type="xint" value="5"/>
+<entry key="length" type="xint" value="12"/>
+<entry key="fontname" type="xstring" value="Arial"/>
+<entry key="fontstyle" type="xint" value="0"/>
+<entry key="fontsize" type="xint" value="9"/>
+<entry key="fgcolor" type="xint" value="0"/>
+</config>
+</config>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -104,11 +113,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
 <config key="factory_settings"/>
 <config key="node_creation_config">
 <config key="File System Connection"/>
@@ -120,6 +129,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="9e26980a-6a24-4957-9e38-184c61ad336d"/>
+<entry key="file_store_id" type="xstring" value="b2ddccf1-ec40-4944-9418-537b00d70401"/>
 </config>
 </config>

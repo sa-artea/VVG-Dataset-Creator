@@ -13,20 +13,22 @@
 <config key="aggregationColumns">
 <entry key="filter-type" type="xstring" value="name_pattern"/>
 <config key="included_names">
-<entry key="array-size" type="xint" value="6"/>
+<entry key="array-size" type="xint" value="8"/>
 <entry key="0" type="xstring" value="ID"/>
 <entry key="1" type="xstring" value="title"/>
 <entry key="2" type="xstring" value="creator-info"/>
 <entry key="3" type="xstring" value="details"/>
-<entry key="4" type="xstring" value="section"/>
-<entry key="5" type="xstring" value="Provenance"/>
+<entry key="4" type="xstring" value="credit"/>
+<entry key="5" type="xstring" value="section"/>
+<entry key="6" type="xstring" value="Dimensions"/>
+<entry key="7" type="xstring" value="Provenance"/>
 </config>
 <config key="excluded_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
 <config key="name_pattern">
-<entry key="pattern" type="xstring" value="title|credit|creator-info|details|section|Provenance"/>
+<entry key="pattern" type="xstring" value="title|credit|creator-info|details|section|Provenance|Dimensions"/>
 <entry key="type" type="xstring" value="Regex"/>
 <entry key="caseSensitive" type="xboolean" value="true"/>
 </config>
@@ -102,11 +104,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.2.v202103021015"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-version" type="xstring" value="4.3.2.v202103021015"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Column Aggregator"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -122,6 +124,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="ef57a7b3-0d6c-4bb6-9404-065d703d82f3"/>
+<entry key="file_store_id" type="xstring" value="66f8e244-b73e-4e4b-87c7-3411e804d4c5"/>
 </config>
 </config>
