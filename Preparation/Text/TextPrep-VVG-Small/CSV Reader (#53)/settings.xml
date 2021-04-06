@@ -1839,8 +1839,8 @@
 <config key="nodeAnnotation">
 <entry key="text" type="xstring" value="Read Gallery"/>
 <entry key="bgcolor" type="xint" value="16777215"/>
-<entry key="x-coordinate" type="xint" value="7"/>
-<entry key="y-coordinate" type="xint" value="379"/>
+<entry key="x-coordinate" type="xint" value="187"/>
+<entry key="y-coordinate" type="xint" value="519"/>
 <entry key="width" type="xint" value="106"/>
 <entry key="height" type="xint" value="15"/>
 <entry key="alignment" type="xstring" value="CENTER"/>
@@ -1881,6 +1881,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="02447db9-ed15-486f-a2f1-e1512ec2e576"/>
+<entry key="file_store_id" type="xstring" value="e126566f-305d-4965-908d-7904af4f4a65"/>
 </config>
 </config>
