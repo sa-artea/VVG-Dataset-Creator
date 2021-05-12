@@ -128,6 +128,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="0d8ae2ba-e893-4d41-94f7-ff8bc0e0546c"/>
+<entry key="file_store_id" type="xstring" value="667f1ae0-d3d4-4b73-99b4-99c1cc94cbb9"/>
 </config>
 </config>

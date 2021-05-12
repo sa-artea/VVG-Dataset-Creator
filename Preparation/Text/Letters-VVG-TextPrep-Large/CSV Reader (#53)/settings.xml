@@ -60823,6 +60823,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="4f5e18c0-6c1f-4794-b777-6cd71a253107"/>
+<entry key="file_store_id" type="xstring" value="702713c6-5f53-46eb-9565-d6e933291447"/>
 </config>
 </config>
