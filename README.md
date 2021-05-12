@@ -1,4 +1,4 @@
-# Vincent Van Gogh Gallery Data Preprocessor
+# Vincent van Gogh Dataset Creator
 
 This is a project to train a Machine Learning model based in the Vinvent Van
 Gogh collection data. In here the script takes the scraped data feom the
