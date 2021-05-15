@@ -7,11 +7,11 @@
 <config key="authorInformation">
 <entry key="authored-by" type="xstring" value="Maarit Laukkanen"/>
 <entry key="authored-when" type="xstring" value="2018-09-03 07:12:21 -0500"/>
-<entry key="lastEdited-by" type="xstring" value="Felipe"/>
-<entry key="lastEdited-when" type="xstring" value="2021-05-12 17:37:36 -0500"/>
+<entry key="lastEdited-by" type="xstring" value="Carlos"/>
+<entry key="lastEdited-when" type="xstring" value="2021-05-13 00:01:43 -0500"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <config key="workflow_credentials"/>
 <config key="nodes">
 <config key="node_26">
